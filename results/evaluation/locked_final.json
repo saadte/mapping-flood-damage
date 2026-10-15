@@ -1,0 +1,2577 @@
+{
+ "thame_2024f": {
+  "event": "thame_2024f",
+  "rows": {
+   "old": {
+    "f1": 0.6092,
+    "prec": 0.787,
+    "rec": 0.497,
+    "km2": 2.56,
+    "out_km2": 1.68
+   },
+   "new": {
+    "f1": 0.6662,
+    "prec": 0.765,
+    "rec": 0.59,
+    "km2": 3.45,
+    "out_km2": 2.39
+   },
+   "final": {
+    "f1": 0.6662,
+    "prec": 0.765,
+    "rec": 0.59,
+    "km2": 3.45,
+    "out_km2": 2.39
+   },
+   "old|S2D": {
+    "f1": 0.2081,
+    "prec": 0.839,
+    "rec": 0.119,
+    "km2": 0.41,
+    "out_km2": 0.21
+   },
+   "new|S2D": {
+    "f1": 0.5609,
+    "prec": 0.795,
+    "rec": 0.433,
+    "km2": 2.09,
+    "out_km2": 1.33
+   },
+   "final|S2D": {
+    "f1": 0.5609,
+    "prec": 0.795,
+    "rec": 0.433,
+    "km2": 2.09,
+    "out_km2": 1.33
+   },
+   "pipeline_likely": {
+    "f1": 0.6662,
+    "prec": 0.765,
+    "rec": 0.59,
+    "km2": 3.46,
+    "out_km2": 2.39
+   },
+   "pipeline_likely_or_possible": {
+    "f1": 0.6512,
+    "prec": 0.653,
+    "rec": 0.649,
+    "km2": 10.46,
+    "out_km2": 9.08
+   }
+  },
+  "ai": {
+   "radar_ai": {
+    "ext": {
+     "f1": 0.0517,
+     "p": 0.034,
+     "r": 0.11
+    },
+    "h40": {
+     "f1": 0.1738,
+     "p": 0.511,
+     "r": 0.105
+    }
+   },
+   "optical_ai": {
+    "ext": {
+     "f1": 0.1033,
+     "p": 0.157,
+     "r": 0.077
+    },
+    "h40": {
+     "f1": 0.1411,
+     "p": 0.549,
+     "r": 0.081
+    }
+   },
+   "multimodal_ai": {
+    "ext": {
+     "f1": 0.0774,
+     "p": 0.049,
+     "r": 0.181
+    },
+    "h40": {
+     "f1": 0.2681,
+     "p": 0.52,
+     "r": 0.181
+    }
+   },
+   "s1_rule": {
+    "ext": {
+     "f1": 0.2839,
+     "p": 0.234,
+     "r": 0.362
+    },
+    "h40": {
+     "f1": 0.4712,
+     "p": 0.651,
+     "r": 0.369
+    }
+   }
+  },
+  "stage": {
+   "S2": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.0399,
+      "pfa_high_ground": 0.0399
+     },
+     "s2": {
+      "pd": [
+       0.7,
+       0.424
+      ],
+      "pfa": 0.0616,
+      "pfa_high_ground": 0.0616
+     }
+    },
+    "n_reaches": 1009,
+    "n_flooded": 88,
+    "max_stage_m": 60.0,
+    "mean_stage_m": 19.636363983154297,
+    "filled_km2": 0.4811
+   },
+   "S2D": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.0401,
+      "pfa_high_ground": 0.0401
+     }
+    },
+    "n_reaches": 1009,
+    "n_flooded": 54,
+    "max_stage_m": 60.0,
+    "mean_stage_m": 21.44444465637207,
+    "filled_km2": 1.679
+   }
+  },
+  "secs": 173,
+  "ref_km2": 1.39,
+  "ext_km2": 27.1,
+  "summary": {
+   "timing": {
+    "dem": 97,
+    "s1": 131,
+    "geometry": 39,
+    "s1_rules": 56,
+    "s1_joint": 45,
+    "s1x": 60,
+    "s2": 175,
+    "s2_rules": 11,
+    "s2_cal": 10,
+    "dl": 539,
+    "ais2": 56,
+    "fusion": 20,
+    "osm": 111,
+    "impacts": 19,
+    "flowpath": 0,
+    "report": 27
+   },
+   "ais2": {
+    "used": true,
+    "run": "s2ai_r34_v1",
+    "device": "cpu",
+    "tta": false,
+    "composites": [
+     "pre",
+     "early",
+     "post"
+    ],
+    "first_image": "early",
+    "new_water_km2": 2.2035
+   },
+   "hazard_km2": {
+    "likely": 3.4568,
+    "possible": 7.0224,
+    "unobserved": 17.7763,
+    "likely_by_source": {
+     "s1": 0.4632,
+     "s2": 2.1736,
+     "dl": 0.4586,
+     "ai_optical": 0.7805,
+     "continuity": 0.4811
+    }
+   },
+   "stage": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.0399,
+      "pfa_high_ground": 0.0399
+     },
+     "s2": {
+      "pd": [
+       0.7,
+       0.424
+      ],
+      "pfa": 0.0616,
+      "pfa_high_ground": 0.0616
+     }
+    },
+    "n_reaches": 1009,
+    "n_flooded": 88,
+    "max_stage_m": 60.0,
+    "mean_stage_m": 19.636363983154297,
+    "filled_km2": 0.4811
+   },
+   "warnings": [
+    "Cut-off analysis: No town, hospital or main road leaving the area was found in the pre-event road network, so road access cannot be assessed (cut-off results are not computed).",
+    "Cut-off analysis: No main road leaves the analysed road network: only towns and hospitals inside it are used as destinations."
+   ],
+   "impacts": {
+    "buildings": {
+     "not_affected": 2094,
+     "possibly_affected": 166,
+     "likely_affected": 92
+    },
+    "roads_km": {
+     "blocked": 4.22,
+     "open": 258.94,
+     "possibly_blocked": 21.56,
+     "unobserved": 43.68
+    },
+    "roads_km_vehicle": {},
+    "roads_km_vehicle_total": 0.0,
+    "paths_km": {
+     "blocked": 4.22,
+     "open": 258.94,
+     "possibly_blocked": 21.56,
+     "unobserved": 43.68
+    },
+    "paths_km_total": 328.4,
+    "roads_km_by_class": {},
+    "bridges_segments": {
+     "possibly_blocked": 22,
+     "blocked": 11,
+     "open": 11
+    },
+    "bridges": {
+     "possibly_blocked": 11,
+     "open": 11,
+     "blocked": 10
+    },
+    "bridges_vehicle": {},
+    "bridges_foot": {
+     "possibly_blocked": 11,
+     "open": 11,
+     "blocked": 10
+    },
+    "bridges_total": 32,
+    "bridges_vehicle_total": 0,
+    "bridges_foot_total": 32,
+    "q3": {
+     "version": 2,
+     "assessed": false,
+     "net": {
+      "network": "buffered",
+      "n_nodes": 18492,
+      "n_edges": 18959,
+      "n_vehicle_edges": 630,
+      "n_exits": 0,
+      "exit_classes": null,
+      "n_border_closed_edges": 6,
+      "country": "Nepal (\u0928\u0947\u092a\u093e\u0932)",
+      "border_known": true,
+      "target_health": "hospitals",
+      "n_services": 0,
+      "n_hospitals": 0,
+      "n_health_targets": 0,
+      "n_towns": 0,
+      "n_services_unusable_post": 0,
+      "n_targets_cross_border": 0,
+      "n_targets": 0,
+      "n_dangle_links": 0,
+      "unobserved_in_grid_veh_km": 0.0,
+      "q3_options": {
+       "fp_class": true,
+       "prio_min_bld": 50,
+       "roadhead_km": 0.0,
+       "roadhead_h": 0.0,
+       "dangle_m": 0.0,
+       "road_rule": "frac",
+       "strong_rule": "v2",
+       "unverified": true,
+       "unit_rule": "point_or_majority"
+      },
+      "buffer_km": 15.0,
+      "snapshot": "2024-01-01T21:21:15Z"
+     },
+     "warnings": [
+      "No town, hospital or main road leaving the area was found in the pre-event road network, so road access cannot be assessed (cut-off results are not computed).",
+      "No main road leaves the analysed road network: only towns and hospitals inside it are used as destinations."
+     ],
+     "settlements": {
+      "by_status": {
+       "not_assessed": 47
+      },
+      "named_by_status": {
+       "not_assessed": 45
+      },
+      "unnamed_places": 2,
+      "cross_border": 0,
+      "localities_dropped": 0,
+      "lost_exit_only": 0,
+      "lost_exit_only_names": [],
+      "access_named": {},
+      "unverified_named": 0,
+      "unverified_names": [],
+      "via_roadhead_named": 0,
+      "named_noroad_units": {}
+     },
+     "buildings": {
+      "total": 2352,
+      "cross_border": 0,
+      "no_road_high": 0,
+      "no_road_possible": 0,
+      "no_road_bridge": 0,
+      "walk_in": 0,
+      "air_only": 0,
+      "air_only_high": 0,
+      "detour": 0,
+      "no_road_pre": 0,
+      "trail_cut": 0,
+      "in_footprint": 92,
+      "fp_class": true,
+      "in_footprint_no_road": 0,
+      "via_roadhead": 0,
+      "unverified": 0
+     },
+     "units": {
+      "n": 52,
+      "named": 45,
+      "rule": "settlement point (outside the footprint) or >= 50% of the buildings outside the footprint",
+      "noroad_high": 0,
+      "noroad_any": 0,
+      "noroad_any_all": 0,
+      "air_only": 0,
+      "outlying_noroad_bld": 0,
+      "partial": 0,
+      "n_priority": 0
+     },
+     "priority": [],
+     "hardest_hit": [
+      {
+       "uid": "Usn703971621",
+       "label": "Thame",
+       "near": "Thame",
+       "place": "village",
+       "muni": "Khumbupasanglahmu",
+       "x": 465580.9,
+       "y": 3078628.9,
+       "n_bld": 125,
+       "n_fp": 70,
+       "n_fp_possible": 14,
+       "status": "not_assessed",
+       "access": null,
+       "lat": 27.83189,
+       "lon": 86.65048
+      }
+     ],
+     "repairs": [],
+     "n_break_runs": 0,
+     "health": {
+      "total": 4,
+      "by_status": {
+       "no_road_pre": 4
+      },
+      "in_footprint": [],
+      "cut_off": [],
+      "possibly_cut_off": [],
+      "hospitals_in_aoi": 2
+     },
+     "areas": {
+      "country": "Nepal (\u0928\u0947\u092a\u093e\u0932)",
+      "districts": [
+       "Solukhumbu (\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941)"
+      ],
+      "municipalities": [
+       "Khumbupasanglahmu"
+      ]
+     }
+    },
+    "settlements_vehicle": {
+     "not_assessed": 47
+    },
+    "graph_vehicle": {
+     "network": "buffered",
+     "n_nodes": 18492,
+     "n_edges": 18959,
+     "n_vehicle_edges": 630,
+     "n_exits": 0,
+     "exit_classes": null,
+     "n_border_closed_edges": 6,
+     "country": "Nepal (\u0928\u0947\u092a\u093e\u0932)",
+     "border_known": true,
+     "target_health": "hospitals",
+     "n_services": 0,
+     "n_hospitals": 0,
+     "n_health_targets": 0,
+     "n_towns": 0,
+     "n_services_unusable_post": 0,
+     "n_targets_cross_border": 0,
+     "n_targets": 0,
+     "n_dangle_links": 0,
+     "unobserved_in_grid_veh_km": 0.0,
+     "q3_options": {
+      "fp_class": true,
+      "prio_min_bld": 50,
+      "roadhead_km": 0.0,
+      "roadhead_h": 0.0,
+      "dangle_m": 0.0,
+      "road_rule": "frac",
+      "strong_rule": "v2",
+      "unverified": true,
+      "unit_rule": "point_or_majority"
+     },
+     "buffer_km": 15.0,
+     "snapshot": "2024-01-01T21:21:15Z"
+    },
+    "cut_off_vehicle": [],
+    "possibly_cut_off_vehicle": [],
+    "access_routes": 0,
+    "availability": {
+     "buildings": "ok",
+     "roads": "ok",
+     "q3": "no town, hospital or road out of the area in the road network"
+    }
+   }
+  }
+ },
+ "buner_2025f": {
+  "event": "buner_2025f",
+  "rows": {
+   "old": {
+    "f1": 0.422,
+    "prec": 0.522,
+    "rec": 0.354,
+    "km2": 14.37,
+    "out_km2": 3.98
+   },
+   "new": {
+    "f1": 0.424,
+    "prec": 0.522,
+    "rec": 0.357,
+    "km2": 14.52,
+    "out_km2": 4.05
+   },
+   "final": {
+    "f1": 0.424,
+    "prec": 0.522,
+    "rec": 0.357,
+    "km2": 14.52,
+    "out_km2": 4.05
+   },
+   "old|S2D": {
+    "f1": 0.3041,
+    "prec": 0.607,
+    "rec": 0.203,
+    "km2": 6.62,
+    "out_km2": 1.5
+   },
+   "new|S2D": {
+    "f1": 0.3143,
+    "prec": 0.601,
+    "rec": 0.213,
+    "km2": 8.24,
+    "out_km2": 2.82
+   },
+   "final|S2D": {
+    "f1": 0.3143,
+    "prec": 0.601,
+    "rec": 0.213,
+    "km2": 8.24,
+    "out_km2": 2.82
+   },
+   "pipeline_likely": {
+    "f1": 0.4241,
+    "prec": 0.522,
+    "rec": 0.357,
+    "km2": 14.52,
+    "out_km2": 4.05
+   },
+   "pipeline_likely_or_possible": {
+    "f1": 0.4778,
+    "prec": 0.407,
+    "rec": 0.578,
+    "km2": 39.41,
+    "out_km2": 17.63
+   }
+  },
+  "ai": {
+   "radar_ai": {
+    "ext": {
+     "f1": 0.2755,
+     "p": 0.211,
+     "r": 0.398
+    },
+    "h40": {
+     "f1": 0.3763,
+     "p": 0.353,
+     "r": 0.402
+    }
+   },
+   "optical_ai": {
+    "ext": {
+     "f1": 0.0859,
+     "p": 0.742,
+     "r": 0.046
+    },
+    "h40": {
+     "f1": 0.0877,
+     "p": 0.767,
+     "r": 0.047
+    }
+   },
+   "multimodal_ai": {
+    "ext": {
+     "f1": 0.2824,
+     "p": 0.215,
+     "r": 0.411
+    },
+    "h40": {
+     "f1": 0.3851,
+     "p": 0.359,
+     "r": 0.415
+    }
+   },
+   "s1_rule": {
+    "ext": {
+     "f1": 0.1486,
+     "p": 0.111,
+     "r": 0.226
+    },
+    "h40": {
+     "f1": 0.1757,
+     "p": 0.144,
+     "r": 0.225
+    }
+   }
+  },
+  "stage": {
+   "S2": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.0418,
+      "pfa_high_ground": 0.0418
+     },
+     "s2": {
+      "pd": [
+       0.7,
+       0.408
+      ],
+      "pfa": 0.0149,
+      "pfa_high_ground": 0.0015
+     }
+    },
+    "n_reaches": 2170,
+    "n_flooded": 382,
+    "max_stage_m": 60.0,
+    "mean_stage_m": 5.5287957191467285,
+    "filled_km2": 0.0078
+   },
+   "S2D": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.0418,
+      "pfa_high_ground": 0.0418
+     }
+    },
+    "n_reaches": 2170,
+    "n_flooded": 225,
+    "max_stage_m": 60.0,
+    "mean_stage_m": 5.355555534362793,
+    "filled_km2": 1.6203
+   }
+  },
+  "secs": 217,
+  "ref_km2": 15.33,
+  "ext_km2": 213.5,
+  "summary": {
+   "timing": {
+    "dem": 55,
+    "s1": 302,
+    "geometry": 70,
+    "s1_rules": 129,
+    "s1_joint": 105,
+    "s1x": 196,
+    "s2": 316,
+    "s2_rules": 15,
+    "s2_cal": 20,
+    "dl": 925,
+    "ais2": 96,
+    "fusion": 31,
+    "osm": 77,
+    "impacts": 59,
+    "flowpath": 0,
+    "report": 52
+   },
+   "ais2": {
+    "used": true,
+    "run": "s2ai_r34_v1",
+    "device": "cpu",
+    "tta": false,
+    "composites": [
+     "pre",
+     "early",
+     "post"
+    ],
+    "first_image": "early",
+    "new_water_km2": 1.5441
+   },
+   "hazard_km2": {
+    "likely": 14.5214,
+    "possible": 24.8874,
+    "unobserved": 0.1816,
+    "likely_by_source": {
+     "s1": 4.6324,
+     "s2": 11.2937,
+     "dl": 8.2357,
+     "ai_optical": 1.2197,
+     "continuity": 0.0078
+    }
+   },
+   "stage": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.0418,
+      "pfa_high_ground": 0.0418
+     },
+     "s2": {
+      "pd": [
+       0.7,
+       0.408
+      ],
+      "pfa": 0.0149,
+      "pfa_high_ground": 0.0015
+     }
+    },
+    "n_reaches": 2170,
+    "n_flooded": 382,
+    "max_stage_m": 60.0,
+    "mean_stage_m": 5.5287957191467285,
+    "filled_km2": 0.0078
+   },
+   "impacts": {
+    "buildings": {
+     "not_affected": 505,
+     "possibly_affected": 27,
+     "likely_affected": 10
+    },
+    "roads_km": {
+     "blocked": 25.04,
+     "open": 732.62,
+     "possibly_blocked": 58.52,
+     "unobserved": 80.21
+    },
+    "roads_km_vehicle": {
+     "blocked": 20.38,
+     "open": 704.69,
+     "possibly_blocked": 56.28,
+     "unobserved": 80.21
+    },
+    "roads_km_vehicle_total": 861.6,
+    "paths_km": {
+     "blocked": 1.86,
+     "open": 20.83,
+     "possibly_blocked": 2.04
+    },
+    "paths_km_total": 24.7,
+    "roads_km_by_class": {
+     "secondary": {
+      "blocked": 13.12,
+      "open": 327.03,
+      "possibly_blocked": 35.47,
+      "unobserved": 61.67,
+      "total": 437.3
+     },
+     "local": {
+      "blocked": 6.95,
+      "open": 366.97,
+      "possibly_blocked": 20.42,
+      "unobserved": 18.54,
+      "total": 412.9
+     },
+     "track": {
+      "blocked": 0.32,
+      "open": 10.69,
+      "possibly_blocked": 0.4,
+      "total": 11.4
+     }
+    },
+    "bridges_segments": {
+     "open": 73,
+     "blocked": 54,
+     "possibly_blocked": 42
+    },
+    "bridges": {
+     "open": 50,
+     "blocked": 37,
+     "possibly_blocked": 27
+    },
+    "bridges_vehicle": {
+     "open": 50,
+     "blocked": 34,
+     "possibly_blocked": 27
+    },
+    "bridges_foot": {
+     "blocked": 3
+    },
+    "bridges_total": 114,
+    "bridges_vehicle_total": 111,
+    "bridges_foot_total": 3,
+    "q3": {
+     "version": 2,
+     "assessed": true,
+     "net": {
+      "network": "buffered",
+      "n_nodes": 102693,
+      "n_edges": 104875,
+      "n_vehicle_edges": 78145,
+      "n_exits": 3205,
+      "exit_classes": "trunk/primary/secondary",
+      "n_border_closed_edges": 0,
+      "country": null,
+      "border_known": false,
+      "target_health": "hospitals",
+      "n_services": 28,
+      "n_hospitals": 11,
+      "n_health_targets": 0,
+      "n_towns": 17,
+      "n_services_unusable_post": 0,
+      "n_targets_cross_border": 0,
+      "n_targets": 3233,
+      "n_dangle_links": 0,
+      "unobserved_in_grid_veh_km": 0.0,
+      "q3_options": {
+       "fp_class": true,
+       "prio_min_bld": 50,
+       "roadhead_km": 0.0,
+       "roadhead_h": 0.0,
+       "dangle_m": 0.0,
+       "road_rule": "frac",
+       "strong_rule": "v2",
+       "unverified": true,
+       "unit_rule": "point_or_majority"
+      },
+      "buffer_km": 15.0,
+      "snapshot": "2025-01-01T21:21:00Z"
+     },
+     "warnings": [],
+     "settlements": {
+      "by_status": {
+       "connected": 32,
+       "cut_off": 16,
+       "possibly_cut_off": 14,
+       "no_road_access_pre_event": 13,
+       "long_detour": 12,
+       "bridge_uncertain": 9
+      },
+      "named_by_status": {
+       "connected": 32,
+       "cut_off": 14,
+       "no_road_access_pre_event": 13,
+       "possibly_cut_off": 13,
+       "long_detour": 11,
+       "bridge_uncertain": 9
+      },
+      "unnamed_places": 4,
+      "cross_border": 0,
+      "localities_dropped": 0,
+      "lost_exit_only": 10,
+      "lost_exit_only_names": [
+       "Matwani (\u0645\u0679\u0648\u0627\u0646\u06cc)",
+       "Badwan Colony",
+       "Neelam Colony",
+       "Dinbahar Colony",
+       "Gata Maira",
+       "Jawkhela (\u062c\u0648\u062e\u06cc\u0644\u06c1)",
+       "Sultanwas (\u0633\u0644\u0637\u0627\u0646\u0648\u0633)",
+       "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "Dewana Baba (\u062f\u064a\u0648\u0627\u0646\u0647 \u0628\u0627\u0628\u0627)",
+       "Budhal Kalay"
+      ],
+      "access_named": {
+       "air_only": 35,
+       "walk_in": 1
+      },
+      "unverified_named": 0,
+      "unverified_names": [],
+      "via_roadhead_named": 0,
+      "named_noroad_units": {
+       "high": 14,
+       "possible": 13,
+       "bridge": 9
+      }
+     },
+     "buildings": {
+      "total": 542,
+      "cross_border": 0,
+      "no_road_high": 119,
+      "no_road_possible": 14,
+      "no_road_bridge": 11,
+      "walk_in": 0,
+      "air_only": 144,
+      "air_only_high": 119,
+      "detour": 55,
+      "no_road_pre": 151,
+      "trail_cut": 0,
+      "in_footprint": 10,
+      "fp_class": true,
+      "in_footprint_no_road": 10,
+      "via_roadhead": 0,
+      "unverified": 0
+     },
+     "units": {
+      "n": 104,
+      "named": 92,
+      "rule": "settlement point (outside the footprint) or >= 50% of the buildings outside the footprint",
+      "noroad_high": 14,
+      "noroad_any": 36,
+      "noroad_any_all": 38,
+      "air_only": 35,
+      "outlying_noroad_bld": 18,
+      "partial": 1,
+      "n_priority": 38
+     },
+     "priority": [
+      {
+       "uid": "Usn4989523887",
+       "label": "Kalabat Kalay (\u06a9\u0644\u0627\u0628\u0679 \u06a9\u0644\u06d2)",
+       "near": "Kalabat Kalay (\u06a9\u0644\u0627\u0628\u0679 \u06a9\u0644\u06d2)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.59892,
+       "lon": 72.47632,
+       "x": 268565.2,
+       "y": 3831461.6,
+       "n_bld": 98,
+       "n_fp": 0,
+       "n_noroad": 39,
+       "n_high": 39,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 39,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 2.44,
+       "n_breaks": 1,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989524143",
+       "label": "Pulaand Kalay",
+       "near": "Pulaand Kalay",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.65249,
+       "lon": 72.4128,
+       "x": 262891.4,
+       "y": 3837552.3,
+       "n_bld": 33,
+       "n_fp": 0,
+       "n_noroad": 33,
+       "n_high": 33,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 33,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 4.82,
+       "n_breaks": 7,
+       "spof": false
+      },
+      {
+       "uid": "Usn12074382442",
+       "label": "Jalal Khan Colony (\u062c\u0644\u0627\u0644 \u062e\u0627\u0646 \u06a9\u0627\u0644\u0648\u0646\u06cc)",
+       "near": "Jalal Khan Colony (\u062c\u0644\u0627\u0644 \u062e\u0627\u0646 \u06a9\u0627\u0644\u0648\u0646\u06cc)",
+       "place": "neighbourhood",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.55554,
+       "lon": 72.44821,
+       "x": 265865.5,
+       "y": 3826714.8,
+       "n_bld": 21,
+       "n_fp": 2,
+       "n_noroad": 19,
+       "n_high": 18,
+       "n_possible": 0,
+       "n_bridge": 1,
+       "n_air": 19,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Government Hospital Pacha Kalay",
+       "first_break_km": 0.87,
+       "n_breaks": 5,
+       "spof": false
+      },
+      {
+       "uid": "Osn4989524142",
+       "label": "Outlying buildings near Dokada Kalay (\u0688\u0648\u0643\u0688\u0647 \u0643\u0644\u06d2)",
+       "near": "Dokada Kalay (\u0688\u0648\u0643\u0688\u0647 \u0643\u0644\u06d2)",
+       "place": "outlying",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.63381,
+       "lon": 72.43178,
+       "x": 264578.7,
+       "y": 3835434.7,
+       "n_bld": 21,
+       "n_fp": 4,
+       "n_noroad": 17,
+       "n_high": 17,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 17,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": null,
+       "counted": true,
+       "n_unverified": 0,
+       "target": null,
+       "first_break_km": null,
+       "n_breaks": null,
+       "spof": false
+      },
+      {
+       "uid": "Usn4421122588",
+       "label": "Anghapur (\u0627\u0646\u063a\u0627\u067e\u0648\u0631)",
+       "near": "Anghapur (\u0627\u0646\u063a\u0627\u067e\u0648\u0631)",
+       "place": "village",
+       "muni": "Daggar Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0688\u06af\u0631)",
+       "ward": null,
+       "lat": 34.49712,
+       "lon": 72.39799,
+       "x": 261089.0,
+       "y": 3820351.8,
+       "n_bld": 7,
+       "n_fp": 0,
+       "n_noroad": 7,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 7,
+       "n_air": 7,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "bridge",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "bridge_uncertain",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 6.04,
+       "n_breaks": 2,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989734667",
+       "label": "Sowari (\u0633\u0648\u0627\u0691\u06cc)",
+       "near": "Sowari (\u0633\u0648\u0627\u0691\u06cc)",
+       "place": "village",
+       "muni": "Gagra Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u0627\u06af\u0631\u06c1)",
+       "ward": null,
+       "lat": 34.47745,
+       "lon": 72.48583,
+       "x": 269102.2,
+       "y": 3817965.2,
+       "n_bld": 6,
+       "n_fp": 0,
+       "n_noroad": 6,
+       "n_high": 0,
+       "n_possible": 6,
+       "n_bridge": 0,
+       "n_air": 6,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 2.65,
+       "n_breaks": 2,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989282486",
+       "label": "Malakpur Kalay (\u0645\u0627\u0644\u06a9 \u067e\u0648\u0631 \u06a9\u0644\u06d2)",
+       "near": "Malakpur Kalay (\u0645\u0627\u0644\u06a9 \u067e\u0648\u0631 \u06a9\u0644\u06d2)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.61554,
+       "lon": 72.44477,
+       "x": 265717.7,
+       "y": 3833377.9,
+       "n_bld": 4,
+       "n_fp": 0,
+       "n_noroad": 4,
+       "n_high": 4,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 4,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 0.05,
+       "n_breaks": 5,
+       "spof": false
+      },
+      {
+       "uid": "Usn12074374292",
+       "label": "Karapa (\u06a9\u0691\u067e\u06c1)",
+       "near": "Karapa (\u06a9\u0691\u067e\u06c1)",
+       "place": "village",
+       "muni": "Daggar Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0688\u06af\u0631)",
+       "ward": null,
+       "lat": 34.48888,
+       "lon": 72.46389,
+       "x": 267118.0,
+       "y": 3819283.5,
+       "n_bld": 3,
+       "n_fp": 0,
+       "n_noroad": 3,
+       "n_high": 0,
+       "n_possible": 3,
+       "n_bridge": 0,
+       "n_air": 3,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 1.0,
+       "n_breaks": 2,
+       "spof": false
+      },
+      {
+       "uid": "Usn12074382441",
+       "label": "Babo Khan Kalay (\u0628\u0627\u0628\u0648 \u062e\u0627\u0646 \u06a9\u0644\u06d2)",
+       "near": "Babo Khan Kalay (\u0628\u0627\u0628\u0648 \u062e\u0627\u0646 \u06a9\u0644\u06d2)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.53999,
+       "lon": 72.44325,
+       "x": 265365.8,
+       "y": 3825001.2,
+       "n_bld": 3,
+       "n_fp": 0,
+       "n_noroad": 3,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 3,
+       "n_air": 3,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "bridge",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "bridge_uncertain",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Government Hospital Pacha Kalay",
+       "first_break_km": 1.52,
+       "n_breaks": 6,
+       "spof": false
+      },
+      {
+       "uid": "Usn12074421916",
+       "label": "Jawari Cham",
+       "near": "Jawari Cham",
+       "place": "hamlet",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.6452,
+       "lon": 72.40626,
+       "x": 262271.1,
+       "y": 3836759.0,
+       "n_bld": 2,
+       "n_fp": 0,
+       "n_noroad": 2,
+       "n_high": 2,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 2,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 3.94,
+       "n_breaks": 7,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989275780",
+       "label": "Sultanwas (\u0633\u0644\u0637\u0627\u0646\u0648\u0633)",
+       "near": "Sultanwas (\u0633\u0644\u0637\u0627\u0646\u0648\u0633)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.57039,
+       "lon": 72.45384,
+       "x": 266422.9,
+       "y": 3828348.3,
+       "n_bld": 2,
+       "n_fp": 0,
+       "n_noroad": 2,
+       "n_high": 2,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 2,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "connected",
+       "counted": true,
+       "n_unverified": 0,
+       "target": null,
+       "first_break_km": null,
+       "n_breaks": null,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989590037",
+       "label": "Pirabai (\u067e\u06cc\u0631 \u0627\u0628\u0626)",
+       "near": "Pirabai (\u067e\u06cc\u0631 \u0627\u0628\u0626)",
+       "place": "village",
+       "muni": "Daggar Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0688\u06af\u0631)",
+       "ward": null,
+       "lat": 34.52813,
+       "lon": 72.437,
+       "x": 264759.4,
+       "y": 3823700.3,
+       "n_bld": 3,
+       "n_fp": 1,
+       "n_noroad": 2,
+       "n_high": 0,
+       "n_possible": 2,
+       "n_bridge": 0,
+       "n_air": 2,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Government Hospital Pacha Kalay",
+       "first_break_km": 0.59,
+       "n_breaks": 9,
+       "spof": false
+      },
+      {
+       "uid": "Usn4991879778",
+       "label": "Zaga Kalay",
+       "near": "Zaga Kalay",
+       "place": "village",
+       "muni": "Daggar Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0688\u06af\u0631)",
+       "ward": null,
+       "lat": 34.51029,
+       "lon": 72.46409,
+       "x": 267196.7,
+       "y": 3821658.0,
+       "n_bld": 2,
+       "n_fp": 0,
+       "n_noroad": 2,
+       "n_high": 0,
+       "n_possible": 2,
+       "n_bridge": 0,
+       "n_air": 2,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 2.28,
+       "n_breaks": 1,
+       "spof": true
+      },
+      {
+       "uid": "Osn4989282486",
+       "label": "Outlying buildings near Malakpur Kalay (\u0645\u0627\u0644\u06a9 \u067e\u0648\u0631 \u06a9\u0644\u06d2)",
+       "near": "Malakpur Kalay (\u0645\u0627\u0644\u06a9 \u067e\u0648\u0631 \u06a9\u0644\u06d2)",
+       "place": "outlying",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.61076,
+       "lon": 72.4214,
+       "x": 263561.2,
+       "y": 3832902.8,
+       "n_bld": 1,
+       "n_fp": 0,
+       "n_noroad": 1,
+       "n_high": 1,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 1,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": null,
+       "counted": true,
+       "n_unverified": 0,
+       "target": null,
+       "first_break_km": null,
+       "n_breaks": null,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989282485",
+       "label": "Balo Khan Kalay (\u0628\u0644\u0648\u062e\u0627\u0646 \u0643\u0644\u06d2)",
+       "near": "Balo Khan Kalay (\u0628\u0644\u0648\u062e\u0627\u0646 \u0643\u0644\u06d2)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.59592,
+       "lon": 72.44327,
+       "x": 265524.8,
+       "y": 3831204.8,
+       "n_bld": 1,
+       "n_fp": 0,
+       "n_noroad": 1,
+       "n_high": 1,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 1,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 0.39,
+       "n_breaks": 3,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989282487",
+       "label": "Narbatawal Kalay (\u0646\u0631\u0628\u0679\u06be\u0648\u0627\u0644 \u06a9\u0644\u06d2)",
+       "near": "Narbatawal Kalay (\u0646\u0631\u0628\u0679\u06be\u0648\u0627\u0644 \u06a9\u0644\u06d2)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.60826,
+       "lon": 72.45588,
+       "x": 266716.6,
+       "y": 3832544.7,
+       "n_bld": 1,
+       "n_fp": 0,
+       "n_noroad": 1,
+       "n_high": 1,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 1,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 0.36,
+       "n_breaks": 4,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989658246",
+       "label": "Chinar Kalay",
+       "near": "Chinar Kalay",
+       "place": "village",
+       "muni": "Gagra Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u0627\u06af\u0631\u06c1)",
+       "ward": null,
+       "lat": 34.45758,
+       "lon": 72.49494,
+       "x": 269884.1,
+       "y": 3815741.3,
+       "n_bld": 1,
+       "n_fp": 0,
+       "n_noroad": 1,
+       "n_high": 0,
+       "n_possible": 1,
+       "n_bridge": 0,
+       "n_air": 1,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 5.06,
+       "n_breaks": 2,
+       "spof": false
+      },
+      {
+       "uid": "Usn4553188079",
+       "label": "Matwani (\u0645\u0679\u0648\u0627\u0646\u06cc)",
+       "near": "Matwani (\u0645\u0679\u0648\u0627\u0646\u06cc)",
+       "place": "village",
+       "muni": "Gagra Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u0627\u06af\u0631\u06c1)",
+       "ward": null,
+       "lat": 34.48245,
+       "lon": 72.61006,
+       "x": 280526.5,
+       "y": 3818243.7,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "bridge",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "bridge_uncertain",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 14.81,
+       "n_breaks": 1,
+       "spof": true
+      },
+      {
+       "uid": "Usn4654778244",
+       "label": "Kulyari (\u06a9\u0644\u06cc\u0627 \u0691\u06cc)",
+       "near": "Kulyari (\u06a9\u0644\u06cc\u0627 \u0691\u06cc)",
+       "place": "village",
+       "muni": "Gagra Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u0627\u06af\u0631\u06c1)",
+       "ward": null,
+       "lat": 34.46079,
+       "lon": 72.59469,
+       "x": 279057.7,
+       "y": 3815874.8,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 0.59,
+       "n_breaks": 3,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989304091",
+       "label": "Qadar Nagar (\u0642\u0627\u062f\u0631 \u0646\u06af\u0631)",
+       "near": "Qadar Nagar (\u0642\u0627\u062f\u0631 \u0646\u06af\u0631)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.6391,
+       "lon": 72.46999,
+       "x": 268096.7,
+       "y": 3835933.4,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 3.58,
+       "n_breaks": 2,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989363146",
+       "label": "Ghazi Khane Kalay (\u063a\u0627\u0632\u06cc \u062e\u0627\u0646\u06d2 \u06a9\u0644\u06d2)",
+       "near": "Ghazi Khane Kalay (\u063a\u0627\u0632\u06cc \u062e\u0627\u0646\u06d2 \u06a9\u0644\u06d2)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.55145,
+       "lon": 72.45106,
+       "x": 266115.0,
+       "y": 3826253.8,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Government Hospital Pacha Kalay",
+       "first_break_km": 0.0,
+       "n_breaks": 6,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989524142",
+       "label": "Dokada Kalay (\u0688\u0648\u0643\u0688\u0647 \u0643\u0644\u06d2)",
+       "near": "Dokada Kalay (\u0688\u0648\u0643\u0688\u0647 \u0643\u0644\u06d2)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.63733,
+       "lon": 72.41508,
+       "x": 263057.3,
+       "y": 3835864.2,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pacha Kalay (\u067e\u0627\u0686\u0627 \u06a9\u0644\u06d2)",
+       "first_break_km": 0.99,
+       "n_breaks": 7,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989531417",
+       "label": "Barjokana (\u0628\u0631\u062c\u0648\u06a9\u0627\u0646\u0627)",
+       "near": "Barjokana (\u0628\u0631\u062c\u0648\u06a9\u0627\u0646\u0627)",
+       "place": "village",
+       "muni": "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "ward": null,
+       "lat": 34.5493,
+       "lon": 72.39959,
+       "x": 261385.3,
+       "y": 3826135.6,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "bridge",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "bridge_uncertain",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Government Hospital Pacha Kalay",
+       "first_break_km": 1.94,
+       "n_breaks": 3,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989642979",
+       "label": "Rega (\u0631\u064a\u06af\u0627)",
+       "near": "Rega (\u0631\u064a\u06af\u0627)",
+       "place": "village",
+       "muni": "Gagra Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u0627\u06af\u0631\u06c1)",
+       "ward": null,
+       "lat": 34.47184,
+       "lon": 72.47435,
+       "x": 268032.2,
+       "y": 3817370.0,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 3.89,
+       "n_breaks": 2,
+       "spof": false
+      },
+      {
+       "uid": "Usn4989734668",
+       "label": "Sunigram (\u0633\u0646\u064a\u06af\u0631\u0627\u0645)",
+       "near": "Sunigram (\u0633\u0646\u064a\u06af\u0631\u0627\u0645)",
+       "place": "village",
+       "muni": "Gagra Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u0627\u06af\u0631\u06c1)",
+       "ward": null,
+       "lat": 34.48774,
+       "lon": 72.48436,
+       "x": 268995.4,
+       "y": 3819110.9,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Daggar (\u0688\u06af\u0631)",
+       "first_break_km": 0.74,
+       "n_breaks": 2,
+       "spof": false
+      }
+     ],
+     "hardest_hit": [],
+     "repairs": [
+      {
+       "rank": 1,
+       "gain": 45,
+       "gain_unit": "buildings",
+       "n_settlements": 7,
+       "settlements": "Balo Khan Kalay (\u0628\u0644\u0648\u062e\u0627\u0646 \u0643\u0644\u06d2), Malakpur Kalay (\u0645\u0627\u0644\u06a9 \u067e\u0648\u0631 \u06a9\u0644\u06d2), Narbatawal Kalay (\u0646\u0631\u0628\u0679\u06be\u0648\u0627\u0644 \u06a9\u0644\u06d2), Qadar Nagar (\u0642\u0627\u062f\u0631 \u0646\u06af\u0631), Dokada Kalay (\u0688\u0648\u0643\u0688\u0647 \u0643\u0644\u06d2), Pulaand Kalay, Jawari Cham",
+       "n_runs": 6,
+       "runs": "1,8,21,29,33,34",
+       "length_m": 2865.1,
+       "bridge": true,
+       "strong": false,
+       "highway": "unclassified",
+       "road": "Malakpur Bridge, Malakpur Dokada Road",
+       "near": "Malakpur Kalay (\u0645\u0627\u0644\u06a9 \u067e\u0648\u0631 \u06a9\u0644\u06d2)",
+       "lat": 34.61473,
+       "lon": 72.44679
+      },
+      {
+       "rank": 2,
+       "gain": 39,
+       "gain_unit": "buildings",
+       "n_settlements": 1,
+       "settlements": "Kalabat Kalay (\u06a9\u0644\u0627\u0628\u0679 \u06a9\u0644\u06d2)",
+       "n_runs": 1,
+       "runs": "36",
+       "length_m": 106.4,
+       "bridge": false,
+       "strong": true,
+       "highway": "secondary",
+       "road": null,
+       "near": "Badwan Colony",
+       "lat": 34.60027,
+       "lon": 72.45477
+      },
+      {
+       "rank": 3,
+       "gain": 23,
+       "gain_unit": "buildings",
+       "n_settlements": 3,
+       "settlements": "Pirabai (\u067e\u06cc\u0631 \u0627\u0628\u0626), Zaga Kalay, Jalal Khan Colony (\u062c\u0644\u0627\u0644 \u062e\u0627\u0646 \u06a9\u0627\u0644\u0648\u0646\u06cc)",
+       "n_runs": 9,
+       "runs": "6,10,12,18,23,24,26,27,30",
+       "length_m": 1258.5,
+       "bridge": true,
+       "strong": false,
+       "highway": "secondary",
+       "road": "Pirbaba Road",
+       "near": "Pirabai (\u067e\u06cc\u0631 \u0627\u0628\u0626)",
+       "lat": 34.5341,
+       "lon": 72.43912
+      },
+      {
+       "rank": 4,
+       "gain": 13,
+       "gain_unit": "buildings",
+       "n_settlements": 0,
+       "settlements": "",
+       "n_runs": 1,
+       "runs": "3",
+       "length_m": 160.9,
+       "bridge": true,
+       "strong": true,
+       "highway": "tertiary",
+       "road": "Beshonai Kalay Road",
+       "near": "Dokada Kalay (\u0688\u0648\u0643\u0688\u0647 \u0643\u0644\u06d2)",
+       "lat": 34.63196,
+       "lon": 72.43265
+      },
+      {
+       "rank": 5,
+       "gain": 10,
+       "gain_unit": "buildings",
+       "n_settlements": 10,
+       "settlements": "Rega (\u0631\u064a\u06af\u0627), Chinar Kalay, Sowari (\u0633\u0648\u0627\u0691\u06cc), Sunigram (\u0633\u0646\u064a\u06af\u0631\u0627\u0645), Cheena (\u0686\u06be\u06cc\u0646\u0627), Bar (\u0628\u0631), Takhtaband (\u062a\u062e\u062a\u0627\u0628\u0646\u062f), Karapa (\u06a9\u0691\u067e\u06c1)",
+       "n_runs": 1,
+       "runs": "5",
+       "length_m": 48.8,
+       "bridge": false,
+       "strong": true,
+       "highway": "secondary",
+       "road": "Sar Malang Road",
+       "near": "Mulayousaf Chowk (\u0645\u0644\u0627\u06cc\u0648\u0633\u0641 \u0686\u0648\u06a9)",
+       "lat": 34.47734,
+       "lon": 72.43824
+      }
+     ],
+     "n_break_runs": 119,
+     "health": {
+      "total": 7,
+      "by_status": {
+       "ok": 5,
+       "in_footprint": 1,
+       "possibly_cut_off": 1
+      },
+      "in_footprint": [
+       "The Medicos"
+      ],
+      "cut_off": [],
+      "possibly_cut_off": [
+       "Dr Dil Raj"
+      ],
+      "hospitals_in_aoi": 1
+     },
+     "areas": {
+      "country": null,
+      "districts": [
+       "Buner District (\u0636\u0644\u0639 \u0628\u0648\u0646\u06cc\u0631)"
+      ],
+      "municipalities": [
+       "Daggar Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0688\u06af\u0631)",
+       "Gagra Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u0627\u06af\u0631\u06c1)",
+       "Chagharzai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0686\u063a\u0631\u0632\u0626\u06cc)",
+       "Gadezai Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u06af\u062f\u06cc\u0632\u0626\u06cc)",
+       "Chamla Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0686\u0645\u0644\u06c1)",
+       "Rustam Tehsil (\u062a\u062d\u0635\u06cc\u0644 \u0631\u0633\u062a\u0645)"
+      ]
+     }
+    },
+    "settlements_vehicle": {
+     "connected": 32,
+     "cut_off": 16,
+     "possibly_cut_off": 14,
+     "no_road_access_pre_event": 13,
+     "long_detour": 12,
+     "bridge_uncertain": 9
+    },
+    "graph_vehicle": {
+     "network": "buffered",
+     "n_nodes": 102693,
+     "n_edges": 104875,
+     "n_vehicle_edges": 78145,
+     "n_exits": 3205,
+     "exit_classes": "trunk/primary/secondary",
+     "n_border_closed_edges": 0,
+     "country": null,
+     "border_known": false,
+     "target_health": "hospitals",
+     "n_services": 28,
+     "n_hospitals": 11,
+     "n_health_targets": 0,
+     "n_towns": 17,
+     "n_services_unusable_post": 0,
+     "n_targets_cross_border": 0,
+     "n_targets": 3233,
+     "n_dangle_links": 0,
+     "unobserved_in_grid_veh_km": 0.0,
+     "q3_options": {
+      "fp_class": true,
+      "prio_min_bld": 50,
+      "roadhead_km": 0.0,
+      "roadhead_h": 0.0,
+      "dangle_m": 0.0,
+      "road_rule": "frac",
+      "strong_rule": "v2",
+      "unverified": true,
+      "unit_rule": "point_or_majority"
+     },
+     "buffer_km": 15.0,
+     "snapshot": "2025-01-01T21:21:00Z"
+    },
+    "cut_off_vehicle": [
+     "Kalabat Kalay (\u06a9\u0644\u0627\u0628\u0679 \u06a9\u0644\u06d2)",
+     "Pulaand Kalay",
+     "Jalal Khan Colony (\u062c\u0644\u0627\u0644 \u062e\u0627\u0646 \u06a9\u0627\u0644\u0648\u0646\u06cc)",
+     "Malakpur Kalay (\u0645\u0627\u0644\u06a9 \u067e\u0648\u0631 \u06a9\u0644\u06d2)",
+     "Jawari Cham",
+     "Balo Khan Kalay (\u0628\u0644\u0648\u062e\u0627\u0646 \u0643\u0644\u06d2)",
+     "Narbatawal Kalay (\u0646\u0631\u0628\u0679\u06be\u0648\u0627\u0644 \u06a9\u0644\u06d2)",
+     "Qadar Nagar (\u0642\u0627\u062f\u0631 \u0646\u06af\u0631)",
+     "Kulyari (\u06a9\u0644\u06cc\u0627 \u0691\u06cc)",
+     "Batai Kalay (\u0628\u0679\u0626 \u06a9\u0644\u06d2)",
+     "Dokada Kalay (\u0688\u0648\u0643\u0688\u0647 \u0643\u0644\u06d2)",
+     "Ghazi Khane Kalay (\u063a\u0627\u0632\u06cc \u062e\u0627\u0646\u06d2 \u06a9\u0644\u06d2)",
+     "Bajkata",
+     "Kalpani (\u06a9\u0644\u067e\u0627\u0646\u06cc)"
+    ],
+    "possibly_cut_off_vehicle": [
+     "Anghapur (\u0627\u0646\u063a\u0627\u067e\u0648\u0631)",
+     "Sowari (\u0633\u0648\u0627\u0691\u06cc)",
+     "Karapa (\u06a9\u0691\u067e\u06c1)",
+     "Babo Khan Kalay (\u0628\u0627\u0628\u0648 \u062e\u0627\u0646 \u06a9\u0644\u06d2)",
+     "Zaga Kalay",
+     "Pirabai (\u067e\u06cc\u0631 \u0627\u0628\u0626)",
+     "Chinar Kalay",
+     "Rega (\u0631\u064a\u06af\u0627)",
+     "Matwani (\u0645\u0679\u0648\u0627\u0646\u06cc)",
+     "Barjokana (\u0628\u0631\u062c\u0648\u06a9\u0627\u0646\u0627)",
+     "Elai (\u0627\u064a\u0644\u0626\u064a)",
+     "Dewana Baba (\u062f\u064a\u0648\u0627\u0646\u0647 \u0628\u0627\u0628\u0627)",
+     "Daggar (\u0688\u06af\u0631)",
+     "Sunigram (\u0633\u0646\u064a\u06af\u0631\u0627\u0645)",
+     "Cheena (\u0686\u06be\u06cc\u0646\u0627)",
+     "Budhal Kalay",
+     "Takhtaband (\u062a\u062e\u062a\u0627\u0628\u0646\u062f)",
+     "Bar (\u0628\u0631)",
+     "Sher Khan Abad",
+     "Tawda Chena",
+     "Rega Kalay",
+     "Sunigram Kalay"
+    ],
+    "access_routes": 47,
+    "availability": {
+     "buildings": "ok",
+     "roads": "ok",
+     "q3": "ok"
+    }
+   }
+  }
+ },
+ "charikar_2020f": {
+  "event": "charikar_2020f",
+  "rows": {
+   "old": {
+    "f1": 0.0104,
+    "prec": 0.011,
+    "rec": 0.01,
+    "km2": 7.62,
+    "out_km2": 7.39
+   },
+   "new": {
+    "f1": 0.0104,
+    "prec": 0.011,
+    "rec": 0.01,
+    "km2": 7.85,
+    "out_km2": 7.61
+   },
+   "final": {
+    "f1": 0.0079,
+    "prec": 0.008,
+    "rec": 0.008,
+    "km2": 13.07,
+    "out_km2": 12.84
+   },
+   "old|S2D": {
+    "f1": 0.0093,
+    "prec": 0.012,
+    "rec": 0.008,
+    "km2": 5.64,
+    "out_km2": 5.48
+   },
+   "new|S2D": {
+    "f1": 0.0087,
+    "prec": 0.01,
+    "rec": 0.008,
+    "km2": 5.93,
+    "out_km2": 5.74
+   },
+   "final|S2D": {
+    "f1": 0.0079,
+    "prec": 0.008,
+    "rec": 0.008,
+    "km2": 11.51,
+    "out_km2": 11.28
+   },
+   "pipeline_likely": {
+    "f1": 0.0079,
+    "prec": 0.008,
+    "rec": 0.008,
+    "km2": 13.07,
+    "out_km2": 12.84
+   },
+   "pipeline_likely_or_possible": {
+    "f1": 0.0079,
+    "prec": 0.008,
+    "rec": 0.008,
+    "km2": 25.66,
+    "out_km2": 25.42
+   }
+  },
+  "ai": {
+   "radar_ai": {
+    "ext": {
+     "f1": 0.0173,
+     "p": 0.01,
+     "r": 0.072
+    },
+    "h40": {
+     "f1": 0.0197,
+     "p": 0.011,
+     "r": 0.081
+    }
+   },
+   "optical_ai": {
+    "ext": {
+     "f1": 0.0095,
+     "p": 0.235,
+     "r": 0.005
+    },
+    "h40": {
+     "f1": 0.0,
+     "p": 0.0,
+     "r": 0.0
+    }
+   },
+   "multimodal_ai": {
+    "ext": {
+     "f1": 0.0184,
+     "p": 0.01,
+     "r": 0.077
+    },
+    "h40": {
+     "f1": 0.0196,
+     "p": 0.011,
+     "r": 0.081
+    }
+   },
+   "s1_rule": {
+    "ext": {
+     "f1": 0.036,
+     "p": 0.02,
+     "r": 0.212
+    },
+    "h40": {
+     "f1": 0.0267,
+     "p": 0.014,
+     "r": 0.25
+    }
+   }
+  },
+  "stage": {
+   "S2": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.1058,
+      "pfa_high_ground": 0.1058
+     },
+     "s2": {
+      "pd": [
+       0.7,
+       0.3
+      ],
+      "pfa": 0.0163,
+      "pfa_high_ground": 0.0013
+     }
+    },
+    "n_reaches": 1526,
+    "n_flooded": 59,
+    "max_stage_m": 50.0,
+    "mean_stage_m": 8.745762825012207,
+    "filled_km2": 0.0
+   },
+   "S2D": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.1058,
+      "pfa_high_ground": 0.1058
+     }
+    },
+    "n_reaches": 1526,
+    "n_flooded": 74,
+    "max_stage_m": 60.0,
+    "mean_stage_m": 20.351350784301758,
+    "filled_km2": 0.2916
+   }
+  },
+  "secs": 172,
+  "ref_km2": 0.25,
+  "ext_km2": 21.9,
+  "summary": {
+   "timing": {
+    "dem": 42,
+    "s1": 106,
+    "geometry": 26,
+    "s1_rules": 38,
+    "s1_joint": 33,
+    "s1x": 103,
+    "s2": 228,
+    "s2_rules": 11,
+    "s2_cal": 12,
+    "dl": 376,
+    "ais2": 45,
+    "fusion": 18,
+    "osm": 34,
+    "impacts": 35,
+    "flowpath": 0,
+    "report": 38
+   },
+   "ais2": {
+    "used": true,
+    "run": "s2ai_r34_v1",
+    "device": "cpu",
+    "tta": false,
+    "composites": [
+     "pre",
+     "early",
+     "post"
+    ],
+    "first_image": "early",
+    "new_water_km2": 1.1589
+   },
+   "hazard_km2": {
+    "likely": 13.0726,
+    "possible": 12.5867,
+    "unobserved": 0.0,
+    "likely_by_source": {
+     "s1": 3.5534,
+     "s2": 1.7788,
+     "dl": 11.1762,
+     "ai_optical": 1.009,
+     "continuity": 0.0
+    }
+   },
+   "stage": {
+    "fit": {
+     "s1": {
+      "pd": [
+       0.35
+      ],
+      "pfa": 0.1058,
+      "pfa_high_ground": 0.1058
+     },
+     "s2": {
+      "pd": [
+       0.7,
+       0.3
+      ],
+      "pfa": 0.0102,
+      "pfa_high_ground": 0.0013
+     }
+    },
+    "n_reaches": 1526,
+    "n_flooded": 60,
+    "max_stage_m": 50.0,
+    "mean_stage_m": 8.533333778381348,
+    "filled_km2": 0.0
+   },
+   "impacts": {
+    "buildings": {
+     "not_affected": 797,
+     "possibly_affected": 56,
+     "likely_affected": 37
+    },
+    "roads_km": {
+     "blocked": 27.95,
+     "open": 831.95,
+     "possibly_blocked": 45.61,
+     "unobserved": 115.19
+    },
+    "roads_km_vehicle": {
+     "blocked": 27.65,
+     "open": 830.89,
+     "possibly_blocked": 45.35,
+     "unobserved": 115.19
+    },
+    "roads_km_vehicle_total": 1019.1,
+    "paths_km": {
+     "blocked": 0.3,
+     "open": 1.06,
+     "possibly_blocked": 0.25
+    },
+    "paths_km_total": 1.6,
+    "roads_km_by_class": {
+     "major": {
+      "blocked": 2.75,
+      "open": 65.93,
+      "possibly_blocked": 8.21,
+      "unobserved": 41.39,
+      "total": 118.3
+     },
+     "secondary": {
+      "blocked": 6.5,
+      "open": 306.41,
+      "possibly_blocked": 10.87,
+      "unobserved": 62.0,
+      "total": 385.8
+     },
+     "local": {
+      "blocked": 18.4,
+      "open": 451.16,
+      "possibly_blocked": 25.13,
+      "unobserved": 11.8,
+      "total": 506.5
+     },
+     "track": {
+      "open": 7.39,
+      "possibly_blocked": 1.14,
+      "total": 8.5
+     }
+    },
+    "bridges_segments": {
+     "open": 108,
+     "blocked": 32,
+     "possibly_blocked": 12
+    },
+    "bridges": {
+     "open": 107,
+     "blocked": 19,
+     "possibly_blocked": 12
+    },
+    "bridges_vehicle": {
+     "open": 97,
+     "blocked": 15,
+     "possibly_blocked": 10
+    },
+    "bridges_foot": {
+     "open": 10,
+     "blocked": 4,
+     "possibly_blocked": 2
+    },
+    "bridges_total": 138,
+    "bridges_vehicle_total": 122,
+    "bridges_foot_total": 16,
+    "q3": {
+     "version": 2,
+     "assessed": true,
+     "net": {
+      "network": "buffered",
+      "n_nodes": 45138,
+      "n_edges": 46707,
+      "n_vehicle_edges": 46560,
+      "n_exits": 847,
+      "exit_classes": "trunk/primary/secondary",
+      "n_border_closed_edges": 0,
+      "country": null,
+      "border_known": false,
+      "target_health": "hospitals",
+      "n_services": 13,
+      "n_hospitals": 1,
+      "n_health_targets": 0,
+      "n_towns": 12,
+      "n_services_unusable_post": 0,
+      "n_targets_cross_border": 0,
+      "n_targets": 860,
+      "n_dangle_links": 0,
+      "unobserved_in_grid_veh_km": 0.0,
+      "q3_options": {
+       "fp_class": true,
+       "prio_min_bld": 50,
+       "roadhead_km": 0.0,
+       "roadhead_h": 0.0,
+       "dangle_m": 0.0,
+       "road_rule": "frac",
+       "strong_rule": "v2",
+       "unverified": true,
+       "unit_rule": "point_or_majority"
+      },
+      "buffer_km": 15.0,
+      "snapshot": "2020-01-01T23:59:59Z"
+     },
+     "warnings": [],
+     "settlements": {
+      "by_status": {
+       "connected": 12,
+       "cut_off": 5,
+       "possibly_cut_off": 3,
+       "long_detour": 2
+      },
+      "named_by_status": {
+       "connected": 10,
+       "possibly_cut_off": 3,
+       "long_detour": 2,
+       "cut_off": 1
+      },
+      "unnamed_places": 6,
+      "cross_border": 0,
+      "localities_dropped": 8,
+      "lost_exit_only": 0,
+      "lost_exit_only_names": [],
+      "access_named": {
+       "air_only": 4
+      },
+      "unverified_named": 0,
+      "unverified_names": [],
+      "via_roadhead_named": 0,
+      "named_noroad_units": {
+       "possible": 2,
+       "high": 1
+      }
+     },
+     "buildings": {
+      "total": 890,
+      "cross_border": 0,
+      "no_road_high": 3,
+      "no_road_possible": 33,
+      "no_road_bridge": 0,
+      "walk_in": 0,
+      "air_only": 36,
+      "air_only_high": 3,
+      "detour": 5,
+      "no_road_pre": 0,
+      "trail_cut": 0,
+      "in_footprint": 37,
+      "fp_class": true,
+      "in_footprint_no_road": 15,
+      "via_roadhead": 0,
+      "unverified": 0
+     },
+     "units": {
+      "n": 28,
+      "named": 16,
+      "rule": "settlement point (outside the footprint) or >= 50% of the buildings outside the footprint",
+      "noroad_high": 1,
+      "noroad_any": 3,
+      "noroad_any_all": 4,
+      "air_only": 3,
+      "outlying_noroad_bld": 36,
+      "partial": 0,
+      "n_priority": 4
+     },
+     "priority": [
+      {
+       "uid": "Osn4422137800",
+       "label": "Outlying buildings near Bakhshi Khel (\u0628\u062e\u0634\u06cc \u062e\u06d0\u0644)",
+       "near": "Bakhshi Khel (\u0628\u062e\u0634\u06cc \u062e\u06d0\u0644)",
+       "place": "outlying",
+       "muni": "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+       "ward": null,
+       "lat": 34.93897,
+       "lon": 69.2747,
+       "x": 525085.4,
+       "y": 3866309.7,
+       "n_bld": 4,
+       "n_fp": 0,
+       "n_noroad": 4,
+       "n_high": 0,
+       "n_possible": 4,
+       "n_bridge": 0,
+       "n_air": 4,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": null,
+       "counted": true,
+       "n_unverified": 0,
+       "target": null,
+       "first_break_km": null,
+       "n_breaks": null,
+       "spof": false
+      },
+      {
+       "uid": "Usn4422081391",
+       "label": "Belandi (\u0628\u0644\u0646\u062f\u06cc)",
+       "near": "Belandi (\u0628\u0644\u0646\u062f\u06cc)",
+       "place": "village",
+       "muni": "Chaharikar (\u0686\u0627\u0631\u064a\u06a9\u0627\u0631)",
+       "ward": null,
+       "lat": 35.08384,
+       "lon": 69.13,
+       "x": 511850.5,
+       "y": 3882348.4,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "high",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Pol-e Matak",
+       "first_break_km": 1.36,
+       "n_breaks": 8,
+       "spof": false
+      },
+      {
+       "uid": "Usn4422137799",
+       "label": "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+       "near": "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+       "place": "village",
+       "muni": "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+       "ward": null,
+       "lat": 34.96694,
+       "lon": 69.265,
+       "x": 524191.4,
+       "y": 3869409.4,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Bagram (\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0628\u06af\u0631\u0627\u0645 Bagram)",
+       "first_break_km": 0.0,
+       "n_breaks": 3,
+       "spof": false
+      },
+      {
+       "uid": "Usn4422137801",
+       "label": "Ja`far Khel (\u062c\u0639\u0641\u0631 \u062e\u06d0\u0644)",
+       "near": "Ja`far Khel (\u062c\u0639\u0641\u0631 \u062e\u06d0\u0644)",
+       "place": "village",
+       "muni": "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+       "ward": null,
+       "lat": 34.96854,
+       "lon": 69.25606,
+       "x": 523375.3,
+       "y": 3869584.7,
+       "n_bld": 0,
+       "n_fp": 0,
+       "n_noroad": 0,
+       "n_high": 0,
+       "n_possible": 0,
+       "n_bridge": 0,
+       "n_air": 0,
+       "n_walk": 0,
+       "access": "air_only",
+       "conf": "possible",
+       "walk_km": null,
+       "walk_h": null,
+       "roadhead": null,
+       "status": "possibly_cut_off",
+       "counted": true,
+       "n_unverified": 0,
+       "target": "Bagram (\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0628\u06af\u0631\u0627\u0645 Bagram)",
+       "first_break_km": 0.93,
+       "n_breaks": 2,
+       "spof": false
+      }
+     ],
+     "hardest_hit": [
+      {
+       "uid": "Osn3558906434",
+       "label": "Outlying buildings near Bagram (\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0628\u06af\u0631\u0627\u0645 Bagram)",
+       "near": "Bagram (\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0628\u06af\u0631\u0627\u0645 Bagram)",
+       "place": "outlying",
+       "muni": "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+       "x": 524571.8,
+       "y": 3864765.9,
+       "n_bld": 58,
+       "n_fp": 19,
+       "n_fp_possible": 25,
+       "status": null,
+       "access": "air_only",
+       "lat": 34.92506,
+       "lon": 69.26903
+      }
+     ],
+     "repairs": [
+      {
+       "rank": 1,
+       "gain": 14,
+       "gain_unit": "buildings",
+       "n_settlements": 0,
+       "settlements": "",
+       "n_runs": 1,
+       "runs": "49",
+       "length_m": 48.2,
+       "bridge": false,
+       "strong": false,
+       "highway": "trunk",
+       "road": "NH0104",
+       "near": "Pol-e Matak",
+       "lat": 35.06513,
+       "lon": 69.19346
+      },
+      {
+       "rank": 2,
+       "gain": 14,
+       "gain_unit": "buildings",
+       "n_settlements": 0,
+       "settlements": "",
+       "n_runs": 1,
+       "runs": "97",
+       "length_m": 330.0,
+       "bridge": false,
+       "strong": false,
+       "highway": "tertiary",
+       "road": null,
+       "near": "P\u0101\u2019\u012bn J\u0101n Qadam (\u067e\u0627\u064a\u0627\u0646 \u062c\u0627\u0646\u0642\u062f\u0645)",
+       "lat": 34.92427,
+       "lon": 69.27096
+      },
+      {
+       "rank": 3,
+       "gain": 4,
+       "gain_unit": "buildings",
+       "n_settlements": 0,
+       "settlements": "",
+       "n_runs": 1,
+       "runs": "73",
+       "length_m": 47.8,
+       "bridge": false,
+       "strong": false,
+       "highway": "primary",
+       "road": null,
+       "near": "Qal\u2018ah-ye Gulay (\u0642\u0644\u0639\u06c0 \u06af\u0644\u06cc)",
+       "lat": 34.92536,
+       "lon": 69.2518
+      },
+      {
+       "rank": 4,
+       "gain": 1,
+       "gain_unit": "buildings",
+       "n_settlements": 0,
+       "settlements": "",
+       "n_runs": 1,
+       "runs": "1",
+       "length_m": 49.9,
+       "bridge": false,
+       "strong": false,
+       "highway": "tertiary",
+       "road": "V030304",
+       "near": null,
+       "lat": 35.04137,
+       "lon": 69.05409
+      },
+      {
+       "rank": 5,
+       "gain": 1,
+       "gain_unit": "buildings",
+       "n_settlements": 1,
+       "settlements": "Belandi (\u0628\u0644\u0646\u062f\u06cc)",
+       "n_runs": 7,
+       "runs": "16,19,21,26,38,39,40",
+       "length_m": 392.9,
+       "bridge": false,
+       "strong": false,
+       "highway": "primary",
+       "road": "NH06",
+       "near": "Pol-e Matak",
+       "lat": 35.09673,
+       "lon": 69.1816
+      }
+     ],
+     "n_break_runs": 165,
+     "health": {
+      "total": 0,
+      "by_status": {},
+      "in_footprint": [],
+      "cut_off": [],
+      "possibly_cut_off": [],
+      "hospitals_in_aoi": 0
+     },
+     "areas": {
+      "country": null,
+      "districts": [
+       "Parwan (\u067e\u0631\u0648\u0627\u0646)"
+      ],
+      "municipalities": [
+       "Chaharikar (\u0686\u0627\u0631\u064a\u06a9\u0627\u0631)",
+       "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+       "Shinwari (\u0634\u06cc\u0646\u0648\u0627\u0631\u06cc)",
+       "Jabal Saraj (\u062c\u0628\u0644\u200c \u0633\u0631\u0627\u062c)",
+       "Sayed Khel (\u0633\u06cc\u062f\u062e\u06cc\u0644)"
+      ]
+     }
+    },
+    "settlements_vehicle": {
+     "connected": 12,
+     "cut_off": 5,
+     "possibly_cut_off": 3,
+     "long_detour": 2
+    },
+    "graph_vehicle": {
+     "network": "buffered",
+     "n_nodes": 45138,
+     "n_edges": 46707,
+     "n_vehicle_edges": 46560,
+     "n_exits": 847,
+     "exit_classes": "trunk/primary/secondary",
+     "n_border_closed_edges": 0,
+     "country": null,
+     "border_known": false,
+     "target_health": "hospitals",
+     "n_services": 13,
+     "n_hospitals": 1,
+     "n_health_targets": 0,
+     "n_towns": 12,
+     "n_services_unusable_post": 0,
+     "n_targets_cross_border": 0,
+     "n_targets": 860,
+     "n_dangle_links": 0,
+     "unobserved_in_grid_veh_km": 0.0,
+     "q3_options": {
+      "fp_class": true,
+      "prio_min_bld": 50,
+      "roadhead_km": 0.0,
+      "roadhead_h": 0.0,
+      "dangle_m": 0.0,
+      "road_rule": "frac",
+      "strong_rule": "v2",
+      "unverified": true,
+      "unit_rule": "point_or_majority"
+     },
+     "buffer_km": 15.0,
+     "snapshot": "2020-01-01T23:59:59Z"
+    },
+    "cut_off_vehicle": [
+     "Belandi (\u0628\u0644\u0646\u062f\u06cc)"
+    ],
+    "possibly_cut_off_vehicle": [
+     "Bagram (\u0628\u06af\u0631\u0627\u0645)",
+     "Bakhshi Khel (\u0628\u062e\u0634\u06cc \u062e\u06d0\u0644)",
+     "Ja`far Khel (\u062c\u0639\u0641\u0631 \u062e\u06d0\u0644)"
+    ],
+    "access_routes": 6,
+    "availability": {
+     "buildings": "ok",
+     "roads": "ok",
+     "q3": "ok"
+    }
+   }
+  }
+ }
+}

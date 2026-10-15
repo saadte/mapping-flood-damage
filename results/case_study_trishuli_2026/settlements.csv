@@ -1,0 +1,603 @@
+﻿id,settlement,settlement_ne,place,status,access_now,municipality,ward,lat,lon,road_km_before,road_km_after,walk_km,walk_h,nearest_target,buildings_total,buildings_in_footprint,buildings_no_road
+#loc+id,#loc+name,#loc+name+i_ne,#loc+type,#x_status,#x_access,#adm3+name,#adm4+name,#geo+lat,#geo+lon,#x_road+km+before,#x_road+km+after,#x_walk+km,#x_walk+hours,#loc+target,#x_buildings+total,#x_buildings+affected,#x_buildings+noroad
+sn267564991,Syabru Bensi (स्याप्रु बेसी),स्याप्रु बेसी,suburb,cut_off,air_only,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.16367,85.33725,15.2,,,,Rasuwa District Hospital,404,177,227
+sn267564995,Somdang,Somdang,hamlet,cut_off,air_only,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-01,28.18997,85.19948,57.3,,,,Rasuwa District Hospital,51,0,51
+sn267678780,Baguwabesi (बगुवा बेसी),बगुवा बेसी,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-04,28.02047,84.92778,8.52,8.52,,,Phulkharka Gramin Hospital,293,1,0
+sn267679554,Kintang Phedi,Kintang Phedi,village,long_detour,detour,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-05,28.03119,84.96671,15.73,44.86,,,Katunje Health Post,413,0,18
+sn267684825,Borang (बोरंग),बोरंग,suburb,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.15906,85.05483,,,,,,389,0,0
+sn268864226,Betrawati (बेत्रावती),बेत्रावती,hamlet,cut_off,air_only,Bidur (बिदुर नगरपालिका),Bidur-10,27.97311,85.18595,9.13,12.49,,,Trishuli Hospital,943,306,91
+sn269103222,Salyankot (सल्यानकोट),सल्यानकोट,hamlet,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-05,28.02549,84.86474,9.74,9.74,,,Aaruchanaute health post,877,0,0
+sn269103223,Chhapthok (छापथोक),छापथोक,hamlet,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-04,28.01661,84.91659,11.96,12.59,,,Phulkharka Gramin Hospital,376,1,0
+sn269560819,Degav (डेगव),डेगव,hamlet,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-04,28.02495,84.88987,8.92,8.92,,,Phulkharka Gramin Hospital,185,0,0
+sn269560820,Belung (बेलुङ),बेलुङ,hamlet,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-04,28.03015,84.89672,7.99,7.99,,,Phulkharka Gramin Hospital,134,0,0
+sn269560821,Korthok (कोरथोक),कोरथोक,hamlet,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-04,28.02282,84.90335,9.12,9.12,,,Phulkharka Gramin Hospital,218,0,0
+sn269563672,Darkha (दर्ख),दर्ख,suburb,long_detour,detour,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-03,28.05887,85.00108,26.41,44.68,,,Katunje Health Post,971,0,65
+sn269563675,Dharna,Dharna,village,no_road_access_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-04,28.07615,84.99237,,,,,,160,0,10
+sn269567049,Sangyung (साङ्ग्योङ),साङ्ग्योङ,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.09366,85.01978,,,,,,65,0,0
+sn269567050,Garsyong (गार्सयोङ),गार्सयोङ,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-01,28.13383,85.02912,,,,,,33,0,0
+sn269567638,Sertung (सेर्तुङ्ग),सेर्तुङ्ग,suburb,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-03,28.1771,85.08521,,,,,,631,0,0
+sn269569034,गोठेन,गोठेन,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-03,28.15804,85.2571,34.68,,,,Rasuwa District Hospital,113,0,100
+sn269569475,Godam (गोदाम),गोदाम,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-03,28.15739,85.27684,30.8,,,,Rasuwa District Hospital,220,0,219
+sn269569477,Bahun Danda (बाहुनडाँडा),बाहुनडाँडा,hamlet,cut_off,air_only,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.16655,85.32194,24.41,,,,Rasuwa District Hospital,28,0,26
+sn269569692,Sano Bharkhu (ठुलो भार्खु),ठुलो भार्खु,hamlet,bridge_uncertain,walk_in,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.12978,85.31212,6.93,6.93,4.1,2.3,Rasuwa District Hospital,179,0,179
+sn279339372,Ranipauwa (रानीपौवा),रानीपौवा,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-04,27.83252,85.23886,16.17,16.17,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),231,0,0
+sn279339374,Mastar (मासटार),मासटार,hamlet,long_detour,detour,Galchhi (गल्छी गाउँपालिका),Galchhi -04,27.81169,84.96175,3.73,26.14,,,Baireni Hospital (बैरेनी अस्पताल),375,47,28
+sn279374584,Gajuri (गजुरी),गजुरी,village,connected,road,Gajuri (गजुरी गाउँपालिका),Gajuri-01,27.80468,84.87712,0.22,0.22,,,Gajuri Hospital,606,8,28
+sn279374585,Adamghat (आदमघाट),आदमघाट,hamlet,long_detour,detour,Gajuri (गजुरी गाउँपालिका),Gajuri-06,27.80697,84.94295,6.2,28.13,,,Baireni Hospital (बैरेनी अस्पताल),454,30,116
+sn279374588,Gardo Khola,Gardo Khola,neighbourhood,connected,road,Galchhi (गल्छी गाउँपालिका),Galchhi -07,27.79572,84.99637,0.71,0.71,,,Galchhi (गल्छी),224,0,0
+sn279374592,Galchhi (गल्छी),गल्छी,town,connected,road,Galchhi (गल्छी गाउँपालिका),Galchhi -07,27.7974,85.00046,,,,,,431,13,101
+sn601106206,Dursagang (दुर्सागाङ),दुर्सागाङ,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.13448,85.35574,,,,,,184,0,0
+sn601521341,Laurebina (लौरिबिना),लौरिबिना,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.0924,85.37984,,,,,,7,0,0
+sn601521345,Gosainkund (गोसाइँकुण्ड),गोसाइँकुण्ड,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.08394,85.40983,,,,,,22,0,0
+sn601594281,Chandanbari (चंदन बाडी),चंदन बाडी,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.11087,85.34016,,,,,,55,0,0
+sn632389750,Gumnachok,Gumnachok,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.18148,85.44093,,,,,,3,0,0
+sn632389876,Siṅdum (सिङ्ग्दुम),सिङ्ग्दुम,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.21538,85.52642,,,,,,21,0,0
+sn632389884,Rimche,Rimche,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.15882,85.42216,,,,,,11,0,0
+sn632389890,Mundu (मुण्डु),मुण्डु,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.21572,85.52058,,,,,,78,0,0
+sn976471702,Langtang (लांगटांग),लांगटांग,suburb,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.21576,85.50898,,,,,,124,0,0
+sn992955542,Rasuwa Gadhi (रसुवागढी),रसुवागढी,hamlet,cut_off,air_only,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-02,28.27777,85.37778,29.74,,,,Rasuwa District Hospital,149,113,36
+sn1046601963,Philim,Philim,village,not_connected_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.39332,84.89662,,,,,,121,0,0
+sn1078765777,Machhakhola,Machhakhola,village,cut_off,walk_in,Dharche,Dharche-05,28.22931,84.87377,24.22,,12.9,6.7,Aaruchanaute health post,276,0,183
+sn1078765936,Tatopani,Tatopani,hamlet,cut_off,walk_in,Dharche,Dharche-03,28.27569,84.89851,31.11,,21.0,13.2,Aaruchanaute health post,9,0,8
+sn1078765998,Jagat,Jagat,village,cut_off,air_only,Chum Nubri,Chum Nubri-03,28.35141,84.89586,40.98,,,,Aaruchanaute health post,55,0,48
+sn1078766092,Dobhan,Dobhan,village,cut_off,air_only,Dharche,Dharche-01,28.29547,84.90585,33.9,,,,Aaruchanaute health post,60,4,37
+sn1341029341,Chisapani,Chisapani,hamlet,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-03,27.82555,85.44839,13.0,13.0,,,Sundarijal Swastha Chauki (hospital),358,0,0
+sn1341029381,Chauki Banjyang (चौकी भनञ्याङ),चौकी भनञ्याङ,hamlet,connected,road,Shankharapur (शङ्खरापुर नगरपालिका),Shankharapur-03,27.7642,85.49775,8.73,8.73,,,People's Life Care Hospital,599,7,0
+sn1341029550,Sundarijal (सुन्दरीजल),सुन्दरीजल,suburb,connected,road,Gokarneshwar Municipality (गोकर्णेश्वर नगरपालिका),Gokarneshwar-01,27.758,85.41919,3.13,3.13,,,Mental hospital,1022,9,0
+sn1500932985,Nanglebhare (नाङ्लेभारे),नाङ्लेभारे,suburb,connected,road,Shankharapur (शङ्खरापुर नगरपालिका),Shankharapur-01,27.76348,85.52782,11.37,11.37,,,People's Life Care Hospital,901,0,0
+sn1547068160,Sherpagaun (शेर्पागाउँ),शेर्पागाउँ,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.1625,85.39705,,,,,,34,0,0
+sn1659470421,Kakani (ककनी),ककनी,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-05,27.81565,85.24696,13.58,13.58,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),635,0,0
+sn1772109893,Budhanilkantha (बूढानीलकण्ठ),बूढानीलकण्ठ,town,connected,road,Budhanilkantha Municipality (बूढानीलकण्ठ नगरपालिका),Budhanilkantha-07,27.76036,85.35063,,,,,,1372,0,5
+sn1781687924,Nyak,Nyak,village,no_road_access_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.44353,84.89369,,,,,,73,0,0
+sn1851053694,Jurethum (जुरेथूम),जुरेथूम,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-06,27.82919,85.20943,18.3,18.3,,,unnamed hospital,665,0,0
+sn1851061582,Dangmai (दाङमाई),दाङमाई,hamlet,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-13,27.86644,85.19445,12.27,12.27,,,unnamed hospital,682,0,0
+sn1851062149,Lauke Barahitan (लौके बाराहितान),लौके बाराहितान,hamlet,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-13,27.84528,85.19326,14.48,14.48,,,unnamed hospital,119,0,0
+sn1869598515,Madanpur (मदानपुर),मदानपुर,suburb,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-12,27.8652,85.17397,9.9,9.9,,,unnamed hospital,391,0,0
+sn1869598518,Kajindada (काजिन डाँडा),काजिन डाँडा,hamlet,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-12,27.86259,85.18053,10.83,10.83,,,unnamed hospital,251,0,0
+sn1875033817,Lauke Kotghaderi (लौके कोटघाडेरी),लौके कोटघाडेरी,hamlet,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-13,27.84917,85.19184,13.82,13.82,,,unnamed hospital,398,0,0
+sn1875049159,Lauke (लौके),लौके,hamlet,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-13,27.84191,85.19052,14.6,14.6,,,unnamed hospital,372,0,0
+sn1875573901,Pallo Dangmai (पल्लो दाङमाई),पल्लो दाङमाई,hamlet,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-12,27.85164,85.17832,10.53,10.53,,,unnamed hospital,312,0,0
+sn2019307131,Mulkharka (मूलखर्क),मूलखर्क,hamlet,connected,road,Gokarneshwar Municipality (गोकर्णेश्वर नगरपालिका),Gokarneshwar-01,27.77767,85.4327,1.77,1.77,,,Sundarijal Swastha Chauki (hospital),333,0,0
+sn2019360372,Jhule (झुले),झुले,hamlet,connected,road,Shankharapur (शङ्खरापुर नगरपालिका),Shankharapur-03,27.77494,85.49012,10.88,11.2,,,Sundarijal Swastha Chauki (hospital),167,0,0
+sn2140333103,Simle Bazzar (सिम्ले बजार),सिम्ले बजार,hamlet,connected,road,Thakre (थाक्रे गाउँपालिका),Thakre-02,27.75494,85.04513,3.81,3.81,,,Mahadev Basi Helth post (hospital),855,6,55
+sn2192585842,Taruka (तारुका),तारुका,suburb,connected,road,Tarkeshwar (तारकेश्वर गाउँपालिका),Tarkeshwar-02,27.86709,85.00732,23.79,23.79,,,Nilakantha (नीलकण्ठ),1306,0,0
+sn2206264553,Dharmasthali (धर्मस्थली),धर्मस्थली,suburb,connected,road,Tarakeshwar Municipality (तारकेश्वर नगरपालिका),Tarakeshwar-06,27.76704,85.30062,0.02,0.02,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),1399,0,0
+sn2302082269,Tokha Chandeshwari (टोखा चण्डेश्वरी),टोखा चण्डेश्वरी,suburb,connected,road,Tokha Municipality (टोखा नगरपालिका),Tokha-02,27.77088,85.32934,0.09,0.09,,,Tokha Chandeshwori Hospital (टोखा चन्देश्वरी अस्पताल),1479,1,0
+sn2302082270,Tokha Saraswati (टोखा सरस्वती),टोखा सरस्वती,suburb,connected,road,Tokha Municipality (टोखा नगरपालिका),Tokha-03,27.76266,85.33028,0.1,0.1,,,Aayansh Hospital (आयानस अस्पताल),2921,0,0
+sn2322395784,Angbu Danda (आङ्बु डाँडा),आङ्बु डाँडा,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,27.96643,85.48129,,,,,,1,0,0
+sn2322395804,Magingoth (माङ्गिन गोथ),माङ्गिन गोथ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,27.9761,85.48581,,,,,,6,0,0
+sn2322395808,Phedi (फेदी),फेदी,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,28.0573,85.45824,,,,,,0,0,0
+sn2322395811,Sanugopte (सानो गोप्टे),सानो गोप्टे,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-02,27.95358,85.48201,,,,,,3,0,0
+sn2322395814,Thadepati (थाडेपाटी),थाडेपाटी,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,28.0136,85.49271,,,,,,16,0,0
+sn2322653065,Gul Bhanjyang (गोल भञ्ज्याङ),गोल भञ्ज्याङ,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-05,27.90233,85.47936,6.93,6.93,,,Kutumsang Health Centre,659,0,0
+sn2322653071,Kutumsang (कुटुमसाङ),कुटुमसाङ,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-02,27.92915,85.48561,26.16,28.3,,,Melamchi (मेलम्ची),316,0,0
+sn2324993818,Pati Bhanyjang (पाटी भञ्ज्याङ),पाटी भञ्ज्याङ,hamlet,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-04,27.84385,85.45772,17.42,17.42,,,Sundarijal Swastha Chauki (hospital),718,0,0
+sn2411382434,Lapu Besi,Lapu Besi,village,cut_off,walk_in,Dharche,Dharche-07,28.17743,84.87967,17.37,,6.1,3.3,Aaruchanaute health post,268,0,210
+sn2411382436,Soti Khola,Soti Khola,isolated_dwelling,possibly_cut_off,walk_in,Aarughat,Aarughat-03,28.13534,84.85466,10.95,,38.1,20.7,Aaruchanaute health post,254,1,168
+sn2524771371,Jang (江村),Jang (江村),village,cross_border,no_road_pre,,,28.31342,85.33659,,,,,,,,
+sn2527671108,Labi (拉比村),Labi (拉比村),village,cross_border,no_road_pre,,,28.32031,85.40256,,,,,,,,
+sn2553894641,Timure (टिमुरे),टिमुरे,suburb,cut_off,air_only,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-02,28.25285,85.36667,26.52,,,,Rasuwa District Hospital,246,204,39
+sn2553969983,Thuman (थुमन),थुमन,suburb,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-01,28.21026,85.33817,,,,,,228,0,0
+sn2553991729,Gatlang (गतलांङ),गतलांङ,suburb,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-03,28.1628,85.26837,32.3,,,,Rasuwa District Hospital,798,0,796
+sn2554000784,Tatopani (तातोपानी),तातोपानी,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.22007,85.29882,42.82,,,,Rasuwa District Hospital,144,0,136
+sn2554091027,Nagthali (नागथली),नागथली,hamlet,no_road_access_pre_event,no_road_pre,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.2079,85.31583,,,,,,21,0,0
+sn2554587303,Lingling (लिङलिङ),लिङलिङ,hamlet,cut_off,walk_in,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.21085,85.3577,22.32,,23.3,10.6,Rasuwa District Hospital,142,12,129
+sn2662582250,Nagigumba (नागी गुम्बा),नागी गुम्बा,neighbourhood,connected,road,Budhanilkantha Municipality (बूढानीलकण्ठ नगरपालिका),Budhanilkantha-01,27.7834,85.38146,7.58,7.58,,,Budhanilkantha (बूढानीलकण्ठ),323,0,0
+sn2772174431,Gongang (गोङ्गाङ),गोङ्गाङ,hamlet,no_road_access_pre_event,no_road_pre,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.19892,85.29772,,,,,,102,0,45
+sn2772174479,Brimdang (ब्रिमडाङ),ब्रिमडाङ,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.20364,85.30989,45.04,,,,Rasuwa District Hospital,32,0,31
+sn2820552513,Brabal (ब्राबल),ब्राबल,village,connected,road,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.14357,85.33916,0.62,0.62,,,unnamed hospital,85,0,0
+sn2824219134,Ghoda Tabela,Ghoda Tabela,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.20062,85.46096,,,,,,24,0,0
+sn2824233583,Thangshyap (थाङ्स्याप),थाङ्स्याप,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.20759,85.47628,,,,,,27,0,0
+sn2825685151,Chyamki,Chyamki,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.21181,85.4866,,,,,,1,0,0
+sn2825686085,Gumba (गुम्बा),गुम्बा,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.21506,85.49687,,,,,,33,0,0
+sn2828873676,Khangjim (खाङजिम),खाङजिम,hamlet,not_connected_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.17681,85.35914,,,,,,50,0,26
+sn2857841832,Domen (डोमेन),डोमेन,isolated_dwelling,cut_off,walk_in,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.15077,85.36979,19.51,,3.9,1.9,Rasuwa District Hospital,8,0,8
+sn2857852085,Bhainse (भैंसे),भैंसे,hamlet,connected,road,Bidur (बिदुर नगरपालिका),Bidur-10,27.96037,85.17033,6.92,6.61,,,Trishuli Hospital,852,290,38
+sn2862517103,Ghatbesi (घाटबेंसी),घाटबेंसी,hamlet,long_detour,detour,Gajuri (गजुरी गाउँपालिका),Gajuri-05,27.8045,84.90527,2.91,37.5,,,Gajuri Hospital,396,49,169
+sn3024124995,Lapsiphedi (लप्सीफेदी),लप्सीफेदी,suburb,connected,road,Shankharapur (शङ्खरापुर नगरपालिका),Shankharapur-03,27.75182,85.49479,7.16,7.16,,,People's Life Care Hospital,181,0,0
+sn3198204652,Kharanitar (खरानीटार),खरानीटार,suburb,connected,road,Tadi (तादी गाउँपालिका),Tadi-03,27.92293,85.30829,15.39,15.39,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),479,1,0
+sn3198263833,माथिल्लो चौर,माथिल्लो चौर,hamlet,connected,road,Tadi (तादी गाउँपालिका),Tadi-03,27.92516,85.30969,15.17,15.17,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),656,1,0
+sn3262198544,Gagalphedi (गागलफेदी),गागलफेदी,suburb,connected,road,Kageshwori Manohara Municipality (कागेश्वरी मनोहरा नगरपालिका),Kageshwori Manohara-01,27.7514,85.44563,4.11,4.11,,,Mental hospital,831,0,0
+sn3360413361,Baxuequ’an (巴学曲安),Baxuequ’an (巴学曲安),hamlet,cross_border,no_road_pre,,,28.34454,85.4522,,,,,,,,
+sn3360413363,Sêrqung (色琼村),Sêrqung (色琼村),village,cross_border,no_road_pre,,,28.33851,85.42913,,,,,,,,
+sn3360479469,Longmukangba (隆姆康巴),Longmukangba (隆姆康巴),hamlet,cross_border,no_road_pre,,,28.3376,85.49877,,,,,,,,
+sn3360523131,贡布,贡布,hamlet,cross_border,no_road_pre,,,28.31434,85.55442,,,,,,,,
+sn3360523637,吉草,吉草,hamlet,cross_border,no_road_pre,,,28.31967,85.54162,,,,,,,,
+sn3386735005,Salleri,Salleri,hamlet,not_connected_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.3601,84.88839,,,,,,67,6,0
+sn3387669747,Nilakantha (नीलकण्ठ),नीलकण्ठ,town,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-03,27.91089,84.89528,,,,,,539,0,0
+sn3392625312,Bhotechaur (भोटेचौर),भोटेचौर,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-01,27.79062,85.49444,15.19,15.19,,,People's Life Care Hospital,1420,5,0
+sn3415524998,Archale (अर्चले),अर्चले,hamlet,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-05,28.01704,85.1765,2.66,2.66,,,unnamed hospital,363,0,0
+sn3415524999,Shanti Bazar (शान्ति बजार),शान्ति बजार,hamlet,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-05,28.0172,85.18146,4.39,4.39,,,unnamed hospital,243,43,3
+sn3415525225,Simle (सिम्ले),सिम्ले,hamlet,cut_off,air_only,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-02,28.0292,85.1912,6.61,,,,unnamed hospital,131,37,72
+sn3415530606,Haku Besi (हाकु बेसी),हाकु बेसी,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-01,28.11648,85.27907,19.42,,,,Rasuwa District Hospital,138,0,51
+sn3415530630,Sano Bharkhu (सानाे भार्खु),सानाे भार्खु,hamlet,bridge_uncertain,walk_in,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.13744,85.31971,9.41,9.41,2.9,2.8,Rasuwa District Hospital,132,1,131
+sn3415532806,Chipleti (चिप्लेटी),चिप्लेटी,hamlet,cut_off,walk_in,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-02,28.06211,85.19955,15.2,,16.6,7.6,unnamed hospital,239,96,135
+sn3415532807,Dandagaun (डाँडागाउँ),डाँडागाउँ,suburb,cut_off,walk_in,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-02,28.03688,85.18672,10.8,,12.2,6.2,unnamed hospital,434,5,427
+sn3415533959,Mailung (मैलुङ),मैलुङ,hamlet,cut_off,air_only,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-01,28.07177,85.207,12.15,,,,unnamed hospital,54,38,5
+sn3415536482,Sano Haku (सानो हाकु),सानो हाकु,hamlet,no_road_access_pre_event,no_road_pre,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-02,28.12417,85.27015,,,,,,361,0,0
+sn3415543901,Dalphedi (डाल्फेडी),डाल्फेडी,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-01,28.22901,85.35316,,,,,,145,41,21
+sn3415546447,Gre (ग्रे),ग्रे,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-02,28.1425,85.29557,40.5,,,,Rasuwa District Hospital,255,0,199
+sn3415550685,Grang (ग्राङ),ग्राङ,village,connected,road,Kalika (कालिका गाउँपालिका),Kalika-01,28.05735,85.226,12.98,12.98,,,Kalika Community Hospital कालिका सामुदायिक अस्पताल,500,0,0
+sn3415550686,Ramche (राम्चे),राम्चे,suburb,connected,road,Kalika (कालिका गाउँपालिका),Kalika-01,28.03256,85.21923,9.18,9.18,,,Kalika Community Hospital कालिका सामुदायिक अस्पताल,407,0,0
+sn3415553188,Thade (ठाडे),ठाडे,hamlet,connected,road,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-06,28.07756,85.24409,9.54,9.54,,,Rasuwa District Hospital,203,0,0
+sn3421443519,Kyāṅjiṅ Gompā (क्याङजिन गोँपा),क्याङजिन गोँपा,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.21239,85.56659,,,,,,172,6,0
+sn3476508984,Yubra (युब्रा),युब्रा,village,not_connected_pre_event,no_road_pre,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-02,28.00493,85.30091,,,,,,247,0,0
+sn3476538645,Lagang,Lagang,hamlet,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-02,28.00532,85.58014,53.66,53.66,,,Melamchi (मेलम्ची),31,0,0
+sn3476591332,Dubachaur (दुबाचौर),दुबाचौर,hamlet,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-11,27.84229,85.56926,3.81,3.81,,,Melamchi (मेलम्ची),626,28,8
+sn3476664322,Khading (खाडिङ),खाडिङ,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-06,28.17945,84.99464,,,,,,215,0,0
+sn3476782063,Pangdang (पाङदाङ),पाङदाङ,hamlet,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-02,27.99027,85.61083,60.74,60.74,,,Melamchi (मेलम्ची),133,2,0
+sn3476995248,Dhap (धाप),धाप,hamlet,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-06,27.91404,85.63715,6.64,6.64,,,"Dhulikhel Hospital Outreach Centre, Manekharka",547,2,0
+sn3477076592,Bolung village (बोलुङ् गाउँ),बोलुङ् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97019,85.41112,,,,,,8,0,0
+sn3477345247,Sundaradevi (सुन्दरादेवी),सुन्दरादेवी,suburb,connected,road,Tadi (तादी गाउँपालिका),Tadi-04,27.93929,85.36489,12.44,12.44,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),550,3,134
+sn3477631785,Melamchigaon (मेलम्ची गाउँ),मेलम्ची गाउँ,hamlet,not_connected_pre_event,no_road_pre,Helambu (हेलम्बु गाउँपालिका),Helambu-01,28.01828,85.52351,,,,,,167,0,0
+sn3477638508,Gang Kharka (गङ्गखर्क),गङ्गखर्क,hamlet,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-02,28.00062,85.6003,58.66,58.66,,,Melamchi (मेलम्ची),48,0,0
+sn3477638749,Nakote (नाकोटे),नाकोटे,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-01,28.00858,85.53566,47.55,48.58,,,Melamchi (मेलम्ची),153,0,0
+sn3478093355,Ghyangphedi (घ्याङ्फेदी),घ्याङ्फेदी,suburb,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97761,85.44131,0.16,0.16,,,Health post (स्वास्थ्य चौकी),51,0,0
+sn3478161247,Bhanjyangthok (भञ्ज्याङथोक),भञ्ज्याङथोक,hamlet,long_detour,detour,Tarkeshwar (तारकेश्वर गाउँपालिका),Tarkeshwar-05,27.891,85.06023,16.67,28.59,,,Panchakanaya Community Hospital,234,0,0
+sn3478161252,Tarkeshwar (तारकेश्वर),तारकेश्वर,village,long_detour,detour,Tarkeshwar (तारकेश्वर गाउँपालिका),Tarkeshwar-05,27.8955,85.06538,15.58,27.62,,,Panchakanaya Community Hospital,342,0,0
+sn3478518441,Bansbari (बाँसबारी),बाँसबारी,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-12,27.79941,85.56142,5.85,5.85,,,Melamchi hospital,1426,1,0
+sn3478531900,Sikharpur (शिखरपुर),शिखरपुर,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-10,27.81542,85.58314,3.09,3.09,,,Melamchi (मेलम्ची),1110,0,0
+sn3478659304,Sermathang (सेर्माथाङ्ग),सेर्माथाङ्ग,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-02,27.94415,85.59546,21.0,21.0,,,Melamchi (मेलम्ची),243,0,0
+sn3479549070,Thangpal (थाङपाल),थाङपाल,suburb,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-06,27.90317,85.6326,7.98,7.98,,,Lagarche Health Post,150,0,0
+sn3479656920,Tajimarang (ताजिम्राङ),ताजिम्राङ,hamlet,not_connected_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-01,28.10851,84.99466,,,,,,303,0,0
+sn3480007665,Sirdibas,Sirdibas,village,not_connected_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.38093,84.8891,,,,,,83,0,0
+sn3480023278,Labsibot,Labsibot,village,not_connected_pre_event,no_road_pre,Dharche,Dharche-05,28.2119,84.86018,,,,,,91,0,0
+sn3480033793,Dharot,Dharot,hamlet,no_road_access_pre_event,no_road_pre,Aarughat,Aarughat-01,28.16508,84.90379,,,,,,335,0,0
+sn3480098886,Thalo (किउल),किउल,suburb,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-02,27.92916,85.58173,19.72,19.72,,,Melamchi (मेलम्ची),313,0,0
+sn3480248471,Tingchet (टिंगचेट),टिंगचेट,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.11227,85.02392,,,,,,67,0,0
+sn3480468975,Timbu (टिम्बु),टिम्बु,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-01,27.95366,85.54789,33.7,33.7,,,Melamchi (मेलम्ची),279,7,17
+sn3480468976,Dongdhing (डोङढिङ),डोङढिङ,hamlet,cut_off,walk_in,Helambu (हेलम्बु गाउँपालिका),Helambu-01,27.94391,85.53838,22.17,,8.7,2.9,Melamchi (मेलम्ची),342,0,317
+sn3480518000,Chhimi (छिमी),छिमी,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-02,27.95269,85.58584,22.62,22.62,,,Melamchi (मेलम्ची),184,0,0
+sn3480575600,Ichok (इचोक),इचोक,suburb,not_connected_pre_event,no_road_pre,Helambu (हेलम्बु गाउँपालिका),Helambu-06,27.93033,85.51976,,,,,,663,0,266
+sn3480579571,Gyalthum (ग्यालथुम),ग्यालथुम,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-04,27.8817,85.54118,8.09,10.23,,,Melamchi (मेलम्ची),973,11,0
+sn3480583824,Talramarang (तालरामाराङ),तालरामाराङ,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-06,27.85178,85.53986,6.6,8.74,,,Melamchi (मेलम्ची),1240,7,0
+sn3480678635,Jyamire (ज्यामिरे),ज्यामिरे,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-09,27.84731,85.61032,8.5,8.5,,,Lagarche Health Post,1214,0,0
+sn3485282791,Jagat Bagar,Jagat Bagar,hamlet,cut_off,air_only,Chum Nubri,Chum Nubri-03,28.34674,84.89779,40.48,,,,Aaruchanaute health post,17,0,17
+sn3486490932,Samari (सामरी),सामरी,suburb,connected,road,Myagang Gaunpalika (म्यागङ गाउँपालिका),Myagang-05,27.94888,85.04693,12.77,13.99,,,Trishuli Hospital,794,0,0
+sn3488007976,Doglāng (डोग्लाङ),डोग्लाङ,hamlet,no_road_access_pre_event,no_road_pre,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-01,28.03588,85.30818,,,,,,416,1,0
+sn3488022929,Batār Bāzār (बटार बजार),बटार बजार,neighbourhood,connected,road,Bidur (बिदुर नगरपालिका),Bidur-04,27.89825,85.14635,0.15,0.15,,,Sanjivani Hospital,1223,67,0
+sn3488022930,Nawākot (नुवाकोट),नुवाकोट,suburb,connected,road,Bidur (बिदुर नगरपालिका),Bidur-02,27.9151,85.16471,3.49,3.49,,,Bhagwati Memorial Hospital,1092,0,162
+sn3488022931,Kharka (खर्क),खर्क,hamlet,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-11,27.83593,85.16001,8.11,8.11,,,unnamed hospital,785,0,59
+sn3488023633,Kālimāte (कालिमाटे),कालिमाटे,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-02,27.7884,85.22451,15.78,15.78,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),813,0,0
+sn3488620377,Kaulebhanjyang (काउले भञ्ज्याङ),काउले भञ्ज्याङ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.91312,84.99497,14.54,14.54,,,Nilakantha (नीलकण्ठ),382,2,0
+sn3489466397,Kagati Gaun (कागती गाउँ),कागती गाउँ,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-02,27.78695,85.26089,7.69,7.69,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),1561,0,0
+sn3490845652,Baseri (बसेरी),बसेरी,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-06,28.10103,84.86321,4.05,4.05,,,Baseri Health Post,632,0,0
+sn3493678199,Kharsa (खरसा),खरसा,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-03,28.17696,85.09121,,,,,,186,0,0
+sn3493678202,Lapa (लापा),लापा,suburb,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-05,28.16719,85.01531,,,,,,828,1,0
+sn3493678203,Chalish Gaon (चालिस गाउँ),चालिस गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.18515,85.08326,,,,,,221,0,0
+sn3493678204,Tipling (टिपलिङ),टिपलिङ,suburb,not_connected_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-02,28.18022,85.10659,,,,,,373,0,0
+sn3494541109,Dalgaun,Dalgaun,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-01,28.25576,85.34215,,,,,,0,0,0
+sn3494909937,Dangsing (दाङसिङ),दाङसिङ,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.0688,84.90582,2.05,2.05,,,Phulkharka Gramin Hospital,260,0,0
+sn3494909938,Majhuwa (मझुवा),मझुवा,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.08583,84.89726,,,,,,81,0,0
+sn3494909939,Mangsire (म्याङ्साइरे),म्याङ्साइरे,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-06,28.08887,84.87706,5.17,5.17,,,Baseri Health Post,404,0,0
+sn3495043003,Amithi (अमिथी),अमिथी,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-07,28.07823,84.85051,5.24,5.24,,,Baseri Health Post,283,0,0
+sn3495043004,Odar gau (ओदार गाउँ),ओदार गाउँ,hamlet,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-03,28.05269,84.88514,7.0,7.0,,,Phulkharka Gramin Hospital,363,0,0
+sn3495645010,Jarsadada (जर्सा डाँडा),जर्सा डाँडा,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-03,28.16286,85.243,37.01,,,,Rasuwa District Hospital,46,0,43
+sn3495699359,Goljung (गोल्जुङ),गोल्जुङ,suburb,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-04,28.17002,85.31589,27.52,,,,Rasuwa District Hospital,277,0,277
+sn3495699360,Chyamdole,Chyamdole,hamlet,no_road_access_pre_event,no_road_pre,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-04,28.17536,85.29632,,,,,,53,0,26
+sn3495750390,Tetanchet (तेटाङचेट),तेटाङचेट,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.21507,85.28144,37.52,,,,Rasuwa District Hospital,172,0,172
+sn3495754793,Bhrajam (भ्रजम),भ्रजम,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.18774,85.31696,23.07,,,,Rasuwa District Hospital,97,1,84
+sn3495857671,Thulo Syābru (ठुलो स्याप्रु),ठुलो स्याप्रु,hamlet,connected,road,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.14304,85.36069,3.88,3.88,,,unnamed hospital,232,0,0
+sn3495884419,Tenchet (टेङ्चेट),टेङ्चेट,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-06,28.1327,85.01599,,,,,,58,0,0
+sn3495884422,Kichet (किचेट),किचेट,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-01,28.11976,84.98183,,,,,,100,0,0
+sn3495884423,Syupchet (स्युपचेट),स्युपचेट,hamlet,not_connected_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-06,28.13998,85.03295,,,,,,41,0,0
+sn3496013335,Linjo (लिङ्जो),लिङ्जो,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-01,28.21254,85.12529,,,,,,184,0,0
+sn3496013336,Puru,Puru,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-01,28.19813,85.11638,,,,,,37,0,0
+sn3496013338,Awan,Awan,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-01,28.22011,85.13357,,,,,,12,0,0
+sn3496013343,Phyang Gaon,Phyang Gaon,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-01,28.18727,85.11179,,,,,,12,0,0
+sn3496148173,Dharampur (धरमपुर),धरमपुर,hamlet,connected,road,Budhanilkantha Municipality (बूढानीलकण्ठ नगरपालिका),Budhanilkantha-07,27.75495,85.34711,0.83,0.83,,,Golfutar Eye Hospital,1776,9,0
+sn3496148174,Khadka Bhadrakali (खड्का भद्रकाली),खड्का भद्रकाली,suburb,connected,road,Budhanilkantha Municipality (बूढानीलकण्ठ नगरपालिका),Budhanilkantha-04,27.76667,85.35,1.47,1.47,,,Budhanilkantha (बूढानीलकण्ठ),2295,2,0
+sn3496148176,Jhor Mahankal (झोर महाङ्काल),झोर महाङ्काल,hamlet,connected,road,Tokha Municipality (टोखा नगरपालिका),Tokha-01,27.79506,85.33032,3.18,3.18,,,Tokha Chandeshwori Hospital (टोखा चन्देश्वरी अस्पताल),1773,1,0
+sn3496148178,Thāpāgāon (थापा गाउँ),थापा गाउँ,hamlet,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-08,27.85544,85.30453,17.08,17.08,,,unnamed hospital,452,0,0
+sn3499801960,Bidur (बिदुर),बिदुर,town,connected,road,Bidur (बिदुर नगरपालिका),Bidur-04,27.89526,85.14645,,,,,,1677,72,64
+sn3499930540,Helmu (हेल्मु),हेल्मु,hamlet,no_road_access_pre_event,no_road_pre,Helambu (हेलम्बु गाउँपालिका),Helambu-06,27.94079,85.48244,,,,,,328,0,0
+sn3499940892,Tārke Ghyāng (तारके घ्याङ),तारके घ्याङ,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-01,27.99897,85.55376,43.77,43.77,,,Melamchi (मेलम्ची),233,0,0
+sn3504477174,Gogne (गोगने),गोगने,hamlet,cut_off,air_only,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-01,28.08887,85.22226,15.68,,,,unnamed hospital,161,12,40
+sn3504477175,Jharkaleri (झर्कलेरी),झर्कलेरी,hamlet,not_connected_pre_event,no_road_pre,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-03,28.02808,85.17144,,,,,,137,0,22
+sn3504477176,Thulogaun (ठूलोगाउँ),ठूलोगाउँ,suburb,cut_off,walk_in,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-03,28.02608,85.17135,10.87,,7.2,4.6,unnamed hospital,486,0,128
+sn3570636096,Nagi Dada (नागी डाँडा),नागी डाँडा,hamlet,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-08,27.86446,85.62892,3.54,3.54,,,Lagarche Health Post,592,0,0
+sn3570636167,Kotgau Thatidada (कोटगाउँ ठाटी डाँडा),कोटगाउँ ठाटी डाँडा,hamlet,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-08,27.87732,85.6241,2.2,2.2,,,Lagarche Health Post,551,0,0
+sn3616594295,Bharkeli (भरकेली),भरकेली,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.08553,84.89821,,,,,,99,0,0
+sn3616594300,Thula Gau (ठूला गाउँ),ठूला गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.08193,84.90698,,,,,,141,0,0
+sn3616597852,Basnet Tol (बस्नेत टोल),बस्नेत टोल,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.04693,84.91392,3.64,3.64,,,Phulkharka Gramin Hospital,189,0,0
+sn3616597854,Deurali (देउराली),देउराली,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.07203,84.90621,2.57,2.57,,,Phulkharka Gramin Hospital,63,0,0
+sn3616597855,Kattike (कात्तिके),कात्तिके,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.04908,84.91243,3.38,3.38,,,Phulkharka Gramin Hospital,50,0,0
+sn3616597856,Maha Bhir (महा भिर),महा भिर,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.03899,84.90504,8.33,8.33,,,Phulkharka Gramin Hospital,140,0,0
+sn3616597858,Mathlo Kalleri (म्याथ्लो कालेरी),म्याथ्लो कालेरी,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.05298,84.89814,4.71,4.71,,,Phulkharka Gramin Hospital,112,0,0
+sn3616597859,Sarki Tol (सार्की टोल),सार्की टोल,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.06575,84.91528,1.01,1.01,,,Phulkharka Gramin Hospital,109,0,0
+sn3616597861,Tallo Kalleri (टाल्लो कालेरी),टाल्लो कालेरी,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.04793,84.90436,5.74,5.74,,,Phulkharka Gramin Hospital,73,0,0
+sn3616597863,Tinkhande (तिङ्खण्डे),तिङ्खण्डे,hamlet,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.06472,84.91974,0.43,0.43,,,Phulkharka Gramin Hospital,74,0,0
+sn3661350883,Ladap (लडाप),लडाप,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-02,28.08967,84.95024,,,,,,148,0,0
+sn3691036082,Gobre gaun (गोब्रे गाउँ),गोब्रे गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.17926,85.06903,,,,,,56,0,0
+sn3691036083,Awoi Gaun (अवोइ गाउँ),अवोइ गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.17067,85.06924,,,,,,79,0,0
+sn3691036084,Isim Gaon (इसिम गाउँ),इसिम गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.16929,85.06131,,,,,,22,0,0
+sn3691036085,Khyadar (ख्यादार),ख्यादार,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.16672,85.06267,,,,,,4,0,0
+sn3691065947,Hindung (हिन्दुङ्ग),हिन्दुङ्ग,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.21565,85.08038,,,,,,139,0,0
+sn3691065952,Satdobato (सातदोबाटो),सातदोबाटो,hamlet,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-05,28.00365,85.16381,4.04,4.04,,,unnamed hospital,932,0,0
+sn3691071165,Nyuchet Gaon (नुचेत गाउँ),नुचेत गाउँ,hamlet,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-03,28.00394,85.134,7.46,7.46,,,unnamed hospital,1520,0,0
+sn3691071167,Bhalche (भाल्चे),भाल्चे,suburb,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-01,28.02664,85.1115,12.19,12.19,,,unnamed hospital,1839,0,0
+sn3694857689,Babil Kharka (बाबिल खर्क),बाबिल खर्क,hamlet,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-01,28.23891,85.13765,,,,,,41,0,0
+sn3726314411,Aal Dada (आल डाँडा),आल डाँडा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-13,27.93206,84.89647,5.19,5.68,,,shaid memorial hospital,166,0,0
+sn3726315643,Sangkosh (साङकोष),साङकोष,suburb,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-12,27.92159,84.89285,3.33,3.83,,,shaid memorial hospital,362,0,0
+sn3726315645,Vhaduwar Gau (भादुवार गाउँ),भादुवार गाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-12,27.92711,84.89343,4.68,5.25,,,shaid memorial hospital,273,0,0
+sn3726315646,Pachagare (पञ्चगढ),पञ्चगढ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-12,27.9357,84.90346,5.56,5.56,,,unnamed hospital,369,0,0
+sn3726315834,Syauli Dada (स्याउले डाँडा),स्याउले डाँडा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-13,27.94627,84.90698,5.98,5.98,,,Bibek Medical (hospital),243,0,0
+sn3726315836,Kerung Gau (केरुङगाउँ),केरुङगाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-11,27.96685,84.91536,1.13,1.13,,,Bibek Medical (hospital),155,0,0
+sn3728573211,Ijara (इजारा),इजारा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-03,27.90763,84.90886,1.51,1.51,,,Nilakantha (नीलकण्ठ),469,0,0
+sn3728573212,Paandhare (पान्धरे),पान्धरे,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-02,27.91441,84.92361,3.55,3.55,,,Nilakantha (नीलकण्ठ),113,0,0
+sn3728573213,Shoraghara (सोरघर),सोरघर,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-02,27.91781,84.93259,4.62,4.62,,,Nilakantha (नीलकण्ठ),430,0,0
+sn3728573273,Rijal Gau (रिजल गाँउ),रिजल गाँउ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-03,27.91156,84.91567,2.44,2.44,,,Nilakantha (नीलकण्ठ),265,0,0
+sn3743635332,Paatle (पाल्ते),पाल्ते,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-14,27.92417,84.99775,16.35,16.35,,,Nilakantha (नीलकण्ठ),298,0,0
+sn3743636790,Bhandari Gau (भण्डारी गाउँ),भण्डारी गाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-02,27.91027,84.92315,3.46,3.46,,,Nilakantha (नीलकण्ठ),217,0,0
+sn3743636791,Dodheli (दोधेली),दोधेली,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-02,27.91113,84.93116,5.68,5.68,,,Nilakantha (नीलकण्ठ),305,0,0
+sn3853808644,Chatredeurali (छत्रे देउराली),छत्रे देउराली,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-02,27.78794,85.2401,13.39,13.39,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),384,0,0
+sn3864229121,Kokhim,Kokhim,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.11779,85.01866,,,,,,35,0,0
+sn3864255170,Chyamthali (च्यामथली),च्यामथली,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-01,28.12425,85.03197,,,,,,125,0,0
+sn3864255171,Lakcho (लाक्चो),लाक्चो,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-01,28.11993,85.03435,,,,,,25,0,0
+sn3864255172,Chhapchet (छप्चेत),छप्चेत,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-01,28.12485,85.03915,,,,,,111,0,0
+sn3864255173,Yamchet (यामचेट),यामचेट,hamlet,no_road_access_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-01,28.12293,85.03772,,,,,,25,0,0
+sn3864255174,Paticho (पातिचो),पातिचो,hamlet,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.1084,85.02317,,,,,,42,0,0
+sn3864255175,Kalamrang (कलामरङ),कलामरङ,hamlet,no_road_access_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.11466,85.01298,,,,,,26,0,0
+sn3864255176,Karang (कराङ),कराङ,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-01,28.12899,85.00171,,,,,,100,0,0
+sn3864255177,Rigaon (रिगाउँ),रिगाउँ,suburb,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-01,28.09711,84.9995,,,,,,40,0,0
+sn3864255179,Tawal (तवाल),तवाल,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-02,28.08636,84.96815,,,,,,182,0,0
+sn3864255180,Dhuseni (धुसेनी),धुसेनी,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-02,28.08664,84.96146,,,,,,111,0,0
+sn3864255181,Sokthali (सोक्थली),सोक्थली,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-02,28.08246,84.98021,,,,,,82,0,0
+sn3864255182,Barre (बर्रे),बर्रे,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-02,28.0755,84.97919,,,,,,165,0,30
+sn3864255183,Purung (पुरुङ),पुरुङ,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-02,28.08602,84.98739,,,,,,209,0,0
+sn3864258446,Konglang (कोङलाङ),कोङलाङ,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-02,28.09643,84.96979,,,,,,29,0,0
+sn3864258447,Chogegaon (चोगे गाउँ),चोगे गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-01,28.09351,85.00004,,,,,,110,0,0
+sn3864258448,Chamtang (चामताङ),चामताङ,hamlet,no_road_access_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-01,28.10177,84.9993,,,,,,51,0,0
+sn4044344045,Duipipal (दुईपिपल),दुईपिपल,suburb,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-05,27.83662,85.06114,11.14,11.14,,,unnamed hospital,1084,0,0
+sn4079614654,Gairigau (गैरीगाउँ),गैरीगाउँ,hamlet,connected,road,Netrawati Dabjong (नेत्रावती डबजोङ गाउँपालिका),Netrawati Dabjong-05,27.97273,84.92228,0.01,0.01,,,Umesh Pharmacy (hospital),352,0,0
+sn4079614931,Charunge (चारुङ्गे),चारुङ्गे,hamlet,connected,road,Netrawati Dabjong (नेत्रावती डबजोङ गाउँपालिका),Netrawati Dabjong-05,27.98015,84.9258,1.13,1.13,,,Umesh Pharmacy (hospital),459,0,0
+sn4156044161,Devighat (देवीघाट),देवीघाट,hamlet,cut_off,air_only,Bidur (बिदुर नगरपालिका),Bidur-05,27.86003,85.11006,5.72,,,,Bidur (बिदुर),1088,231,59
+sn4158627691,Bungtang (बुङताङ),बुङताङ,village,connected,road,Myagang Gaunpalika (म्यागङ गाउँपालिका),Myagang-02,27.99156,85.10103,18.89,20.09,,,Trishuli Hospital,2010,6,0
+sn4226430340,Chiput (चिपुट),चिपुट,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.01916,85.08783,,,,,,125,0,0
+sn4226430341,Ghale Gau (घले गाउँ),घले गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.02846,85.08683,,,,,,69,0,0
+sn4226430342,Gumsa (गुम्सा),गुम्सा,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.01957,85.0842,,,,,,218,0,0
+sn4226430344,Karki Gaun (कार्की गाउँ),कार्की गाउँ,hamlet,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-05,28.00017,85.17269,5.35,5.35,,,unnamed hospital,530,17,0
+sn4226430345,Kaule Village (काउले),काउले,suburb,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-03,28.00513,85.13879,6.91,6.91,,,unnamed hospital,1554,0,0
+sn4226430347,Thulo gaun (थुलो गाउँ),थुलो गाउँ,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.02957,85.08806,,,,,,31,0,0
+sn4301134727,Dumre,Dumre,hamlet,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-07,27.86064,85.30908,16.74,16.74,,,unnamed hospital,633,5,7
+sn4454302289,Ratmate Danda (रातमाटे डाँडा),रातमाटे डाँडा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-04,27.90084,84.89997,2.89,2.89,,,unnamed hospital,491,0,0
+sn4607640096,Mudkhu (मुड्खु),मुड्खु,village,connected,road,Dhunibesi (धुनिवेशी नगरपालिका),Dhunibesi-01,27.75877,85.27052,4.79,4.79,,,Tarakeshwar (तारकेश्वर),927,0,0
+sn4714732024,Ambuchet (अम्बुचेट),अम्बुचेट,hamlet,no_road_access_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.01752,85.0817,,,,,,186,0,0
+sn4714732025,Bagale,Bagale,hamlet,no_road_access_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.02834,85.0868,,,,,,130,0,0
+sn4714732028,Boldogang (बोल्डोगाङ),बोल्डोगाङ,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.0325,85.09375,,,,,,88,0,0
+sn4714732031,Chokhor (चोखोर),चोखोर,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.02866,85.08817,,,,,,96,0,0
+sn4714732032,Dimdungkhor,Dimdungkhor,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.02953,85.08829,,,,,,40,0,0
+sn4714732037,Hop (होप),होप,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.01897,85.09024,,,,,,189,0,0
+sn4714732039,Jongsa (जोङ्सा),जोङ्सा,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.03724,85.09344,,,,,,415,0,0
+sn4714732054,Yarsa (यार्सा),यार्सा,hamlet,not_connected_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.03022,85.0875,,,,,,91,0,0
+sn4727563924,Bhairamkot (भैरमकोट),भैरमकोट,hamlet,connected,road,Bidur (बिदुर नगरपालिका),Bidur-08,27.95469,85.14172,7.78,7.78,,,Trishuli Hospital,52,0,0
+sn4727563926,Bhyagute (भ्यागुते),भ्यागुते,hamlet,connected,road,Bidur (बिदुर नगरपालिका),Bidur-09,27.95169,85.14379,5.87,5.87,,,Trishuli Hospital,431,0,0
+sn4727563927,Gagate (गगते),गगते,hamlet,connected,road,Bidur (बिदुर नगरपालिका),Bidur-09,27.95459,85.14645,6.52,6.52,,,Trishuli Hospital,211,0,0
+sn4727563929,Gairathok (गैराथोक),गैराथोक,village,connected,road,Bidur (बिदुर नगरपालिका),Bidur-13,27.95803,85.13097,9.32,9.32,,,Trishuli Hospital,402,0,0
+sn4727563930,Jafati (जफाती),जफाती,hamlet,not_connected_pre_event,no_road_pre,Bidur (बिदुर नगरपालिका),Bidur-09,27.95604,85.14953,,,,,,609,12,4
+sn4733336167,Mahadev Besi (महादेव बेसी),महादेव बेसी,hamlet,connected,road,Thakre (थाक्रे गाउँपालिका),Thakre-06,27.7514,85.0673,0.33,0.33,,,Mahadev Basi Helth post (hospital),429,3,0
+sn4757473068,Jyamire Bhanjyang (ज्यामिरेभञ्ज्याङ),ज्यामिरेभञ्ज्याङ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-09,27.93791,84.85828,8.18,8.57,,,shaid memorial hospital,989,0,0
+sn4757473081,Neprangchet (नेप्राङ्चेट),नेप्राङ्चेट,hamlet,no_road_access_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.10239,85.01235,,,,,,4,0,0
+sn4757474457,Ramkot Kumal Gaun (रम्कोट कुमाल गाउँ),रम्कोट कुमाल गाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.90607,84.86999,2.6,2.97,,,shaid memorial hospital,315,0,0
+sn4757474469,"Percho, Jharlang","Percho, Jharlang",village,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-01,28.13255,85.0287,,,,,,34,0,0
+sn4757474727,Gola Bhanjyang (गोलाभञ्ज्याङ),गोलाभञ्ज्याङ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-10,27.96295,84.85163,11.97,13.57,,,Umesh Pharmacy (hospital),493,1,0
+sn4757475705,Meyam (मेयाम),मेयाम,hamlet,no_road_access_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.11121,85.01263,,,,,,6,0,0
+sn4836749771,Khorlabesi,Khorlabesi,village,cut_off,walk_in,Dharche,Dharche-03,28.2544,84.88314,28.08,,18.0,12.0,Aaruchanaute health post,125,0,84
+sn4843051599,Lokpha,Lokpha,hamlet,no_road_access_pre_event,no_road_pre,Chum Nubri,Chum Nubri-06,28.44213,84.91851,,,,,,3,0,0
+sn4845077901,Keraunja,Keraunja,isolated_dwelling,cut_off,air_only,Dharche,Dharche-01,28.3098,84.90347,35.62,,,,Aaruchanaute health post,16,0,4
+sn4845077907,Nyak Phedi,Nyak Phedi,hamlet,no_road_access_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.44158,84.90016,,,,,,6,0,0
+sn4903609097,Chumchet,Chumchet,village,no_road_access_pre_event,no_road_pre,Chum Nubri,Chum Nubri-06,28.43939,84.91212,,,,,,12,0,0
+sn4912235376,Kashigaun,Kashigaun,village,not_connected_pre_event,no_road_pre,Dharche,Dharche-06,28.18744,84.89516,,,,,,764,0,0
+sn4914035911,Lapu,Lapu,village,no_road_access_pre_event,no_road_pre,Dharche,Dharche-07,28.19547,84.85785,,,,,,80,0,0
+sn4921724307,Tripureshwar (त्रिपुरेस्वर),त्रिपुरेस्वर,suburb,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-07,27.9967,84.86975,13.77,13.77,,,Aaruchanaute health post,817,2,0
+sn4921770372,Gumdi (गुम्दी),गुम्दी,suburb,not_connected_pre_event,no_road_pre,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-03,28.05235,84.95147,,,,,,639,0,0
+sn4922001796,Jharlang (झरलाङ),झरलाङ,village,not_connected_pre_event,no_road_pre,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-02,28.11052,85.024,,,,,,29,0,0
+sn4923356149,Aginchok (अगिनचोक),अगिनचोक,suburb,connected,road,Tripura Sundari (त्रिपुरासुन्दरी गाउँपालिका),Tripura Sundari-04,28.02837,84.87659,10.9,10.9,,,Aaruchanaute health post,693,4,0
+sn4928260843,Semjong (सेमजोंङ),सेमजोंङ,suburb,connected,road,Netrawati Dabjong (नेत्रावती डबजोङ गाउँपालिका),Netrawati Dabjong-03,27.98902,84.98547,12.25,12.25,,,Katunje Health Post,371,0,0
+sn4930536947,Rubi Valley (रुवी भ्याली),रुवी भ्याली,village,no_road_access_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-04,28.17031,85.07083,,,,,,47,1,0
+sn4934934105,Kumpur (कुमपुर),कुमपुर,suburb,connected,road,Siddhalek (सिद्धलेक गाउँपालिका),Siddhalek-05,27.85285,84.87153,16.66,16.66,,,Highway Community Hospital (Rajmarga Samudayak Hospital),416,0,0
+sn4935116639,Jiwanpur (जिवनपुर),जिवनपुर,suburb,connected,road,Dhunibesi (धुनिवेशी नगरपालिका),Dhunibesi-04,27.75923,85.15985,6.63,6.63,,,Shiva Darshan Hospital,758,0,1
+sn4935120590,Kewalpur (केवलपुर),केवलपुर,suburb,connected,road,Thakre (थाक्रे गाउँपालिका),Thakre-10,27.75965,85.1037,6.41,6.41,,,Shiva Darshan Hospital,749,0,0
+sn4935193787,Goganpani (गोगनपानी),गोगनपानी,hamlet,connected,road,Thakre (थाक्रे गाउँपालिका),Thakre-10,27.76724,85.08513,8.66,8.66,,,Shiva Darshan Hospital,460,0,0
+sn4935223349,Khalte (खाल्टे),खाल्टे,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.87954,84.95404,12.65,12.65,,,Nilakantha (नीलकण्ठ),107,0,0
+sn4935250634,Sunaula Bazar (सुनौला बजार),सुनौला बजार,suburb,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.88006,84.885,7.08,7.08,,,unnamed hospital,151,0,0
+sn4936553806,Dhuwakot (धुवाकोट),धुवाकोट,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-14,27.93088,84.98875,14.56,18.35,,,Nilakantha (नीलकण्ठ),1012,0,0
+sn4936562028,Jyamrung (ज्यामरुङ),ज्यामरुङ,suburb,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-11,27.97935,84.90539,2.24,2.24,,,Umesh Pharmacy (hospital),779,0,0
+sn4936602231,Kalleri (कल्लेरी),कल्लेरी,suburb,not_connected_pre_event,no_road_pre,Galchhi (गल्छी गाउँपालिका),Galchhi -01,27.81887,85.00553,,,,,,779,9,106
+sn4939963943,Kiranchok (किरनचोक),किरनचोक,suburb,long_detour,detour,Gajuri (गजुरी गाउँपालिका),Gajuri-07,27.75884,84.9403,13.66,24.32,,,Gajuri Hospital,678,3,0
+sn4940185656,Pida (पिडा),पिडा,suburb,long_detour,detour,Gajuri (गजुरी गाउँपालिका),Gajuri-06,27.80548,84.94517,7.0,26.92,,,Baireni Hospital (बैरेनी अस्पताल),78,1,0
+sn4967599293,Yarsa (यारसा),यारसा,suburb,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-06,28.01046,85.25365,5.57,5.57,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,58,0,0
+sn4967937739,Dhaibung (धइबुङ),धइबुङ,hamlet,connected,road,Kalika (कालिका गाउँपालिका),Kalika-02,28.00215,85.21124,1.87,1.87,,,Kalika Community Hospital कालिका सामुदायिक अस्पताल,895,0,0
+sn4967967500,Laharepauwa (लहरेपउवा),लहरेपउवा,suburb,connected,road,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-04,28.01347,85.19715,5.31,5.31,,,Kalika Community Hospital कालिका सामुदायिक अस्पताल,638,0,3
+sn4968010288,Bridhim (बृद्‌धिम),बृद्‌धिम,suburb,cut_off,walk_in,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.1995,85.36695,27.56,,21.3,9.5,Rasuwa District Hospital,128,0,83
+sn4973238936,Bhotang (भोताङ),भोताङ,suburb,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-03,27.96618,85.64633,4.61,4.61,,,"Dhulikhel Hospital Outreach Centre, Manekharka",805,2,0
+sn4973280559,Duwachaur (दुवाचैार),दुवाचैार,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-08,27.88496,85.58271,11.24,11.24,,,Melamchi (मेलम्ची),915,0,0
+sn4973392881,Sindhukot (सिन्धुकोट),सिन्धुकोट,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-05,27.81651,85.51703,12.98,12.98,,,Melamchi hospital,1106,0,0
+sn4974953985,Langarche (लाङ्गार्चे),लाङ्गार्चे,suburb,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-08,27.87014,85.61281,1.83,1.83,,,Lagarche Health Post,624,7,0
+sn4976783969,Simpal Kavre (सिपाल काभ्रे),सिपाल काभ्रे,suburb,connected,road,Indrawati (ईन्द्रावती गाउँपालिका),Indrawati-01,27.82602,85.64933,17.71,17.71,,,Melamchi (मेलम्ची),118,0,19
+sn4984199718,Phatakshila (फटकसिला),फटकसिला,suburb,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-13,27.76297,85.57077,4.73,4.73,,,Sipaghat,1354,0,0
+sn4996144082,Baluwapati Deupur (बालुवापाटी देउपुर),बालुवापाटी देउपुर,hamlet,connected,road,Mandandeupur (मण्डनदेउपुर नगरपालिका),Mandandeupur-01,27.75311,85.55059,6.47,6.47,,,Sipaghat,392,0,0
+sn5002810387,Bupchet,Bupchet,isolated_dwelling,cut_off,air_only,Dharche,Dharche-01,28.31973,84.90615,36.79,,,,Aaruchanaute health post,10,0,10
+sn5045958153,Okharpauwa (ओखरपौवा),ओखरपौवा,suburb,connected,road,Kakani (ककनी गाउँपालिका),Kakani-02,27.7884,85.23579,13.94,13.94,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),513,0,0
+sn5046089165,Thanapati (थानपति),थानपति,suburb,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-08,27.85704,85.28764,15.46,15.46,,,unnamed hospital,919,0,0
+sn5046103275,Samundradevi (समुन्द्रादेवी),समुन्द्रादेवी,suburb,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-06,27.8443,85.34979,16.86,16.86,,,Tokha Chandeshwori Hospital (टोखा चन्देश्वरी अस्पताल),935,0,0
+sn5047291810,Chaturale (चतुराले),चतुराले,suburb,connected,road,Kakani (ककनी गाउँपालिका),Kakani-07,27.86885,85.215,17.52,17.52,,,unnamed hospital,851,2,0
+sn5047306168,Dandagaun (डाँडागाउँ),डाँडागाउँ,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-05,27.83268,85.24934,16.55,16.55,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),699,0,0
+sn5047367834,Sikre (सिक्रे),सिक्रे,suburb,cut_off,walk_in,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-05,27.84636,85.37418,22.42,,0.7,0.2,Tokha Chandeshwori Hospital (टोखा चन्देश्वरी अस्पताल),881,0,248
+sn5047482680,Talakhu (तलाखु),तलाखु,suburb,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-04,27.84923,85.42508,22.87,22.87,,,Sundarijal Swastha Chauki (hospital),1114,0,0
+sn5047616689,Chhap (छाप),छाप,suburb,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-01,27.83638,85.41543,14.76,14.76,,,Sundarijal Swastha Chauki (hospital),817,0,0
+sn5047986859,Bhadratar (भद्रुटार),भद्रुटार,suburb,connected,road,Panchakanya (पञ्चकन्या गाउँपालिका),Panchakanya-05,27.87319,85.32349,21.64,21.76,,,unnamed hospital,711,0,0
+sn5052630542,Lachyang (लछ्याङ),लछ्याङ,suburb,connected,road,Suryagadhi (सूर्यगढी गाउँपालिका),Suryagadhi-01,27.97702,85.29806,20.45,20.45,,,unnamed hospital,626,2,0
+sn5052655881,Narjamandap (नर्जामण्डप),नर्जामण्डप,suburb,long_detour,detour,Tadi (तादी गाउँपालिका),Tadi-06,27.91969,85.28236,13.15,21.94,,,unnamed hospital,845,0,0
+sn5052696006,Haldekalika (हल्देकालीका),हल्देकालीका,suburb,connected,road,Suryagadhi (सूर्यगढी गाउँपालिका),Suryagadhi-04,27.93146,85.23552,9.9,9.9,,,unnamed hospital,439,0,0
+sn5052958023,Ganeshthan (गणेशस्थान),गणेशस्थान,village,connected,road,Suryagadhi (सूर्यगढी गाउँपालिका),Suryagadhi-05,27.917,85.24022,12.53,12.53,,,unnamed hospital,572,0,0
+sn5052970038,Suryamati (सुर्यमती),सुर्यमती,suburb,connected,road,Likhu (लिखु गाउँपालिका),Likhu-01,27.90033,85.20469,3.91,3.91,,,unnamed hospital,1657,0,501
+sn5052982160,Chaughada (चौघडा),चौघडा,suburb,long_detour,detour,Likhu (लिखु गाउँपालिका),Likhu-04,27.90611,85.25175,10.08,27.02,,,unnamed hospital,1085,2,0
+sn5053008554,Kabilas (कविलास),कविलास,suburb,not_connected_pre_event,no_road_pre,Panchakanya (पञ्चकन्या गाउँपालिका),Panchakanya-02,27.91303,85.28709,,,,,,891,0,0
+sn5053050100,Beteni,Beteni,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-04,27.89776,85.41468,23.42,23.42,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),701,0,0
+sn5053070225,Samundratar (समुन्द्रटार),समुन्द्रटार,suburb,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-06,27.9318,85.38059,8.1,8.1,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),333,4,0
+sn5053074351,Shikharbesi (शिखरेबेसी),शिखरेबेसी,suburb,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-07,27.97821,85.3993,,,,,,160,0,0
+sn5053160243,Rautbesi,Rautbesi,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-03,27.92096,85.40859,11.43,11.43,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),511,2,0
+sn5053248232,Thansing (थानसीङ),थानसीङ,suburb,connected,road,Likhu (लिखु गाउँपालिका),Likhu-06,27.884,85.2536,9.71,9.71,,,unnamed hospital,743,1,0
+sn5053279576,Khadag Bhanjyang (खड्ग भञ्ज्याङ),खड्ग भञ्ज्याङ,suburb,long_detour,detour,Bidur (बिदुर नगरपालिका),Bidur-03,27.88174,85.09424,10.69,35.16,,,Panchakanaya Community Hospital,882,0,0
+sn5053286319,Charghare (चारघरे),चारघरे,suburb,long_detour,detour,Bidur (बिदुर नगरपालिका),Bidur-12,27.89793,85.11508,6.71,43.43,,,Panchakanaya Community Hospital,900,0,0
+sn5053326415,Gorsyang (गोरस्याङ),गोरस्याङ,suburb,long_detour,detour,Tarkeshwar (तारकेश्वर गाउँपालिका),Tarkeshwar-05,27.89929,85.05732,17.12,27.29,,,Panchakanaya Community Hospital,252,0,0
+sn5053935155,Haibung (हैबुंग),हैबुंग,hamlet,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-03,27.82071,85.46574,13.77,13.77,,,Sundarijal Swastha Chauki (hospital),874,0,0
+sn5055210667,Jiling (जिलीङ),जिलीङ,suburb,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-09,27.83428,85.12666,1.56,1.56,,,Belkotgadhi (बेलकोटगढी),392,0,0
+sn5055621837,Ratmate (रातमाटे),रातमाटे,suburb,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-07,27.85302,85.06138,11.51,15.84,,,unnamed hospital,788,42,220
+sn5055848770,Belkot (बेलकोट),बेलकोट,suburb,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-01,27.81355,85.17614,18.78,18.78,,,unnamed hospital,423,0,0
+sn5056008594,Chauthe (चौठे),चौठे,suburb,connected,road,Kakani (ककनी गाउँपालिका),Kakani-03,27.79458,85.20235,17.84,17.84,,,Shiva Darshan Hospital,417,0,0
+sn5057875061,Kalyanpur (कल्याणपुर),कल्याणपुर,suburb,not_connected_pre_event,no_road_pre,Bidur (बिदुर नगरपालिका),Bidur-13,27.93403,85.08975,,,,,,962,0,0
+sn5063346880,Kumari (कुमारी),कुमारी,suburb,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-03,27.77486,85.13877,11.07,11.34,,,Shiva Darshan Hospital,818,1,0
+sn5063441751,Tupche (टुपचे),टुपचे,suburb,connected,road,Bidur (बिदुर नगरपालिका),Bidur-07,27.97336,85.15227,8.5,8.5,,,Trishuli Hospital,1499,0,0
+sn5063608299,Salme (साल्मे),साल्मे,suburb,no_road_access_pre_event,no_road_pre,Kispang (किस्पाङ गाउँपालिका),Kispang-04,28.0287,85.08743,,,,,,15,0,0
+sn5063615453,Gerkhu (गेरखू),गेरखू,suburb,long_detour,detour,Bidur (बिदुर नगरपालिका),Bidur-11,27.9521,85.18613,10.63,18.23,,,Trishuli Hospital,710,0,0
+sn5068444829,Pandit Chaur (पंडित चौर),पंडित चौर,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-12,27.92092,84.89893,2.5,3.0,,,shaid memorial hospital,405,0,0
+sn5071113071,Amarawati (अमरावती),अमरावती,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.90955,84.87936,2.27,2.63,,,shaid memorial hospital,457,1,0
+sn5086621424,Resuo (热索),Resuo (热索),village,cross_border,no_road_pre,,,28.28032,85.37822,,,,,,,,
+sn5104642094,Sera (सेरा),सेरा,hamlet,not_connected_pre_event,no_road_pre,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-10,27.99218,84.86152,,,,,,545,0,0
+sn5158778294,Magar Gau (मगर गाउँ),मगर गाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.91126,84.86027,4.56,4.92,,,shaid memorial hospital,162,0,0
+sn5174324125,Murali bhanjyang (मुरलीभञ्ज्याङ),मुरलीभञ्ज्याङ,suburb,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.91807,84.85984,3.79,4.15,,,shaid memorial hospital,440,0,0
+sn5181440718,Patle (पाल्ते),पाल्ते,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.88265,84.94724,9.53,9.53,,,Nilakantha (नीलकण्ठ),283,0,0
+sn5190630980,Kusunde Gau (कुसुन्डे गाउँ),कुसुन्डे गाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-06,27.86158,84.91293,12.42,12.42,,,unnamed hospital,609,0,0
+sn5205567965,Chaampbhanjyang Bazzar (चाम्पभञ्ज्याङ बजार),चाम्पभञ्ज्याङ बजार,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-10,27.97599,84.86645,8.29,9.89,,,Umesh Pharmacy (hospital),290,0,0
+sn5215726334,Sasaha (ससा),ससा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.89051,84.87054,3.75,4.11,,,shaid memorial hospital,276,0,0
+sn5215871034,Bhorlemani Danda (भोर्लेमणी डाँडा),भोर्लेमणी डाँडा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-13,27.95317,84.90522,5.14,5.14,,,Bibek Medical (hospital),269,0,0
+sn5235619896,Pipaltar (पिपलटार),पिपलटार,hamlet,connected,road,Bidur (बिदुर नगरपालिका),Bidur-05,27.86558,85.12812,4.67,4.67,,,Bidur (बिदुर),924,18,34
+sn5250141947,Advance Tol,Advance Tol,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-03,27.9125,84.88389,0.56,1.28,,,shaid memorial hospital,1147,91,17
+sn5267632393,Chedu,Chedu,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.87954,84.87405,5.76,6.12,,,shaid memorial hospital,161,0,0
+sn5319707888,Majgau,Majgau,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.87314,84.89255,8.97,8.97,,,unnamed hospital,104,0,0
+sn5411466640,Pangling (पाङलिङ),पाङलिङ,hamlet,no_road_access_pre_event,no_road_pre,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-02,28.13125,85.28106,,,,,,129,0,0
+sn5474823162,SambuTaar,SambuTaar,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.89072,84.89122,3.57,3.57,,,unnamed hospital,248,0,0
+sn5477186841,Dhalebar,Dhalebar,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.89151,84.88511,3.43,3.43,,,unnamed hospital,343,0,0
+sn5477186842,Odaare,Odaare,isolated_dwelling,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.89008,84.87458,4.08,4.44,,,shaid memorial hospital,178,2,0
+sn5477186848,Deeurali Danda,Deeurali Danda,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.88636,84.89006,5.03,5.03,,,unnamed hospital,92,0,0
+sn5477186857,Newar Tole,Newar Tole,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.87353,84.89024,8.95,8.95,,,unnamed hospital,114,0,0
+sn5477186858,Simkhada Tole,Simkhada Tole,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.8726,84.89074,9.22,9.22,,,unnamed hospital,65,0,0
+sn5477186874,Kafachaap Gaun,Kafachaap Gaun,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-06,27.87243,84.90677,11.16,11.16,,,unnamed hospital,182,0,0
+sn5477186877,Bataredana,Bataredana,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.8912,84.88571,3.46,3.46,,,unnamed hospital,100,0,0
+sn5710888015,खार्चुङ,खार्चुङ,hamlet,connected,road,Helambu (हेलम्बु गाउँपालिका),Helambu-01,27.98713,85.53587,42.23,50.03,,,Melamchi (मेलम्ची),278,0,20
+sn5838577377,Thangurmu,Thangurmu,isolated_dwelling,not_connected_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.41491,84.89475,,,,,,30,0,0
+sn5838578893,Chisopani,Chisopani,hamlet,not_connected_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.4091,84.89465,,,,,,81,0,0
+sn5838600736,Saglet,Saglet,hamlet,not_connected_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.38849,84.89099,,,,,,36,0,0
+sn5838600737,Ghatte Khola,Ghatte Khola,hamlet,not_connected_pre_event,no_road_pre,Chum Nubri,Chum Nubri-03,28.38587,84.89176,,,,,,52,0,0
+sn5838644328,Yaruphant,Yaruphant,isolated_dwelling,cut_off,air_only,Dharche,Dharche-01,28.32652,84.9083,37.94,,,,Aaruchanaute health post,24,0,24
+sn6019050383,Khanibesi,Khanibesi,isolated_dwelling,cut_off,walk_in,Dharche,Dharche-07,28.20674,84.87251,21.4,,11.6,5.6,Aaruchanaute health post,120,1,105
+sn6019050914,Liding,Liding,isolated_dwelling,cut_off,walk_in,Aarughat,Aarughat-03,28.14989,84.86351,13.36,,2.1,0.8,Aaruchanaute health post,303,0,127
+sn6313765394,Dulal Tol (दुलाल टोल),दुलाल टोल,neighbourhood,connected,road,Budhanilkantha Municipality (बूढानीलकण्ठ नगरपालिका),Budhanilkantha-05,27.78241,85.35501,3.06,3.06,,,Budhanilkantha (बूढानीलकण्ठ),1782,3,0
+sn6646454833,Tarakeshwar (तारकेश्वर),तारकेश्वर,town,connected,road,Tarakeshwar Municipality (तारकेश्वर नगरपालिका),Tarakeshwar-06,27.76466,85.30007,,,,,,1385,1,0
+sn7320718995,Chipling (चिप्लिङ),चिप्लिङ,hamlet,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-04,27.8687,85.45584,13.94,13.94,,,Kutumsang Health Centre,264,0,0
+sn8370777874,Bosigaun (बोशी गाउँ),बोशी गाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-11,27.97476,84.87249,9.02,9.02,,,Bibek Medical (hospital),639,5,0
+sn8435208930,Nawalpur (नवलपुर),नवलपुर,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-06,27.8494,84.91071,14.06,14.06,,,unnamed hospital,262,0,0
+sn8675720583,Lawadun (लावाडुङ),लावाडुङ,hamlet,not_connected_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-02,28.17346,85.11616,,,,,,562,0,0
+sn8675720584,Kamingau (कामिं गाउँ),कामिं गाउँ,hamlet,not_connected_pre_event,no_road_pre,Rubi Valley (रुवी भ्याली गाउँपालिका),Rubi Valley-02,28.18337,85.1004,,,,,,82,0,0
+sn8775459240,Tin Dhara (तीन धारा),तीन धारा,hamlet,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-01,27.89615,85.59804,10.57,10.66,,,Lagarche Health Post,841,0,0
+sn8952787381,Keureni (केउरेनी),केउरेनी,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-06,27.8385,85.20144,16.26,16.26,,,unnamed hospital,384,0,0
+sn9326045191,Nepali tole -TARU,Nepali tole -TARU,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.87459,84.89329,8.96,8.96,,,unnamed hospital,175,0,0
+sn9326144381,Kami Tole,Kami Tole,neighbourhood,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-07,27.88547,84.89696,4.46,4.46,,,unnamed hospital,271,0,0
+sn9334652355,Simalighari (सिमलीगढी),सिमलीगढी,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.89866,84.85786,5.01,5.37,,,shaid memorial hospital,89,0,0
+sn9640975459,Lama hotel,Lama hotel,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.16143,85.43027,,,,,,10,0,0
+sn9640975460,Chhunama,Chhunama,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.18554,85.44364,,,,,,3,0,0
+sn9640975461,Pering Kharka,Pering Kharka,hamlet,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.19773,85.45676,,,,,,9,0,0
+sn9963623204,Sisdole (सिसडोल),सिसडोल,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-02,27.78144,85.24926,10.62,10.62,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),864,4,0
+sn9963623205,Banchare Danda (बन्चरे डाँडा),बन्चरे डाँडा,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-02,27.77789,85.22921,12.37,12.37,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),611,6,0
+sn10162040560,Sisneri (सिस्नेरी),सिस्नेरी,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-04,27.81278,85.21532,21.32,21.32,,,unnamed hospital,235,0,0
+sn10162298906,Jagari (जागरी),जागरी,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-03,27.80937,85.20946,20.52,20.52,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),299,0,0
+sn10169139602,Ningale (निङ्गले),निङ्गले,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-04,27.81829,85.22603,19.28,19.28,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),353,0,0
+sn10207187270,"National Rainbow Trout Research Station, Dhunche","National Rainbow Trout Research Station, Dhunche",hamlet,connected,road,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-06,28.11041,85.30472,3.0,3.0,,,Rasuwa District Hospital,364,0,3
+sn10207223745,"Pasture and Fodder Research Station, Dhunche","Pasture and Fodder Research Station, Dhunche",hamlet,connected,road,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-06,28.11239,85.30212,3.34,3.34,,,Rasuwa District Hospital,82,0,0
+sn10266634915,Mulkharka (मूलखर्क),मूलखर्क,hamlet,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-09,27.84603,85.64264,7.8,7.8,,,Lagarche Health Post,213,1,11
+sn10266637632,Melamchi (मेलम्ची),मेलम्ची,town,connected,road,Melamchi (मेलम्ची नगरपालिका),Melamchi-11,27.8293,85.57613,,,,,,1692,14,0
+sn10315965426,Dhunche (धुन्चे),धुन्चे,suburb,connected,road,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-06,28.11279,85.29606,1.57,1.57,,,Rasuwa District Hospital,327,0,3
+sn10555692906,Hile Bhitta (हिले भिट्टा),हिले भिट्टा,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-02,27.81069,85.24327,14.33,14.33,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),526,1,15
+sn10603458426,Salim Bhitta (सालिम भित्ता),सालिम भित्ता,hamlet,cut_off,walk_in,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-03,28.02356,85.18173,6.44,,11.0,6.0,unnamed hospital,118,11,107
+sn10603466952,Dhunge (ढुङ्गे),ढुङ्गे,hamlet,connected,road,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-04,28.01424,85.2031,3.11,3.11,,,Kalika Community Hospital कालिका सामुदायिक अस्पताल,730,0,0
+sn10603476241,Ghormu (घोर्मु),घोर्मु,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-06,28.0135,85.2526,5.97,5.97,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,328,0,0
+sn10603486359,Parchyang (पारच्याङ्ग),पारच्याङ्ग,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-03,28.01151,85.27362,20.71,20.71,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,261,0,0
+sn10603537479,Naubisephat (नौविसे फाँट),नौविसे फाँट,hamlet,connected,road,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-05,27.98469,85.18256,9.34,11.3,,,unnamed hospital,1634,245,1
+sn10603584476,Dharna bhadaure (धर्नाभदौरे),धर्नाभदौरे,hamlet,cut_off,walk_in,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-01,28.06642,85.20017,16.26,,17.7,8.0,unnamed hospital,18,0,18
+sn10603590046,Siruchet (सिरुचेत),सिरुचेत,hamlet,cut_off,walk_in,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-01,28.07144,85.19857,16.71,,18.1,8.2,unnamed hospital,75,0,67
+sn10603591893,Khalchet (खालचेत),खालचेत,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-06,27.99958,85.23774,3.07,3.07,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,856,0,0
+sn10603591972,Sarsyu (सरसिउ),सरसिउ,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-06,28.00424,85.24816,4.45,4.45,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,526,0,0
+sn10603738772,Saramthali (सरमथली),सरमथली,suburb,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-04,27.97573,85.27504,22.09,22.09,,,unnamed hospital,373,0,0
+sn10794813511,Chalangpati (चोलाङपाटी),चोलाङपाटी,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.10009,85.37123,,,,,,12,0,0
+sn10833649292,Pajung (पाजुङ),पाजुङ,hamlet,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.18603,85.32756,21.67,,,,Rasuwa District Hospital,123,2,86
+sn10885725496,Chhahare (छहारे),छहारे,hamlet,connected,road,Kakani (ककनी गाउँपालिका),Kakani-04,27.83243,85.23597,16.5,16.5,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),426,0,0
+sn10904983713,Homestay Chowk (होमस्टे चोक),होमस्टे चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97756,85.44115,0.15,0.15,,,Health post (स्वास्थ्य चौकी),28,0,0
+sn10904983714,Sisipu chowk (सिसिपु चोक),सिसिपु चोक,neighbourhood,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.99942,85.44746,,,,,,55,0,0
+sn10904983715,Kigong chowk (किगोङ् चोक),किगोङ् चोक,neighbourhood,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97888,85.4325,,,,,,19,0,0
+sn10904983716,School chowk (स्कुल चोक),स्कुल चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97589,85.43996,0.1,0.1,,,Health post (स्वास्थ्य चौकी),36,0,0
+sn10904983717,Upra chowk (उप्रा चोक),उप्रा चोक,neighbourhood,cut_off,air_only,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98219,85.44639,1.17,,,,Health post (स्वास्थ्य चौकी),19,0,18
+sn10904983718,Tamang ‍Chowk (तामाङ् चोक),तामाङ् चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97062,85.40958,4.82,4.82,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),4,0,0
+sn10904983720,Majuwa chowk (मझुवा चोक),मझुवा चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.96672,85.40726,4.34,4.34,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),2,0,0
+sn10904983721,choso tole chowk (चोसो टोल चोक),चोसो टोल चोक,neighbourhood,cut_off,air_only,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98839,85.45001,1.97,,,,Health post (स्वास्थ्य चौकी),45,0,45
+sn10904983722,Pangpra (पाङ्प्रा),पाङ्प्रा,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98291,85.44164,2.53,2.53,,,Health post (स्वास्थ्य चौकी),70,0,0
+sn10904983723,Botgaun village (बोट् गाउँ),बोट् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97174,85.41992,,,,,,11,0,0
+sn10904983724,Nikleene village (निक्लिने गाउँ),निक्लिने गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97532,85.42448,,,,,,33,0,1
+sn10904983725,Namsagaun (नाम्सा गाउँ),नाम्सा गाउँ,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98802,85.44059,3.57,3.57,,,Health post (स्वास्थ्य चौकी),36,0,0
+sn10904983726,Chyandanda (च्यानडाँडा),च्यानडाँडा,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.96853,85.4092,4.63,4.63,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),6,0,0
+sn10904983727,Ranibari village (रानीबारि),रानीबारि,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98023,85.42401,,,,,,15,0,0
+sn10904983728,Lampate village (लाम्पाते गाउँ),लाम्पाते गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98392,85.42184,,,,,,31,0,0
+sn10904983729,Lemgung village (लेमगुङ् गाउँ),लेमगुङ् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97704,85.41761,,,,,,13,0,0
+sn10904983730,Pangme village (पाङ्‍मे गाउँ),पाङ्‍मे गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97474,85.41807,,,,,,12,0,0
+sn10904983731,Heudung village (हेउदुङ् गाउँ),हेउदुङ् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97161,85.41351,,,,,,9,0,0
+sn10904983733,Dhadinbari village (धादिङ्बारि),धादिङ्बारि,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97711,85.41203,,,,,,14,0,0
+sn10904983734,Sangale danda village (साङ्ले डाँडा),साङ्ले डाँडा,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97829,85.40932,,,,,,9,0,0
+sn10904983735,Tengche village (तेङ्चे गाउँ),तेङ्चे गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97955,85.40841,,,,,,4,0,0
+sn10904983736,Da gang village (डे गाङ् गाउँ),डे गाङ् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.9761,85.40709,,,,,,9,0,0
+sn10904983737,Malung village (मालुङ् गाउँ),मालुङ् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97711,85.40858,,,,,,12,0,0
+sn10904983738,Katunje village (कटुन्जे गाउँ),कटुन्जे गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97338,85.4082,,,,,,30,0,0
+sn10904983739,Bisan village (बिसन् गाउँ),बिसन् गाउँ,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97047,85.40744,4.73,4.73,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),0,0,0
+sn10904983740,Dambiodar village (दाम्बियोदर गाउँ),दाम्बियोदर गाउँ,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.96392,85.41628,3.18,4.78,,,Health post (स्वास्थ्य चौकी),15,0,0
+sn10904983741,Negi village (नेगी गाउँ),नेगी गाउँ,hamlet,long_detour,detour,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.96464,85.42205,2.59,5.35,,,Health post (स्वास्थ्य चौकी),13,1,0
+sn10904983742,Gyalmi village (ग्याल्मी गाउँ),ग्याल्मी गाउँ,hamlet,cut_off,walk_in,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97304,85.43498,0.89,,0.6,0.3,Health post (स्वास्थ्य चौकी),12,0,5
+sn10904983743,Seljung village (सेल्जुङ् गाउँ),सेल्जुङ् गाउँ,hamlet,cut_off,walk_in,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97179,85.43128,1.32,,1.1,0.4,Health post (स्वास्थ्य चौकी),29,2,27
+sn10904983744,Kaule village (कौले गाउँ),कौले गाउँ,hamlet,cut_off,walk_in,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.97,85.42555,2.11,,1.9,0.7,Health post (स्वास्थ्य चौकी),12,4,7
+sn10904983745,Chyamdong village (च्याम्डोङ् गाउँ),च्याम्डोङ् गाउँ,hamlet,not_connected_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98233,85.43516,,,,,,33,0,0
+sn10904983746,Kigong village (किगोङ् गाउँ),किगोङ् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.9785,85.43319,,,,,,25,0,10
+sn10904983747,Hukel village (हुकेल गाउँ),हुकेल गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,27.99182,85.43227,,,,,,61,0,0
+sn10904983748,Upra village (उप्रा गाउँ),उप्रा गाउँ,hamlet,cut_off,air_only,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98307,85.44696,1.26,,,,Health post (स्वास्थ्य चौकी),29,0,29
+sn10904983749,Konggoau village (कोङ् गाउँ),कोङ् गाउँ,hamlet,cut_off,air_only,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98566,85.45192,2.04,,,,Health post (स्वास्थ्य चौकी),47,0,32
+sn10904983750,Apenou village (अपेनौ गाउँ),अपेनौ गाउँ,hamlet,cut_off,air_only,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.98505,85.44947,1.74,,,,Health post (स्वास्थ्य चौकी),20,0,20
+sn10904983751,Ghyawar chaur (घ्यावार चौर),घ्यावार चौर,hamlet,cut_off,air_only,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.99131,85.45253,2.42,,,,Health post (स्वास्थ्य चौकी),125,0,125
+sn10904983752,Chetang village (चेताङ् गाउँ),चेताङ् गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,27.98976,85.46223,,,,,,82,0,4
+sn10904983753,Polokharka village (पोलोखर्क गाउँ),पोलोखर्क गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,28.00219,85.45489,,,,,,12,0,0
+sn10904983754,Indum village (इन्दुम गाउँ),इन्दुम गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,28.00524,85.45601,,,,,,14,0,0
+sn10904983755,Kaseri village (कसेरी गाउँ),कसेरी गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,28.01883,85.46379,,,,,,96,0,0
+sn10904983756,Talu village (तालु गाउँ),तालु गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),,28.02407,85.45767,,,,,,54,0,0
+sn10904983757,Yerpapani village (यर्पापानी गाउँ),यर्पापानी गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,28.01033,85.45065,,,,,,58,0,0
+sn10904983758,Selolo village (सेलोलो गाउँ),सेलोलो गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.99797,85.45022,,,,,,30,0,7
+sn10904983759,Pingtaba village (पिङ्ताबा गाउँ),पिङ्ताबा गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.99807,85.44893,,,,,,27,0,0
+sn10904983760,Sisipu village (सिसिपु गाउँ),सिसिपु गाउँ,hamlet,no_road_access_pre_event,no_road_pre,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.99966,85.44685,,,,,,108,0,0
+sn10904983761,Akhyu village (आख्यु गाउँ),आख्यु गाउँ,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.99487,85.44637,4.41,4.41,,,Health post (स्वास्थ्य चौकी),36,0,0
+sn10904983762,Singaje village (सिङ्‍गाजे गाउँ),सिङ्‍गाजे गाउँ,hamlet,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-01,27.99261,85.44241,4.16,4.16,,,Health post (स्वास्थ्य चौकी),116,0,0
+sn10923355998,Ekpakhe (एक्पाखे),एक्पाखे,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-06,28.00258,85.26367,24.43,24.43,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,77,0,0
+sn10923390428,Danuswara (दनुस्वारा),दनुस्वारा,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-04,27.97302,85.26337,18.56,18.56,,,unnamed hospital,520,0,0
+sn10923399838,Manduchet (मान्डुचेट),मान्डुचेट,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-03,27.99895,85.26994,24.56,27.17,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,333,0,0
+sn10923401248,Chyupar Khola (च्युपर खोला),च्युपर खोला,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-01,28.02685,85.28696,15.55,15.55,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,600,0,0
+sn10923402625,Kapthali (कप्ताली),कप्ताली,hamlet,no_road_access_pre_event,no_road_pre,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-06,27.99949,85.2605,,,,,,83,0,0
+sn10923406688,Thangsen Yubra (थाङ्सेन युवा),थाङ्सेन युवा,hamlet,no_road_access_pre_event,no_road_pre,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-02,28.00768,85.30378,,,,,,709,0,0
+sn10923410731,Ghichet (घिचेत),घिचेत,hamlet,no_road_access_pre_event,no_road_pre,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-03,28.00587,85.28716,,,,,,139,0,0
+sn10923411849,Badare (बडहरे),बडहरे,hamlet,connected,road,Kalika (कालिका गाउँपालिका),Kalika-04,27.98476,85.23699,1.43,1.43,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,828,0,0
+sn10923413444,Komu (कोमु),कोमु,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-06,28.00921,85.25378,5.34,5.34,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,115,0,0
+sn10923421509,Ghichet Ghattelung (घिचेत घटेलुङ),घिचेत घटेलुङ,hamlet,connected,road,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-03,28.00303,85.28416,27.32,27.36,,,Chiti Health Post चीती स्वास्थ्य केन्द्र,94,0,0
+sn10934252167,Chauki Danda Chok (चौकी डाँडा चोक),चौकी डाँडा चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-06,27.94402,85.38084,10.42,10.42,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),352,0,26
+sn10934252168,Buspark Chok (बसपार्क चोक),बसपार्क चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-06,27.92358,85.37882,6.5,6.5,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),54,0,0
+sn10934252169,Amal Danda Chok (अमल डाँडा चोक),अमल डाँडा चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-06,27.92771,85.3796,7.53,7.53,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),87,0,0
+sn10934252170,Dupcheshwor Chok (दुप्चेश्‍वर चोक),दुप्चेश्‍वर चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-06,27.94453,85.38904,3.44,3.44,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),468,0,0
+sn10934252171,Gaupalika Chok (गाउँपालिका चोक),गाउँपालिका चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-06,27.9216,85.38187,6.64,6.64,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),54,0,0
+sn10935561422,Vyangle Chowk (भ्याङ्ले चोक),भ्याङ्ले चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-05,27.91979,85.36931,8.12,8.12,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),724,0,3
+sn10935561423,Nigale Chowk (निगाले चोक),निगाले चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-05,27.90143,85.39581,19.68,19.68,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),284,0,0
+sn10935561424,Megibagar Chowk (मेगीबगर चोक),मेगीबगर चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-05,27.91973,85.38424,7.37,9.44,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),72,0,0
+sn10935561425,Bhanghyang Danda Chowk (भञ्ज्याङ् डाँडा चोक),भञ्ज्याङ् डाँडा चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-05,27.91633,85.38747,8.63,10.71,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),134,0,0
+sn10935561426,Salle Danda Chowk (सल्ले डाँडा चोक),सल्ले डाँडा चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-05,27.91242,85.39204,0.2,0.2,,,Balkumari Health Post (बालकुमारी स्वास्थ्य चौकी),201,0,0
+sn10935561427,Suryadanda Chowk (सूर्य डाँडा चोक),सूर्य डाँडा चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-05,27.90892,85.38706,21.45,21.45,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),264,0,0
+sn10935561428,Manebhanjyang Chowk (माने भञ्‍ज्याङ् चोक),माने भञ्‍ज्याङ् चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-05,27.88923,85.39151,19.21,19.21,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),85,0,0
+sn10967378662,Mishra Bhanjyang Chwok (मिश्र भन्ज्याङ् चोक),मिश्र भन्ज्याङ् चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-07,27.95416,85.39297,2.0,2.0,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),597,12,3
+sn10967378663,Gartir Bazar Chwok (गर्तिर बजार चोक),गर्तिर बजार चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-07,27.96064,85.40105,3.16,3.16,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),87,0,0
+sn10967378664,Chabise Bus Park Chwok (चौबिसे बसपार्क चोक),चौबिसे बसपार्क चोक,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-07,27.96185,85.39515,0.01,0.01,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),248,4,0
+sn10967378665,Damai Tole (दमाई टोल),दमाई टोल,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-07,27.9645,85.39986,3.72,3.72,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),165,0,0
+sn10967378666,Pahara Muni Tole (पहरामुनि टोल),पहरामुनि टोल,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-07,27.96333,85.39947,0.67,0.67,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),33,0,0
+sn10967378667,Phulbari Tole (फूलबारी टोल),फूलबारी टोल,neighbourhood,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-07,27.96343,85.3962,0.62,0.62,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),309,0,0
+sn11021710184,Dandagaun (डाँडागाउँ),डाँडागाउँ,hamlet,connected,road,Budhanilkantha Municipality (बूढानीलकण्ठ नगरपालिका),Budhanilkantha-05,27.79011,85.34132,5.24,5.24,,,Tokha Chandeshwori Hospital (टोखा चन्देश्वरी अस्पताल),308,0,0
+sn11029553071,Tarebhir (तारेभिर),तारेभिर,hamlet,connected,road,Gokarneshwar Municipality (गोकर्णेश्वर नगरपालिका),Gokarneshwar-03,27.7775,85.39022,7.15,7.15,,,Budhanilkantha (बूढानीलकण्ठ),442,0,0
+sn11029862945,Muhan Pokhari (मुहान पोखरी),मुहान पोखरी,hamlet,connected,road,Budhanilkantha Municipality (बूढानीलकण्ठ नगरपालिका),Budhanilkantha-03,27.79091,85.36991,4.12,4.12,,,Budhanilkantha (बूढानीलकण्ठ),482,0,0
+sn11186154602,Bamboo,Bamboo,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-05,28.15502,85.39792,,,,,,5,0,0
+sn11186154603,Tiwari (तिवारी),तिवारी,isolated_dwelling,cut_off,walk_in,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.15382,85.35642,18.16,,3.6,1.8,Rasuwa District Hospital,3,0,3
+sn11186154604,Bhanjyang (भञ्ज्याङ),भञ्ज्याङ,hamlet,cut_off,walk_in,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.16862,85.3552,22.35,,17.7,8.2,Rasuwa District Hospital,42,0,42
+sn11186154605,Surka (सुर्का),सुर्का,hamlet,not_connected_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.17107,85.36193,,,,,,15,0,0
+sn11186154608,Pairo (पैरो),पैरो,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-03,28.15223,85.37808,,,,,,3,0,0
+sn11188442102,Tsarting,Tsarting,isolated_dwelling,no_road_access_pre_event,no_road_pre,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-04,28.20998,85.48137,,,,,,3,0,0
+sn11247899251,Jitpur Phedi (जितपुरफेदी),जितपुरफेदी,suburb,connected,road,Tarakeshwar Municipality (तारकेश्वर नगरपालिका),Tarakeshwar-03,27.77708,85.27832,3.37,3.37,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),1282,4,0
+sn11470833286,Bhulbhuli (भुलभुले),भुलभुले,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-02,27.9027,84.91968,3.47,3.47,,,Nilakantha (नीलकण्ठ),289,0,0
+sn11470833289,Dhadkharka,Dhadkharka,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-04,27.88933,84.92085,6.99,6.99,,,unnamed hospital,73,0,0
+sn11470833290,Riyalthok,Riyalthok,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-04,27.88563,84.91629,7.23,7.23,,,unnamed hospital,193,0,0
+sn11470833291,Kerabari (केराबारी),केराबारी,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-02,27.89654,84.93572,7.25,7.25,,,Nilakantha (नीलकण्ठ),90,0,0
+sn11470833292,Hilekharka (हिले खार्का),हिले खार्का,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.89015,84.9324,5.67,5.67,,,Nilakantha (नीलकण्ठ),91,0,0
+sn11470833293,Ramche (राम्चे),राम्चे,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.87389,84.97345,15.85,15.85,,,Nilakantha (नीलकण्ठ),79,0,0
+sn11470833294,Deurali (देउराली),देउराली,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.87464,84.98576,17.57,17.57,,,Nilakantha (नीलकण्ठ),240,0,0
+sn11470833295,Phyakse (फ्याक्से),फ्याक्से,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.87246,84.95778,14.89,14.89,,,Nilakantha (नीलकण्ठ),225,0,0
+sn11470833296,Jalkini (जल्किनी),जल्किनी,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-06,27.85327,84.93797,15.51,15.51,,,unnamed hospital,570,0,0
+sn11470833297,Bhorle (भोर्ले),भोर्ले,village,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-06,27.85465,84.95009,15.45,15.45,,,unnamed hospital,417,0,0
+sn11470833298,Syaldadagau (स्यालडाँडा गाउँ),स्यालडाँडा गाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.86702,84.96393,16.5,16.5,,,Nilakantha (नीलकण्ठ),276,0,0
+sn11470833299,Khalte (खाल्टे),खाल्टे,suburb,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.86392,84.95931,17.01,17.01,,,Nilakantha (नीलकण्ठ),463,0,0
+sn11470833300,Paharechhap (पहारेछाप),पहारेछाप,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.86444,84.97768,18.57,18.57,,,Nilakantha (नीलकण्ठ),131,0,0
+sn11470833301,Devithan (देविथान),देविथान,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.86183,84.98056,19.31,19.31,,,Nilakantha (नीलकण्ठ),90,0,0
+sn11470833302,Gairigau (गैरीगाउँ),गैरीगाउँ,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.85961,84.98642,20.33,20.33,,,Nilakantha (नीलकण्ठ),494,0,0
+sn11470833366,Pateni (पतेनी),पतेनी,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-05,27.88236,84.95623,11.19,11.19,,,Nilakantha (नीलकण्ठ),203,0,0
+sn11470888785,Jamune (जामुने),जामुने,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.8839,84.98509,18.33,18.33,,,Nilakantha (नीलकण्ठ),99,0,0
+sn11470888962,Kaphalswari (कफलेश्वरी),कफलेश्वरी,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.90191,84.98383,14.5,14.5,,,Nilakantha (नीलकण्ठ),354,0,0
+sn11470888963,Dhusani (ढुसणी),ढुसणी,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.89487,84.98607,15.83,15.83,,,Nilakantha (नीलकण्ठ),309,0,0
+sn11470888964,Saunepani (सौनेपानी),सौनेपानी,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.8957,84.97488,14.28,14.28,,,Nilakantha (नीलकण्ठ),103,0,0
+sn11470888965,Gairibasa (गैरी बासा),गैरी बासा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.89083,84.97071,16.13,16.13,,,Nilakantha (नीलकण्ठ),74,0,0
+sn11470888966,Dadabasa (डाँडा बासा),डाँडा बासा,hamlet,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-01,27.8892,84.97895,16.5,16.5,,,Nilakantha (नीलकण्ठ),103,0,0
+sn11765507564,MaheshDovan (महेश-दोभान),महेश-दोभान,hamlet,long_detour,detour,Galchhi (गल्छी गाउँपालिका),Galchhi -06,27.80105,84.98004,0.93,18.6,,,Baireni Hospital (बैरेनी अस्पताल),293,41,63
+sn11772918255,Baireni (बैरेनी),बैरेनी,suburb,connected,road,Galchhi (गल्छी गाउँपालिका),Galchhi -06,27.80047,84.98991,0.27,0.27,,,Baireni Hospital (बैरेनी अस्पताल),321,11,75
+sn12956328710,Qusumdo (曲松多),Qusumdo (曲松多),hamlet,cross_border,no_road_pre,,,28.31275,85.55888,,,,,,,,
+sn12956351767,帮锦,帮锦,hamlet,cross_border,no_road_pre,,,28.33104,85.5213,,,,,,,,
+sn12985865026,本波,本波,hamlet,cross_border,no_road_pre,,,28.33691,85.46393,,,,,,,,
+sn12985865027,嘎隆,嘎隆,hamlet,cross_border,no_road_pre,,,28.34138,85.46225,,,,,,,,
+sn13235260360,Khaniyabash (खनियाबास),खनियाबास,village,long_detour,detour,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-05,28.04291,85.00448,23.53,41.8,,,Katunje Health Post,589,0,0
+sn13235260361,Satyadevi (सत्यदेवी),सत्यदेवी,suburb,long_detour,detour,Khaniyabash (खनियाबास गाउँपालिका),Khaniyabash-05,28.038,85.01775,25.36,43.63,,,Katunje Health Post,450,0,0
+sn13235260362,Netrawati Dabjong (नेत्रावती डबजोङ),नेत्रावती डबजोङ,village,connected,road,Netrawati Dabjong (नेत्रावती डबजोङ गाउँपालिका),Netrawati Dabjong-03,27.98077,84.99614,11.1,11.1,,,Katunje Health Post,491,1,0
+sn13235260365,Dhading Besi (धादिंग बेंसी),धादिंग बेंसी,suburb,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-03,27.9116,84.89312,0.14,0.14,,,unnamed hospital,826,7,0
+sn13235260366,Thakre (थाक्रे),थाक्रे,village,connected,road,Thakre (थाक्रे गाउँपालिका),Thakre-06,27.75013,85.06868,0.27,0.27,,,Mahadev Basi Helth post (hospital),26,0,1
+sn13235536932,Gangajamuna (गङ्गाजमुना),गङ्गाजमुना,village,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.06323,84.92115,0.14,0.14,,,Phulkharka Gramin Hospital,342,0,0
+sn13242877439,Naukunda (नौकुण्ड),नौकुण्ड,village,not_connected_pre_event,no_road_pre,Naukunda (नौकुण्ड गाउँपालिका),Naukunda-03,28.0108,85.27659,,,,,,86,0,0
+sn13242877440,Uttargaya (उत्तरगया),उत्तरगया,village,connected,road,Uttargaya (उत्तरगया गाउँपालिका),Uttargaya-04,28.01161,85.19517,7.38,7.38,,,Kalika Community Hospital कालिका सामुदायिक अस्पताल,989,20,14
+sn13242877441,Kalika (कालिका),कालिका,village,cut_off,walk_in,Kalika (कालिका गाउँपालिका),Kalika-02,28.00594,85.21343,4.23,,0.3,0.1,Kalika Community Hospital कालिका सामुदायिक अस्पताल,535,0,56
+sn13242877442,Aamachhodingmo (आमाछोदिङ्मो),आमाछोदिङ्मो,village,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-04,28.17058,85.31309,27.99,,,,Rasuwa District Hospital,110,0,110
+sn13242877443,Haku (हाकू),हाकू,suburb,no_road_access_pre_event,no_road_pre,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-02,28.12551,85.27375,,,,,,36,0,0
+sn13242877444,Chilime (चिलिमे),चिलिमे,suburb,cut_off,air_only,Aamachhodingmo (आमाछोदिङ्मो गाउँपालिका),Aamachhodingmo-05,28.18362,85.30224,30.41,,,,Rasuwa District Hospital,251,0,251
+sn13242877445,Gosaikunda (गोसाइँकुण्ड),गोसाइँकुण्ड,village,connected,road,Gosaikunda (गोसाइँकुण्ड गाउँपालिका),Gosaikunda-06,28.11036,85.29853,0.23,0.23,,,Rasuwa District Hospital,278,0,0
+sn13250737784,Panchpokhari Thangpal (पाँचपोखरी थाङपाल),पाँचपोखरी थाङपाल,village,connected,road,Panchpokhari Thangpal (पाँचपोखरी थाङपाल गाउँपालिका),Panchpokhari Thangpal-06,27.90081,85.63234,8.14,8.14,,,Lagarche Health Post,644,0,0
+sn13250737785,Helambu (हेलम्बु),हेलम्बु,village,long_detour,detour,Helambu (हेलम्बु गाउँपालिका),Helambu-02,27.92837,85.55572,14.65,27.1,,,Melamchi (मेलम्ची),756,10,129
+sn13250737786,Indrawati (ईन्द्रावती),ईन्द्रावती,village,connected,road,Indrawati (ईन्द्रावती गाउँपालिका),Indrawati-04,27.81195,85.623,10.55,10.55,,,Melamchi (मेलम्ची),560,0,16
+sn13273073616,Goldhunga (गोलढुङ्गा),गोलढुङ्गा,suburb,connected,road,Tarakeshwar Municipality (तारकेश्वर नगरपालिका),Tarakeshwar-04,27.7511,85.2946,2.53,2.53,,,Tarakeshwar (तारकेश्वर),1542,5,0
+sn13369073585,Kispang (किस्पाङ),किस्पाङ,village,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-03,28.00425,85.13777,7.26,7.26,,,unnamed hospital,354,0,0
+sn13369073587,Manakamana (मनकामना),मनकामना,suburb,connected,road,Kispang (किस्पाङ गाउँपालिका),Kispang-05,27.99665,85.17499,7.02,7.02,,,unnamed hospital,677,122,4
+sn13369073589,Myagang (म्यागङ),म्यागङ,village,connected,road,Myagang Gaunpalika (म्यागङ गाउँपालिका),Myagang-03,27.98592,85.06458,19.4,20.6,,,Trishuli Hospital,587,0,0
+sn13369073590,Shivapuri (शिवपुरी),शिवपुरी,village,connected,road,Shivapuri (शिवपुरी गाउँपालिका),Shivapuri-03,27.86513,85.3579,22.63,27.2,,,Tokha Chandeshwori Hospital (टोखा चन्देश्वरी अस्पताल),866,9,35
+sn13369073591,Ducheshwar (दुप्चेश्वर),दुप्चेश्वर,village,connected,road,Ducheshwar (दुप्चेश्वर गाउँपालिका),Ducheshwar-06,27.92206,85.38283,6.78,6.78,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),128,0,0
+sn13369073592,Tadi (तादी),तादी,village,connected,road,Tadi (तादी गाउँपालिका),Tadi-03,27.92416,85.30894,15.32,15.32,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),241,0,0
+sn13370197377,Suryagadhi (सूर्यगढी),सूर्यगढी,village,connected,road,Suryagadhi (सूर्यगढी गाउँपालिका),Suryagadhi-03,27.95058,85.2289,10.06,10.06,,,unnamed hospital,390,0,0
+sn13370197378,Bageshwari Chokade (बागेश्वरी चोकदे),बागेश्वरी चोकदे,suburb,connected,road,Suryagadhi (सूर्यगढी गाउँपालिका),Suryagadhi-03,27.95367,85.22776,10.35,10.35,,,unnamed hospital,431,0,0
+sn13370197379,Likhu (लिखु),लिखु,village,connected,road,Likhu (लिखु गाउँपालिका),Likhu-05,27.88832,85.24251,8.33,8.33,,,unnamed hospital,812,0,0
+sn13370197380,Panchakanya (पञ्चकन्या),पञ्चकन्या,village,connected,road,Panchakanya (पञ्चकन्या गाउँपालिका),Panchakanya-03,27.88903,85.31431,20.7,20.7,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),916,0,0
+sn13370197381,Kakani (ककनी),ककनी,village,connected,road,Kakani (ककनी गाउँपालिका),Kakani-05,27.83246,85.23979,16.06,16.06,,,kalpana health  care center (कल्पना स्वास्थ्य सेवा केन्द्र),280,0,0
+sn13370197382,Belkotgadhi (बेलकोटगढी),बेलकोटगढी,town,connected,road,Belkotgadhi (बेलकोटगढी नगरपालिका),Belkotgadhi-09,27.83917,85.13254,,,,,,535,0,0
+sw311549069,Adamghat,Adamghat,village,long_detour,detour,Gajuri (गजुरी गाउँपालिका),Gajuri-06,27.80686,84.9429,6.21,28.14,,,Baireni Hospital (बैरेनी अस्पताल),179,1,1
+sw329054386,Lokpha,Lokpha,village,no_road_access_pre_event,no_road_pre,Chum Nubri,Chum Nubri-06,28.44216,84.91832,,,,,,3,0,0
+sw329227942,Hulchuk,Hulchuk,village,no_road_access_pre_event,no_road_pre,Dharche,Dharche-01,28.28961,84.91702,,,,,,109,0,0
+sw340489102,Keurintar Village Area,Keurintar Village Area,village,bridge_uncertain,walk_in,Galchhi (गल्छी गाउँपालिका),Galchhi -02,27.8181,84.96486,4.76,28.01,4.2,1.5,Baireni Hospital (बैरेनी अस्पताल),129,0,106
+sw340541400,Keurintar Village,Keurintar Village,village,bridge_uncertain,walk_in,Galchhi (गल्छी गाउँपालिका),Galchhi -02,27.81797,84.96473,4.65,27.91,4.3,1.6,Baireni Hospital (बैरेनी अस्पताल),84,6,78
+sw342440212,Ramkot Gaun,Ramkot Gaun,village,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.90605,84.85685,4.15,4.51,,,shaid memorial hospital,152,0,0
+sw344177821,Gaindanda Village,Gaindanda Village,village,connected,road,Galchhi (गल्छी गाउँपालिका),Galchhi -02,27.83687,84.96234,16.93,18.41,,,Gajuri Hospital,254,0,0
+sw344178226,Archale Village,Archale Village,village,bridge_uncertain,walk_in,Galchhi (गल्छी गाउँपालिका),Galchhi -02,27.83435,84.96128,8.8,32.06,0.3,0.1,Baireni Hospital (बैरेनी अस्पताल),142,0,141
+sw344578959,Kalleri Village,Kalleri Village,village,connected,road,Galchhi (गल्छी गाउँपालिका),Galchhi -02,27.83773,84.95647,16.37,17.85,,,Gajuri Hospital,356,0,16
+sw344849274,Gairi Gaun,Gairi Gaun,village,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.90532,84.86356,3.3,3.66,,,shaid memorial hospital,82,0,0
+sw351418471,Mantari,Mantari,isolated_dwelling,connected,road,Gangajamuna (गङ्गाजमुना गाउँपालिका),Gangajamuna-05,28.05544,84.91804,1.27,1.27,,,Phulkharka Gramin Hospital,22,0,0
+sw532762527,Simalighari,Simalighari,village,connected,road,Nilakantha (नीलकण्ठ नगरपालिका),Nilkantha-08,27.89803,84.85926,4.82,5.18,,,shaid memorial hospital,151,0,0
+sw1218658531,Budune Community,Budune Community,neighbourhood,connected,road,Tadi (तादी गाउँपालिका),Tadi-03,27.91807,85.30933,16.33,16.33,,,Shikharbesi Health Post (शिखरबेंसी स्वास्थ्य चौकी),623,1,2
+sn2524771493,Kyephu (吉甫村),Kyephu (吉甫村),village,cross_border,no_road_pre,,,28.37389,85.32936,,,,,,,,
+sn2524771494,Chungsa (冲色村),Chungsa (冲色村),village,cross_border,no_road_pre,,,28.37485,85.36147,,,,,,,,
+sn2524771596,Kyirong (吉隆镇),Kyirong (吉隆镇),town,cross_border,no_road_pre,,,28.39917,85.32324,,,,,,,,
+sn2524771675,Tsongdu (冲堆村),Tsongdu (冲堆村),village,cross_border,no_road_pre,,,28.41509,85.29203,,,,,,,,
+sn2527615181,Cha (扎村),Cha (扎村),village,cross_border,no_road_pre,,,28.39784,85.37485,,,,,,,,
+sn2527671321,Zhuocun (卓村),Zhuocun (卓村),hamlet,cross_border,no_road_pre,,,28.39494,85.44124,,,,,,,,
+sn2882763870,Kabang (卡帮村),Kabang (卡帮村),village,cross_border,no_road_pre,,,28.38186,85.43781,,,,,,,,
+sn3360413359,Chaggang (占岗村),Chaggang (占岗村),village,cross_border,no_road_pre,,,28.36093,85.43953,,,,,,,,
+sn3360413360,Boba (崩巴村),Boba (崩巴村),village,cross_border,no_road_pre,,,28.3875,85.45608,,,,,,,,
+sn4006035228,Naixar (乃夏村),Naixar (乃夏村),village,cross_border,no_road_pre,,,28.41155,85.35135,,,,,,,,
+sn5108098894,Bangxong (帮兴社区),Bangxong (帮兴社区),village,cross_border,no_road_pre,,,28.41878,85.28304,,,,,,,,
+sn5108100855,Kyirong community (吉隆社区),Kyirong community (吉隆社区),village,cross_border,no_road_pre,,,28.39372,85.328,,,,,,,,
+sn5132988277,Dopuggyêpug (多甫吉甫村),Dopuggyêpug (多甫吉甫村),village,cross_border,no_road_pre,,,28.39783,85.30421,,,,,,,,
+sn5133003252,Tobu (多甫),Tobu (多甫),hamlet,cross_border,no_road_pre,,,28.39881,85.30873,,,,,,,,
+sn6130721681,Margar (玛嘎村),Margar (玛嘎村),village,cross_border,no_road_pre,,,28.44089,85.24464,,,,,,,,
+sn6132615119,Langqu (朗曲村),Langqu (朗曲村),village,cross_border,no_road_pre,,,28.40653,85.36212,,,,,,,,
+sn6132615148,Congdü (宗堆村),Congdü (宗堆村),village,cross_border,no_road_pre,,,28.41487,85.2981,,,,,,,,
+sn8416436734,Salê (萨勒乡),Salê (萨勒乡),town,cross_border,no_road_pre,,,28.37363,85.44592,,,,,,,,
+sn10537141993,Yangchu,Yangchu,hamlet,cross_border,no_road_pre,,,28.44426,85.35915,,,,,,,,
+sn12952350367,Nainub (奶诺布),Nainub (奶诺布),hamlet,cross_border,no_road_pre,,,28.41135,85.33831,,,,,,,,
+sn12956735547,Goba (郭巴村),Goba (郭巴村),village,cross_border,no_road_pre,,,28.36552,85.45657,,,,,,,,
+sn13798689337,Salê (萨勒村),Salê (萨勒村),village,cross_border,no_road_pre,,,28.37286,85.44661,,,,,,,,

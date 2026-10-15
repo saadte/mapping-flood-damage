@@ -1,0 +1,13 @@
+models/
+data/
+runs/
+.venv/
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+tmp/
+video/revised_frames/
+*.pyc
+*.part
+*.download
+.store_token

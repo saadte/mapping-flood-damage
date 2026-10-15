@@ -1,0 +1,20 @@
+line-length = 120
+target-version = "py310"
+
+[lint]
+select = ["E", "F", "W", "I", "N", "B", "BLE", "UP", "SIM", "C4", "RET", "ARG", "ERA", "PIE", "RUF", "TRY", "PL", "S110", "E722"]
+ignore = [
+    "PLR2004",  # physical thresholds are named where they are defined
+    "C408",     # dict(key=value) is fine
+    "TRY003",
+    "RUF001", "RUF002", "RUF003",  # degree, multiplication and dash signs in user-facing text
+]
+
+[lint.pylint]
+max-args = 8
+max-branches = 15
+max-statements = 60
+max-returns = 6
+
+[format]
+quote-style = "single"

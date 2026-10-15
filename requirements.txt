@@ -1,0 +1,27 @@
+# Python >= 3.11. System tools: osmium-tool, aria2 (apt-get install -y osmium-tool aria2).
+
+# Exact pins where the code depends on the version.
+rasterio==1.5.1
+geopandas==1.1.4
+pysheds==0.5
+odc-stac==0.5.3
+odc-geo==0.5.3
+folium==0.20.0                   # the dashboard script uses folium's generated element names
+
+numpy>=2.0,<2.4                  # pysheds 0.5 calls np.in1d
+scipy>=1.11
+pyproj>=3.6
+shapely>=2.0
+pandas>=2.0
+networkx>=3.0
+affine>=2.3
+requests>=2.28
+Pillow>=9.0
+pystac>=1.8
+pystac-client>=0.7
+planetary-computer>=1.0
+
+# Radar and optical models. For a GPU, install torch for your CUDA version first.
+torch>=2.2
+segmentation-models-pytorch>=0.3.3,<0.6
+timm>=0.9

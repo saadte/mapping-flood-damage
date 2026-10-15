@@ -1,0 +1,467 @@
+﻿break_id,repair_rank,lat,lon,length_m,bridge,strong_evidence,road_class,road,near,buildings_reconnected_if_repaired_alone,settlements_routing_through,settlements
+#x_break+id,#x_rank,#geo+lat,#geo+lon,#x_length+m,#x_bridge,#x_confidence,#x_road+type,#x_road+name,#loc+name,#x_buildings+reconnected,#x_settlements+count,#loc+name+list
+442,2,27.90912,85.54456,146.0,False,True,unclassified,23DR001,Helambu (हेलम्बु),1455,1,Dongdhing (डोङढिङ)
+242,3,28.0248,85.18578,999.0,False,False,unclassified,NH42,Salim Bhitta (सालिम भित्ता),882,9,"Chipleti (चिप्लेटी), Dandagaun (डाँडागाउँ), Dharna bhadaure (धर्नाभदौरे), Gogne (गोगने), Mailung (मैलुङ), Salim Bhitta (सालिम भित्ता), Simle (सिम्ले), Siruchet (सिरुचेत)"
+229,5,27.89225,85.17515,47.0,False,True,track,,Nawākot (नुवाकोट),571,0,
+195,,27.91985,85.14613,1097.0,True,False,tertiary,"NH42, 28A012R",Nawākot (नुवाकोट),416,1,Gerkhu (गेरखू)
+206,,27.93065,85.15415,244.0,True,True,primary,NH42,Nawākot (नुवाकोट),378,1,Gerkhu (गेरखू)
+392,,27.94093,85.37282,7.0,False,True,unclassified,28A018R,Sundaradevi (सुन्दरादेवी),334,0,
+431,,27.98063,85.44539,86.0,False,True,unclassified,,Upra chowk (उप्रा चोक),280,6,"Apenou village (अपेनौ गाउँ), Ghyawar chaur (घ्यावार चौर), Konggoau village (कोङ् गाउँ), Upra chowk (उप्रा चोक), Upra village (उप्रा गाउँ), choso tole chowk (चोसो टोल चोक)"
+391,,27.84283,85.37379,49.0,False,True,track,,Sikre (सिक्रे),248,1,Sikre (सिक्रे)
+90,,27.80386,84.98954,65.0,False,True,track,,Baireni (बैरेनी),247,0,
+33,,27.80373,84.90583,45.0,False,False,trunk,NH17,Ghatbesi (घाटबेंसी),147,1,Kiranchok (किरनचोक)
+110,,27.84825,85.0269,446.0,False,True,unclassified,,Taruka (तारुका),131,0,
+230,,27.97804,85.1802,1429.0,True,False,unclassified,28A019R,Naubisephat (नौविसे फाँट),89,0,
+116,,27.77031,85.03443,47.0,False,False,trunk,NH17,Simle Bazzar (सिम्ले बजार),85,0,
+121,,27.7655,85.04446,49.0,False,False,trunk,NH17,Simle Bazzar (सिम्ले बजार),85,0,
+336,,27.86675,85.34974,95.0,False,True,track,,Shivapuri (शिवपुरी),79,0,
+334,,27.91722,85.34301,99.0,False,True,unclassified,,Vyangle Chowk (भ्याङ्ले चोक),64,0,
+183,,27.90045,85.13985,3066.0,True,True,tertiary,28A003R,Batār Bāzār (बटार बजार),63,5,"Bhanjyangthok (भञ्ज्याङथोक), Charghare (चारघरे), Gorsyang (गोरस्याङ), Khadag Bhanjyang (खड्ग भञ्ज्याङ), Tarkeshwar (तारकेश्वर)"
+197,,27.92487,85.14963,1319.0,False,False,unclassified,,Nawākot (नुवाकोट),56,0,
+259,,28.00375,85.21381,47.0,False,True,unclassified,,Kalika (कालिका),56,1,Kalika (कालिका)
+151,,27.85869,85.09106,1725.0,False,False,track,NH42,Devighat (देवीघाट),51,0,
+425,,27.96673,85.4262,295.0,False,True,unclassified,28A006R,Kaule village (कौले गाउँ),50,1,Negi village (नेगी गाउँ)
+428,,27.97545,85.43945,50.0,False,True,unclassified,28A006R,School chowk (स्कुल चोक),50,4,"Gyalmi village (ग्याल्मी गाउँ), Kaule village (कौले गाउँ), Negi village (नेगी गाउँ), Seljung village (सेल्जुङ् गाउँ)"
+97,,27.82974,85.01889,339.0,False,False,track,,Kalleri (कल्लेरी),49,0,
+215,,27.8264,85.16313,46.0,False,True,track,,Kharka (खर्क),46,0,
+99,,27.83904,85.01977,100.0,False,False,track,,Kalleri (कल्लेरी),46,0,
+111,,27.77346,85.0286,85.0,False,False,service,NH17,Simle Bazzar (सिम्ले बजार),32,0,
+463,,27.83557,85.63818,99.0,False,True,track,,Mulkharka (मूलखर्क),30,0,
+222,,27.95753,85.16808,5793.0,True,False,unclassified,"NH42, F21",Bhainse (भैंसे),29,1,Betrawati (बेत्रावती)
+8,,27.80122,84.87008,107.0,False,False,trunk,NH17,Gajuri (गजुरी),20,0,
+185,,27.91334,85.13603,1995.0,True,False,residential,"Trishuli River Bridge, Trishuli Bridge",Batār Bāzār (बटार बजार),20,0,
+6,,27.80085,84.86741,49.0,False,False,trunk,NH17,Gajuri (गजुरी),20,0,
+137,,27.85294,85.07132,90.0,False,False,primary,NH42,Ratmate (रातमाटे),19,0,
+115,,27.774,85.03253,50.0,False,False,trunk,NH17,Simle Bazzar (सिम्ले बजार),19,0,
+43,,27.79723,84.9211,144.0,False,False,trunk,NH17,Ghatbesi (घाटबेंसी),18,1,Kiranchok (किरनचोक)
+173,,27.87306,85.11643,46.0,False,False,track,,Pipaltar (पिपलटार),18,0,
+24,,27.80608,84.89443,283.0,False,False,trunk,NH17,Ghatbesi (घाटबेंसी),17,2,"Ghatbesi (घाटबेंसी), Kiranchok (किरनचोक)"
+21,,27.80798,84.88867,100.0,False,False,trunk,NH17,Gajuri (गजुरी),17,2,"Ghatbesi (घाटबेंसी), Kiranchok (किरनचोक)"
+461,,27.80818,85.61618,46.0,False,True,track,,Indrawati (ईन्द्रावती),16,0,
+142,,27.85486,85.07475,35.0,False,False,track,,Ratmate (रातमाटे),15,0,
+275,,27.80123,85.24142,48.0,False,True,unclassified,,Hile Bhitta (हिले भिट्टा),15,0,
+96,,27.80995,85.01616,62.0,True,True,primary,NH42,Kalleri (कल्लेरी),14,0,
+213,,27.82614,85.16282,48.0,False,True,unclassified,,Kharka (खर्क),13,0,
+180,,27.88391,85.13124,2222.0,False,True,track,,Bidur (बिदुर),12,0,
+166,,27.86168,85.11071,1775.0,False,True,residential,NH42,Devighat (देवीघाट),11,1,Devighat (देवीघाट)
+67,,27.95196,84.96167,49.0,False,True,unclassified,,gahate,10,0,
+68,,27.95259,84.96281,95.0,False,True,unclassified,,gahate,10,0,
+176,,27.87493,85.119,50.0,False,False,track,,Pipaltar (पिपलटार),9,0,
+449,,27.83578,85.56867,306.0,True,False,tertiary,,Dubachaur (दुबाचौर),8,0,
+18,,27.91333,84.88428,47.0,False,True,residential,,Advance Tol,8,0,
+164,,27.86227,85.10806,177.0,False,False,unclassified,,Devighat (देवीघाट),8,0,
+162,,27.86012,85.10677,82.0,False,True,residential,,Devighat (देवीघाट),8,0,
+210,,27.93694,85.15769,5633.0,True,True,unclassified,"28A019R, NH42",Bhyagute (भ्यागुते),8,1,Betrawati (बेत्रावती)
+194,,27.91859,85.14422,353.0,False,True,service,NH42,Nawākot (नुवाकोट),8,0,
+313,,27.85904,85.31545,48.0,False,True,secondary,NH03,Dumre,7,0,
+212,,27.94694,85.16033,938.0,True,True,track,,Jafati (जफाती),7,1,Betrawati (बेत्रावती)
+140,,27.85581,85.07276,141.0,False,True,unclassified,,Ratmate (रातमाटे),7,0,
+316,,27.85901,85.3174,48.0,False,True,secondary,NH03,Dumre,7,0,
+211,,27.94426,85.15859,14.0,True,False,track,,Jafati (जफाती),7,1,Betrawati (बेत्रावती)
+77,,27.80081,84.98064,146.0,False,False,trunk,NH17,MaheshDovan (महेश-दोभान),6,8,"Adamghat, Adamghat (आदमघाट), Archale Village, Keurintar Village, Keurintar Village Area, MaheshDovan (महेश-दोभान), Mastar (मासटार), Pida (पिडा)"
+93,,27.8113,85.01307,126.0,False,True,track,,Kalleri (कल्लेरी),6,0,
+19,,27.9126,84.88448,87.0,False,True,residential,30DR013,Advance Tol,5,0,
+20,,27.91319,84.88456,49.0,False,True,residential,,Advance Tol,5,0,
+105,,27.83092,85.02269,87.0,False,False,primary,NH42,Kalleri (कल्लेरी),5,0,
+359,,27.75951,85.36488,48.0,False,True,residential,,Chapali Chowk (चपली चोक),5,0,
+243,,28.01952,85.18501,287.0,False,False,track,,Shanti Bazar (शान्ति बजार),4,0,
+145,,27.85355,85.07878,49.0,False,False,track,,Ratmate (रातमाटे),4,0,
+163,,27.85825,85.1076,423.0,True,True,track,NH42,Devighat (देवीघाट),4,0,
+15,,27.91275,84.88142,35.0,False,True,track,,Pasupati Bus Park Chowk,4,0,
+5,,27.8021,84.86306,48.0,False,True,trunk,NH17,Gajuri (गजुरी),4,0,
+0,,27.8078,84.85225,50.0,False,True,trunk,NH17,Purano Malekhu (पुराणो मलेखु),4,0,
+66,,27.81213,84.96372,44.0,False,False,residential,,Mastar (मासटार),3,0,
+171,,27.86662,85.11482,48.0,False,True,unclassified,,Devighat (देवीघाट),3,0,
+320,,27.99909,85.31993,49.0,False,False,unclassified,,Thangsen Yubra (थाङ्सेन युवा),2,0,
+189,,27.91912,85.13732,816.0,False,True,unclassified,,Batār Bāzār (बटार बजार),2,0,
+226,,27.89247,85.17075,95.0,False,True,track,,Bidur (बिदुर),2,0,
+168,,27.86092,85.11186,436.0,False,True,residential,,Devighat (देवीघाट),2,0,
+92,,27.80391,85.00682,98.0,False,True,primary,NH42,Galchhi (गल्छी),2,0,
+439,,27.86873,85.54091,193.0,False,False,unclassified,,Gyalthum (ग्यालथुम),2,0,
+64,,27.9288,84.95506,99.0,False,True,unclassified,,Shoraghara (सोरघर),2,0,
+299,,27.91779,85.30194,48.0,False,True,track,,Budune Community,2,0,
+71,,27.80745,84.96852,43.0,False,False,trunk,NH17,Keurintar Farm Land,2,7,"Adamghat, Adamghat (आदमघाट), Archale Village, Keurintar Village, Keurintar Village Area, Mastar (मासटार), Pida (पिडा)"
+73,,27.8063,84.96878,46.0,False,True,trunk,NH17,Keurintar Farm Land,2,7,"Adamghat, Adamghat (आदमघाट), Archale Village, Keurintar Village, Keurintar Village Area, Mastar (मासटार), Pida (पिडा)"
+447,,27.93829,85.55427,140.0,False,False,secondary,F30,Helambu (हेलम्बु),2,0,
+208,,27.93976,85.15749,503.0,False,True,unclassified,,Bhyagute (भ्यागुते),1,0,
+88,,27.80106,84.98543,34.0,False,False,service,,Baireni (बैरेनी),1,0,
+54,,27.80568,84.94129,188.0,False,True,track,,Adamghat,1,0,
+87,,27.80081,84.98521,38.0,False,False,trunk,NH17,Baireni (बैरेनी),1,8,"Adamghat, Adamghat (आदमघाट), Archale Village, Keurintar Village, Keurintar Village Area, MaheshDovan (महेश-दोभान), Mastar (मासटार), Pida (पिडा)"
+205,,27.93756,85.15422,545.0,False,True,unclassified,,Bhyagute (भ्यागुते),1,0,
+74,,28.03201,84.96611,775.0,False,False,unclassified,"30DR013, Ganesh Himal Trail",Kintang Phedi,1,4,"Darkha (दर्ख), Khaniyabash (खनियाबास), Kintang Phedi, Satyadevi (सत्यदेवी)"
+221,,27.76699,85.16813,46.0,True,True,unclassified,,Jiwanpur (जिवनपुर),1,0,
+186,,27.89192,85.13536,94.0,False,True,unclassified,,Bidur (बिदुर),1,1,Charghare (चारघरे)
+321,,28.1463,85.31872,50.0,False,True,unclassified,,Sano Bharkhu (सानाे भार्खु),1,1,Haku Besi (हाकु बेसी)
+124,,27.85227,85.05171,236.0,False,False,primary,NH42,Ratmate (रातमाटे),1,0,
+103,,27.82763,85.02106,48.0,False,True,unclassified,,Kalleri (कल्लेरी),1,0,
+82,,27.80105,84.98305,121.0,False,True,track,,MaheshDovan (महेश-दोभान),1,0,
+177,,27.76383,85.12165,48.0,False,True,track,,Kewalpur (केवलपुर),1,0,
+187,,27.89358,85.13547,188.0,False,True,unclassified,,Bidur (बिदुर),1,1,Charghare (चारघरे)
+350,,28.28708,85.35446,109.0,True,False,trunk,G216,Resuo (热索),0,0,
+349,1,28.20863,85.35476,583.0,False,True,primary,NH42,Lingling (लिङलिङ),0,4,"Bridhim (बृद्‌धिम), Lingling (लिङलिङ), Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+340,,27.75068,85.35387,41.0,False,True,residential,,Golphutar (गोल्फुटार),0,0,
+305,,28.4065,85.29729,49.0,False,True,unclassified,,Congdü (宗堆村),0,0,
+306,,28.13167,85.30201,50.0,False,True,unclassified,,Sano Bharkhu (ठुलो भार्खु),0,1,Haku Besi (हाकु बेसी)
+348,,28.3838,85.35142,124.0,True,False,trunk,G216,Chungsa (冲色村),0,0,
+347,,28.2869,85.35278,49.0,False,True,trunk,G216,Resuo (热索),0,0,
+346,,28.29711,85.34854,49.0,False,True,trunk,G216,Jang (江村),0,0,
+345,,28.29924,85.34842,49.0,False,False,trunk,G216,Jang (江村),0,0,
+344,,28.29494,85.34861,247.0,False,True,trunk,G216,Jang (江村),0,0,
+343,1,28.19342,85.34977,1636.0,True,False,primary,NH42,Bridhim (बृद्‌धिम),0,4,"Bridhim (बृद्‌धिम), Lingling (लिङलिङ), Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+308,,27.74641,85.31168,21.0,False,True,residential,,Loktantrik Chowk (लोकतान्त्रिक चोक),0,0,
+309,,27.82406,85.31336,50.0,False,True,unclassified,,Thāpāgāon (थापा गाउँ),0,0,
+310,,27.82405,85.31361,47.0,False,True,track,,Thāpāgāon (थापा गाउँ),0,0,
+311,,27.82414,85.31365,41.0,False,True,unclassified,,Thāpāgāon (थापा गाउँ),0,0,
+312,,27.76877,85.31673,46.0,False,True,residential,,Jayantipur Ekata Tol,0,0,
+307,,28.13568,85.30515,50.0,False,True,unclassified,,Sano Bharkhu (ठुलो भार्खु),0,1,Haku Besi (हाकु बेसी)
+325,,28.17943,85.32884,118.0,True,True,unclassified,,Pajung (पाजुङ),0,0,
+324,,28.3904,85.32599,86.0,False,True,residential,,Kyirong community (吉隆社区),0,0,
+326,1,28.16063,85.33626,1051.0,True,False,primary,"NH18, NH42",Syabru Bensi (स्याप्रु बेसी),0,23,"Aamachhodingmo (आमाछोदिङ्मो), Bahun Danda (बाहुनडाँडा), Bhanjyang (भञ्ज्याङ), Bhrajam (भ्रजम), Bridhim (बृद्‌धिम), Brimdang (ब्रिमडाङ), Chilime (चिलिमे), Domen (डोमेन)"
+323,,27.86206,85.32662,36.0,True,False,secondary,NH03,Bhadratar (भद्रुटार),0,0,
+327,,28.39589,85.32781,54.0,False,True,residential,寺前路,Kyirong community (吉隆社区),0,0,
+328,,28.39486,85.32924,93.0,False,True,unclassified,广场路,Kyirong community (吉隆社区),0,0,
+329,,28.39405,85.32956,43.0,False,True,tertiary,中心路,Kyirong community (吉隆社区),0,0,
+330,,28.39193,85.33018,83.0,False,True,unclassified,吉中路,Kyirong community (吉隆社区),0,0,
+331,1,28.16313,85.33691,1933.0,True,False,unclassified,"NH42, 29A013",Syabru Bensi (स्याप्रु बेसी),0,23,"Aamachhodingmo (आमाछोदिङ्मो), Bahun Danda (बाहुनडाँडा), Bhanjyang (भञ्ज्याङ), Bhrajam (भ्रजम), Bridhim (बृद्‌धिम), Brimdang (ब्रिमडाङ), Chilime (चिलिमे), Domen (डोमेन)"
+339,1,28.18904,85.34736,498.0,False,True,primary,NH42,Khangjim (खाङजिम),0,4,"Bridhim (बृद्‌धिम), Lingling (लिङलिङ), Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+356,,28.23774,85.35739,97.0,False,True,unclassified,,Dalphedi (डाल्फेडी),0,0,
+333,1,28.18347,85.34433,2796.0,True,False,primary,"NH42, 29A003",Khangjim (खाङजिम),0,7,"Bhanjyang (भञ्ज्याङ), Bhrajam (भ्रजम), Bridhim (बृद्‌धिम), Lingling (लिङलिङ), Pajung (पाजुङ), Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+355,,28.15278,85.35745,85.0,False,False,unclassified,29A013,Tiwari (तिवारी),0,1,Domen (डोमेन)
+354,,28.28693,85.35532,98.0,False,False,trunk,G216,Resuo (热索),0,0,
+353,,28.21703,85.35604,917.0,False,True,primary,NH42,Lingling (लिङलिङ),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+335,,28.1631,85.34247,50.0,False,True,unclassified,29A013,Syabru Bensi (स्याप्रु बेसी),0,2,"Domen (डोमेन), Tiwari (तिवारी)"
+352,,28.21216,85.355,30.0,False,False,primary,NH42,Lingling (लिङलिङ),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+337,,28.31869,85.34285,49.0,False,True,trunk,G216,Jang (江村),0,0,
+351,1,28.21036,85.35517,315.0,False,True,unclassified,,Lingling (लिङलिङ),0,2,"Bridhim (बृद्‌धिम), Lingling (लिङलिङ)"
+338,,27.92348,85.3493,49.0,False,False,unclassified,,Vyangle Chowk (भ्याङ्ले चोक),0,0,
+332,,28.1649,85.33854,42.0,False,True,residential,,Syabru Bensi (स्याप्रु बेसी),0,0,
+277,,28.45189,85.2369,100.0,False,True,track,,Rukar (如卡尔),0,0,
+278,,28.09146,85.24513,50.0,False,True,unclassified,,Thade (ठाडे),0,0,
+279,,28.09144,85.24716,150.0,False,True,unclassified,,Thade (ठाडे),0,0,
+280,,28.09172,85.25018,350.0,False,True,unclassified,,Thade (ठाडे),0,0,
+281,,28.44599,85.24689,125.0,True,False,unclassified,,Margar (玛嘎村),0,0,
+282,,28.09291,85.25451,100.0,False,True,unclassified,,Thade (ठाडे),0,0,
+283,,28.43932,85.25252,100.0,False,True,trunk,G216,Margar (玛嘎村),0,0,
+284,,28.09487,85.26019,250.0,False,True,unclassified,,Thade (ठाडे),0,0,
+285,,27.97888,85.26346,12.0,True,False,track,,Danuswara (दनुस्वारा),0,0,
+286,,28.09738,85.26374,150.0,False,True,unclassified,,Haku Besi (हाकु बेसी),0,0,
+322,,27.78537,85.32532,42.0,False,True,unclassified,,Saraswoti Krishi Farm,0,0,
+288,,28.09864,85.26481,50.0,False,True,unclassified,,Haku Besi (हाकु बेसी),0,0,
+270,,27.89588,85.23228,86.0,True,True,unclassified,,Likhu (लिखु),0,1,Chaughada (चौघडा)
+271,,28.08553,85.22984,100.0,False,True,unclassified,,Gogne (गोगने),0,0,
+32,,28.41247,84.89199,49.0,False,False,unclassified,,Thangurmu,0,0,
+34,,28.42049,84.8952,197.0,False,True,unclassified,,Thangurmu,0,0,
+35,,27.90384,84.90815,97.0,False,True,unclassified,,Ijara (इजारा),0,0,
+36,,27.80392,84.9115,49.0,False,False,trunk,NH17,Ghatbesi (घाटबेंसी),0,1,Kiranchok (किरनचोक)
+37,4,28.33934,84.90112,49.0,False,True,unclassified,Manaslu Circuit,Jagat Bagar,0,2,"Jagat, Jagat Bagar"
+38,,27.80327,84.91325,98.0,False,False,trunk,NH17,Ghatbesi (घाटबेंसी),0,1,Kiranchok (किरनचोक)
+39,,27.80216,84.91382,49.0,False,True,trunk,NH17,Ghatbesi (घाटबेंसी),0,1,Kiranchok (किरनचोक)
+40,,27.79978,84.91736,120.0,True,False,trunk,NH17,Ghatbesi (घाटबेंसी),0,1,Kiranchok (किरनचोक)
+287,,27.91371,85.26769,48.0,False,True,secondary,F181,Narjamandap (नर्जामण्डप),0,1,Narjamandap (नर्जामण्डप)
+314,,27.76541,85.31725,90.0,False,True,residential,,Jayantipur Ekata Tol,0,0,
+315,,27.76581,85.31736,25.0,False,False,residential,,Jayantipur Ekata Tol,0,0,
+317,,27.85925,85.31886,33.0,True,True,secondary,NH03,Dumre,0,0,
+318,,27.94113,85.31845,48.0,False,True,unclassified,,माथिल्लो चौर,0,0,
+319,,28.03588,85.3187,48.0,False,True,residential,,Doglāng (डोग्लाङ),0,0,
+289,,28.10079,85.26636,499.0,False,True,unclassified,,Haku Besi (हाकु बेसी),0,0,
+290,,27.87783,85.27073,99.0,False,True,track,,Thansing (थानसीङ),0,0,
+291,,28.11396,85.28264,4094.0,False,True,unclassified,,Haku Besi (हाकु बेसी),0,1,Haku Besi (हाकु बेसी)
+292,,28.00276,85.27162,49.0,False,True,track,,Manduchet (मान्डुचेट),0,0,
+293,,28.21741,85.28374,167.0,False,False,unclassified,,Tetanchet (तेटाङचेट),0,2,"Brimdang (ब्रिमडाङ), Tatopani (तातोपानी)"
+294,,28.42114,85.28067,540.0,False,True,service,,Bangxong (帮兴社区),0,0,
+276,,28.45263,85.23333,200.0,False,True,track,,Rukar (如卡尔),0,0,
+296,,28.2326,85.28541,100.0,False,True,service,,Tatopani (तातोपानी),0,0,
+297,,27.86549,85.29179,50.0,False,True,track,,Thanapati (थानपति),0,0,
+298,,28.12667,85.29873,150.0,False,True,unclassified,,Sano Bharkhu (ठुलो भार्खु),0,1,Haku Besi (हाकु बेसी)
+300,,27.92369,85.3019,50.0,False,True,secondary,F181,Kharanitar (खरानीटार),0,0,
+301,,28.12798,85.29943,100.0,False,True,unclassified,,Sano Bharkhu (ठुलो भार्खु),0,1,Haku Besi (हाकु बेसी)
+302,,27.76002,85.306,12.0,True,False,service,,Jayantipur Ekata Tol,0,0,
+303,,27.75428,85.30671,76.0,False,True,residential,,Baluwapati Chowk (बालुवापाटी चोक),0,0,
+304,,27.7539,85.30735,36.0,False,True,residential,,Baluwapati Chowk (बालुवापाटी चोक),0,0,
+272,,28.08827,85.23157,50.0,False,True,unclassified,,Gogne (गोगने),0,0,
+273,,28.08945,85.23369,350.0,False,True,unclassified,,Gogne (गोगने),0,0,
+274,,28.45295,85.23037,50.0,False,True,track,,Rabnga (热玛村),0,0,
+295,,28.41937,85.28236,49.0,False,True,trunk,G216,Bangxong (帮兴社区),0,0,
+27,,27.80548,84.90024,99.0,False,False,trunk,NH17,Ghatbesi (घाटबेंसी),0,2,"Ghatbesi (घाटबेंसी), Kiranchok (किरनचोक)"
+28,,27.80568,84.90121,49.0,False,True,trunk,NH17,Ghatbesi (घाटबेंसी),0,2,"Ghatbesi (घाटबेंसी), Kiranchok (किरनचोक)"
+29,,27.80664,84.90203,210.0,True,False,residential,,Ghatbesi (घाटबेंसी),0,0,
+30,,28.40728,84.89136,49.0,False,True,unclassified,,Chisopani,0,0,
+432,,28.37733,85.44485,99.0,False,True,tertiary,,Salê (萨勒乡),0,0,
+408,,28.2869,85.388,99.0,False,False,unclassified,,Resuo (热索),0,0,
+409,,28.28835,85.39053,395.0,False,False,unclassified,,Resuo (热索),0,0,
+410,,28.28976,85.3928,49.0,False,True,unclassified,,Resuo (热索),0,0,
+411,,28.29238,85.39456,148.0,False,False,unclassified,,Resuo (热索),0,0,
+412,,28.38851,85.39289,48.0,False,True,unclassified,,Cha (扎村),0,0,
+413,,28.2944,85.39641,49.0,False,True,unclassified,,Resuo (热索),0,0,
+370,,28.24295,85.35904,195.0,False,True,primary,NH42,Timure (टिमुरे),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+415,,28.3018,85.40254,494.0,False,False,unclassified,,Labi (拉比村),0,0,
+416,,28.30365,85.4057,198.0,False,False,unclassified,,Labi (拉比村),0,0,
+417,,27.93283,85.41116,94.0,False,True,track,,Rautbesi,0,0,
+418,,28.30646,85.40737,45.0,False,True,unclassified,,Labi (拉比村),0,0,
+419,,28.30589,85.40765,395.0,False,True,unclassified,,Labi (拉比村),0,0,
+420,,28.30757,85.40835,100.0,False,True,unclassified,,Labi (拉比村),0,0,
+421,,28.31048,85.40999,399.0,False,False,unclassified,,Labi (拉比村),0,0,
+422,,28.31178,85.40959,50.0,False,False,unclassified,,Labi (拉比村),0,0,
+423,,27.76442,85.42339,50.0,False,False,track,,Sundarijal (सुन्दरीजल),0,0,
+390,,28.15123,85.36806,50.0,False,True,unclassified,29A013,Domen (डोमेन),0,1,Domen (डोमेन)
+393,,28.25971,85.37053,45.0,False,True,primary,NH42,Timure (टिमुरे),0,1,Rasuwa Gadhi (रसुवागढी)
+414,,28.29854,85.39745,593.0,False,False,unclassified,,Labi (拉比村),0,0,
+433,,27.95015,85.49173,50.0,False,True,unclassified,,Sanugopte (सानो गोप्टे),0,0,
+434,,27.9698,85.53227,76.0,True,True,unclassified,,खार्चुङ,0,0,
+435,,27.96734,85.53246,95.0,False,False,unclassified,,Timbu (टिम्बु),0,0,
+436,,27.96402,85.5334,39.0,True,False,service,,Timbu (टिम्बु),0,0,
+437,,27.96425,85.53395,75.0,False,True,unclassified,,Timbu (टिम्बु),0,0,
+438,,28.01079,85.5353,98.0,False,False,secondary,F30,Nakote (नाकोटे),0,0,
+440,,27.87486,85.54219,333.0,False,False,unclassified,,Gyalthum (ग्यालथुम),0,0,
+441,,27.86017,85.54432,96.0,False,False,service,,Talramarang (तालरामाराङ),0,0,
+443,,27.95333,85.54523,50.0,False,True,secondary,F30,Timbu (टिम्बु),0,0,
+444,,27.94717,85.54898,38.0,False,True,unclassified,,Timbu (टिम्बु),0,0,
+445,,27.91842,85.55048,159.0,True,True,secondary,F30,Helambu (हेलम्बु),0,1,Helambu (हेलम्बु)
+26,,27.80727,84.89967,144.0,False,True,track,,Ghatbesi (घाटबेंसी),0,0,
+448,,27.83557,85.56666,50.0,False,False,secondary,F30,Dubachaur (दुबाचौर),0,2,"Dongdhing (डोङढिङ), Helambu (हेलम्बु)"
+464,,27.94505,85.63862,44.0,False,True,track,,Thangpalkot (थाङपालकोट),0,0,
+426,,27.92312,85.43527,84.0,False,True,tertiary,F181,Rautbesi,0,0,
+427,,27.92314,85.43811,50.0,False,True,unclassified,,Rautbesi,0,0,
+429,,28.34551,85.43887,50.0,False,True,track,,巴新,0,0,
+430,,27.76881,85.44822,50.0,False,True,tertiary,,Mulkharka (मूलखर्क),0,0,
+16,4,28.24111,84.87624,50.0,False,True,unclassified,Manaslu Circuit,Machhakhola,0,8,"Bupchet, Dobhan, Jagat, Jagat Bagar, Keraunja, Khorlabesi, Tatopani, Yaruphant"
+17,,27.91214,84.88392,98.0,False,True,residential,,Advance Tol,0,0,
+22,,27.80805,84.89018,48.0,False,True,service,,Gajuri (गजुरी),0,0,
+23,,27.91356,84.88863,130.0,False,True,residential,,Deep Tol,0,0,
+25,,27.80613,84.89687,49.0,False,True,trunk,NH17,Ghatbesi (घाटबेंसी),0,2,"Ghatbesi (घाटबेंसी), Kiranchok (किरनचोक)"
+446,,27.94114,85.55091,318.0,False,False,secondary,F30,Dongdhing (डोङढिङ),0,0,
+385,,27.85985,85.36803,48.0,False,True,secondary,NH03,Shivapuri (शिवपुरी),0,0,
+386,,28.15117,85.36524,50.0,False,False,unclassified,29A013,Domen (डोमेन),0,1,Domen (डोमेन)
+387,,28.25911,85.36685,490.0,False,True,unclassified,,Timure (टिमुरे),0,0,
+388,,28.15111,85.36659,50.0,False,False,unclassified,29A013,Domen (डोमेन),0,1,Domen (डोमेन)
+389,,28.40522,85.36271,40.0,False,False,unclassified,,Langqu (朗曲村),0,0,
+357,,28.24072,85.35717,438.0,False,True,unclassified,,Dalphedi (डाल्फेडी),0,0,
+358,,28.24111,85.35752,49.0,False,True,unclassified,,Dalphedi (डाल्फेडी),0,0,
+360,,27.75946,85.36506,47.0,False,True,residential,शान्ति राम चौक रोड,Chapali Chowk (चपली चोक),0,0,
+361,,28.28632,85.35821,244.0,False,False,trunk,G216,Resuo (热索),0,0,
+362,,28.24021,85.35794,262.0,True,False,unclassified,,Dalphedi (डाल्फेडी),0,0,
+363,,28.243,85.35813,245.0,False,False,unclassified,,Timure (टिमुरे),0,0,
+394,,28.26055,85.37142,91.0,False,False,primary,NH42,Timure (टिमुरे),0,1,Rasuwa Gadhi (रसुवागढी)
+365,,28.39845,85.35696,226.0,True,False,tertiary,,Langqu (朗曲村),0,0,
+366,,28.22135,85.36003,230.0,False,False,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+367,,28.23924,85.35883,319.0,False,True,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+368,,28.2411,85.35879,40.0,False,True,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+369,,27.86248,85.36465,50.0,False,True,unclassified,,Shivapuri (शिवपुरी),0,0,
+41,,27.79979,84.91704,64.0,True,False,trunk,NH17,Ghatbesi (घाटबेंसी),0,0,
+371,,27.75906,85.36639,45.0,False,True,unclassified,27DR029,Chapali Chowk (चपली चोक),0,0,
+372,,28.24507,85.36067,4836.0,True,False,unclassified,NH42,Timure (टिमुरे),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+373,,28.23598,85.35992,247.0,False,True,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+341,,27.75096,85.35449,115.0,False,True,residential,,Golphutar (गोल्फुटार),0,0,
+342,,28.29091,85.34725,148.0,False,True,trunk,G216,Malabhanjyang,0,0,
+364,,28.15198,85.35937,46.0,False,False,unclassified,29A013,Tiwari (तिवारी),0,1,Domen (डोमेन)
+395,,28.26123,85.37187,46.0,False,True,primary,NH42,Timure (टिमुरे),0,1,Rasuwa Gadhi (रसुवागढी)
+396,,28.26292,85.37373,918.0,False,True,primary,NH42,Timure (टिमुरे),0,1,Rasuwa Gadhi (रसुवागढी)
+397,,28.28309,85.37549,47.0,False,False,trunk,G216,Resuo (热索),0,0,
+398,,28.26618,85.37616,70.0,True,True,primary,NH42,Rasuwa Gadhi (रसुवागढी),0,1,Rasuwa Gadhi (रसुवागढी)
+399,,28.28231,85.3823,1051.0,True,False,unclassified,G216,Resuo (热索),0,0,
+400,,28.26819,85.37692,295.0,False,True,primary,NH42,Rasuwa Gadhi (रसुवागढी),0,1,Rasuwa Gadhi (रसुवागढी)
+401,,28.27514,85.37807,97.0,False,False,primary,NH42,Rasuwa Gadhi (रसुवागढी),0,1,Rasuwa Gadhi (रसुवागढी)
+402,,28.27269,85.37817,44.0,False,True,service,,Rasuwa Gadhi (रसुवागढी),0,0,
+403,,28.27131,85.37836,293.0,False,True,primary,NH42,Rasuwa Gadhi (रसुवागढी),0,1,Rasuwa Gadhi (रसुवागढी)
+404,,28.27842,85.37815,83.0,True,False,primary,NH42,Rasuwa Gadhi (रसुवागढी),0,0,
+405,,27.92137,85.38533,140.0,False,True,unclassified,,Megibagar Chowk (मेगीबगर चोक),0,0,
+384,,28.28616,85.36829,1405.0,True,False,trunk,G216,Resuo (热索),0,0,
+407,,28.28516,85.3866,148.0,False,False,unclassified,,Resuo (热索),0,0,
+374,,28.2858,85.36007,98.0,False,False,trunk,G216,Resuo (热索),0,0,
+375,,28.24471,85.3612,98.0,False,True,primary,NH42,Timure (टिमुरे),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+376,,28.23354,85.36102,148.0,False,True,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+377,,28.22328,85.36151,142.0,False,False,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+378,,28.2323,85.36141,99.0,False,False,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+379,,28.22633,85.36147,92.0,False,False,track,,Dalphedi (डाल्फेडी),0,0,
+380,,28.22477,85.36149,184.0,False,True,track,,Dalphedi (डाल्फेडी),0,0,
+381,,28.22494,85.36171,142.0,False,True,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+382,,28.22792,85.36179,145.0,False,True,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+383,,28.22682,85.3618,106.0,True,False,primary,NH42,Dalphedi (डाल्फेडी),0,2,"Rasuwa Gadhi (रसुवागढी), Timure (टिमुरे)"
+406,,28.28341,85.38385,198.0,False,False,unclassified,,Resuo (热索),0,0,
+143,,27.85241,85.07537,244.0,False,True,track,NH42,Ratmate (रातमाटे),0,0,
+144,,27.85392,85.07908,707.0,True,True,track,NH42,Ratmate (रातमाटे),0,0,
+146,,27.74635,85.08324,36.0,False,True,track,,Thakre (थाक्रे),0,0,
+147,,27.85506,85.08408,418.0,False,False,primary,NH42,Ratmate (रातमाटे),0,0,
+148,,27.74474,85.08711,46.0,False,False,trunk,NH17,Thakre (थाक्रे),0,0,
+78,,27.802,84.98206,48.0,False,True,track,,MaheshDovan (महेश-दोभान),0,0,
+79,,27.80086,84.9824,43.0,False,False,trunk,NH17,MaheshDovan (महेश-दोभान),0,8,"Adamghat, Adamghat (आदमघाट), Archale Village, Keurintar Village, Keurintar Village Area, MaheshDovan (महेश-दोभान), Mastar (मासटार), Pida (पिडा)"
+112,,27.77318,85.0289,49.0,False,False,service,,Simle Bazzar (सिम्ले बजार),0,0,
+113,,27.84984,85.02975,666.0,False,False,track,,Taruka (तारुका),0,0,
+114,,27.85295,85.03217,1142.0,False,False,track,,Ratmate (रातमाटे),0,0,
+258,3,28.07614,85.21174,196.0,False,False,unclassified,NH42,Mailung (मैलुङ),0,1,Gogne (गोगने)
+118,,27.85622,85.04261,1489.0,False,False,track,NH42,Ratmate (रातमाटे),0,0,
+119,,27.85664,85.04095,50.0,False,True,track,,Ratmate (रातमाटे),0,0,
+120,,27.85732,85.04354,196.0,False,True,track,,Ratmate (रातमाटे),0,0,
+122,,27.85074,85.04586,48.0,False,True,primary,NH42,Ratmate (रातमाटे),0,0,
+123,,27.85179,85.04944,48.0,False,True,primary,NH42,Ratmate (रातमाटे),0,0,
+125,,27.85674,85.05416,542.0,False,True,track,,Ratmate (रातमाटे),0,0,
+126,,27.85283,85.05347,47.0,False,True,primary,NH42,Ratmate (रातमाटे),0,0,
+127,,27.85903,85.05674,97.0,False,False,unclassified,,Ratmate (रातमाटे),0,0,
+128,,27.74427,85.05967,41.0,False,False,unclassified,30DR021,Mahadev Besi (महादेव बेसी),0,0,
+104,,27.84468,85.02248,143.0,False,False,track,,Taruka (तारुका),0,0,
+106,,27.84032,85.02292,48.0,False,False,track,,Kalleri (कल्लेरी),0,0,
+117,,27.85335,85.03588,83.0,False,True,track,,Ratmate (रातमाटे),0,0,
+153,,27.74625,85.098,44.0,False,True,track,,Juge Khola (जङ्गेखोला),0,0,
+154,,27.85806,85.10009,92.0,False,True,primary,NH42,Devighat (देवीघाट),0,0,
+155,,27.85773,85.10139,39.0,False,True,primary,NH42,Devighat (देवीघाट),0,0,
+156,,27.85733,85.10245,95.0,False,True,primary,NH42,Devighat (देवीघाट),0,0,
+157,,27.85762,85.10386,48.0,False,True,primary,NH42,Devighat (देवीघाट),0,0,
+158,,27.98241,85.10178,48.0,False,True,unclassified,,Bungtang (बुङताङ),0,0,
+159,,27.85785,85.10475,95.0,False,False,primary,NH42,Devighat (देवीघाट),0,0,
+160,,27.85802,85.10617,95.0,False,True,primary,NH42,Devighat (देवीघाट),0,0,
+161,,27.85976,85.10605,92.0,False,True,residential,,Devighat (देवीघाट),0,0,
+165,,27.77458,85.10973,50.0,False,False,track,,Kewalpur (केवलपुर),0,0,
+141,,27.8519,85.07459,47.0,False,False,primary,NH42,Ratmate (रातमाटे),0,0,
+169,,27.79809,85.11442,49.0,False,True,unclassified,,Kumari (कुमारी),0,0,
+129,,27.74535,85.06007,141.0,False,False,unclassified,30DR021,Mahadev Besi (महादेव बेसी),0,0,
+130,,27.85805,85.05918,331.0,False,True,track,,Ratmate (रातमाटे),0,0,
+131,,27.74434,85.06531,38.0,False,True,track,,Thakre (थाक्रे),0,0,
+132,,27.86125,85.06712,74.0,False,False,unclassified,28A015R,Ratmate (रातमाटे),0,0,
+133,,27.86222,85.0682,48.0,False,False,unclassified,,Ratmate (रातमाटे),0,0,
+134,,27.75027,85.07134,43.0,False,True,track,,Thakre (थाक्रे),0,0,
+135,,27.74956,85.07181,88.0,False,True,trunk,NH17,Thakre (थाक्रे),0,0,
+136,,27.74964,85.07278,68.0,False,False,trunk,NH17,Thakre (थाक्रे),0,0,
+138,,27.74932,85.07473,94.0,False,True,trunk,NH17,Thakre (थाक्रे),0,0,
+139,,27.85496,85.07238,13.0,False,False,unclassified,,Ratmate (रातमाटे),0,0,
+167,,27.85879,85.10996,44.0,False,True,residential,,Devighat (देवीघाट),0,0,
+453,,27.78097,85.57693,48.0,False,False,track,,Phatakshila (फटकसिला),0,0,
+454,,27.77954,85.57754,48.0,False,False,track,,Phatakshila (फटकसिला),0,0,
+455,,27.77404,85.5843,134.0,False,False,track,,Phatakshila (फटकसिला),0,0,
+456,,27.76216,85.59086,48.0,False,False,secondary,F30,Phatakshila (फटकसिला),0,0,
+457,,27.75224,85.59952,95.0,False,False,track,,Tallo Bazar,0,0,
+458,,27.74971,85.60073,46.0,False,False,track,,Tallo Bazar,0,0,
+459,,27.88206,85.6127,46.0,False,False,tertiary,23DR005,Kotgau Thatidada (कोटगाउँ ठाटी डाँडा),0,0,
+460,,27.88252,85.6132,49.0,False,False,unclassified,,Kotgau Thatidada (कोटगाउँ ठाटी डाँडा),0,0,
+462,,27.89674,85.61801,46.0,False,False,unclassified,,Panchpokhari Thangpal (पाँचपोखरी थाङपाल),0,0,
+80,,27.80371,84.98241,49.0,False,True,unclassified,,MaheshDovan (महेश-दोभान),0,0,
+107,,27.83298,85.02369,44.0,False,False,primary,NH42,Kalleri (कल्लेरी),0,0,
+1,4,28.12545,84.8534,48.0,False,False,unclassified,NH44,Soti Khola,0,13,"Bupchet, Dobhan, Jagat, Jagat Bagar, Keraunja, Khanibesi, Khorlabesi, Lapu Besi"
+424,,27.76565,85.42386,50.0,False,False,track,,Sundarijal (सुन्दरीजल),0,0,
+14,4,28.19229,84.8738,26.0,False,True,unclassified,NH44,Lapu,0,10,"Bupchet, Dobhan, Jagat, Jagat Bagar, Keraunja, Khanibesi, Khorlabesi, Machhakhola"
+13,,27.81017,84.88071,198.0,False,True,unclassified,,Gajuri (गजुरी),0,0,
+12,,27.92035,84.87527,50.0,False,False,unclassified,,Pasupati Bus Park Chowk,0,0,
+11,,27.80837,84.87365,198.0,False,True,unclassified,,Gajuri (गजुरी),0,0,
+10,,27.87419,84.86945,49.0,False,False,secondary,NH43,Ghorle Sunwara Tole,0,0,
+9,,27.97775,84.86743,49.0,False,True,unclassified,30DR005,Chaampbhanjyang Bazzar (चाम्पभञ्ज्याङ बजार),0,0,
+7,,27.86646,84.86723,73.0,False,False,unclassified,,Kalidaha (कालिदह),0,0,
+4,,28.13267,84.85604,100.0,False,True,track,36DR042,Soti Khola,0,0,
+3,4,28.13701,84.85513,39.0,False,True,unclassified,NH44,Soti Khola,0,12,"Bupchet, Dobhan, Jagat, Jagat Bagar, Keraunja, Khanibesi, Khorlabesi, Lapu Besi"
+81,,27.80273,84.98324,192.0,False,True,track,,MaheshDovan (महेश-दोभान),0,0,
+108,,27.83408,85.02369,188.0,False,True,track,,Kalleri (कल्लेरी),0,0,
+109,,27.84491,85.02405,48.0,False,False,primary,NH42,Taruka (तारुका),0,0,
+65,,27.81698,84.95787,38.0,False,True,track,,Keurintar Village,0,0,
+69,,27.81179,84.96626,42.0,False,True,track,,Keurintar Farm Land,0,0,
+70,,27.80983,84.96822,147.0,False,True,track,,Keurintar Farm Land,0,0,
+72,,28.03046,84.96447,50.0,False,False,unclassified,30DR013,Kintang Phedi,0,4,"Darkha (दर्ख), Khaniyabash (खनियाबास), Kintang Phedi, Satyadevi (सत्यदेवी)"
+75,,27.80755,84.97042,46.0,False,True,track,,Keurintar Farm Land,0,0,
+76,,28.03674,84.96759,46.0,False,True,unclassified,30DR013,Kintang Phedi,0,0,
+83,,27.80462,84.98345,148.0,False,True,unclassified,,MaheshDovan (महेश-दोभान),0,0,
+84,,27.80084,84.98433,102.0,True,False,trunk,NH17,MaheshDovan (महेश-दोभान),0,8,"Adamghat, Adamghat (आदमघाट), Archale Village, Keurintar Village, Keurintar Village Area, MaheshDovan (महेश-दोभान), Mastar (मासटार), Pida (पिडा)"
+85,,27.80466,84.98637,432.0,False,True,track,,Baireni (बैरेनी),0,0,
+452,,27.83248,85.57345,49.0,False,False,secondary,F30,Melamchi (मेलम्ची),0,2,"Dongdhing (डोङढिङ), Helambu (हेलम्बु)"
+89,,27.92431,84.98698,49.0,False,True,unclassified,,Dhuwakot (धुवाकोट),0,0,
+91,,27.7986,85.00131,46.0,False,False,trunk,NH17,Galchhi (गल्छी),0,0,
+94,,27.8077,85.0149,49.0,False,True,primary,NH42,Kalleri (कल्लेरी),0,0,
+95,,27.80857,85.01497,98.0,False,True,primary,NH42,Kalleri (कल्लेरी),0,0,
+98,,27.82679,85.02006,143.0,False,True,unclassified,,Kalleri (कल्लेरी),0,0,
+100,,27.83947,85.02173,2028.0,False,False,track,,Kalleri (कल्लेरी),0,0,
+101,,27.84574,85.02046,306.0,False,True,track,,Taruka (तारुका),0,0,
+102,,27.83705,85.02099,635.0,False,False,track,,Kalleri (कल्लेरी),0,0,
+31,,28.41026,84.89187,99.0,False,True,unclassified,,Chisopani,0,0,
+450,,27.78793,85.57048,47.0,False,False,secondary,F30,Bansbari (बाँसबारी),0,0,
+451,,27.78131,85.57109,40.0,False,False,secondary,F30,Phatakshila (फटकसिला),0,0,
+86,,27.95041,84.98379,440.0,False,True,tertiary,30DR015,gahate,0,0,
+238,,28.01155,85.18161,46.0,False,True,unclassified,NH42,Shanti Bazar (शान्ति बजार),0,0,
+239,,28.01732,85.18573,2922.0,False,False,unclassified,NH42,Shanti Bazar (शान्ति बजार),0,0,
+240,,27.99135,85.18307,3509.0,True,False,track,NH42,Naubisephat (नौविसे फाँट),0,0,
+241,,27.99459,85.18248,44.0,False,True,unclassified,,Manakamana (मनकामना),0,0,
+244,,28.01119,85.18504,320.0,False,True,track,,Shanti Bazar (शान्ति बजार),0,0,
+245,,27.97698,85.1893,48.0,False,True,unclassified,,Betrawati (बेत्रावती),0,0,
+246,3,28.02836,85.19119,49.0,False,True,unclassified,NH42,Simle (सिम्ले),0,3,"Gogne (गोगने), Mailung (मैलुङ), Simle (सिम्ले)"
+247,3,28.03128,85.19299,540.0,False,True,unclassified,NH42,Simle (सिम्ले),0,2,"Gogne (गोगने), Mailung (मैलुङ)"
+248,3,28.03852,85.19305,967.0,True,False,unclassified,NH42,Dandagaun (डाँडागाउँ),0,2,"Gogne (गोगने), Mailung (मैलुङ)"
+249,,27.88338,85.19935,42.0,False,True,unclassified,,Dangmai (दाङमाई),0,0,
+152,,27.74701,85.09437,40.0,False,False,track,,Juge Khola (जङ्गेखोला),0,0,
+251,3,28.05143,85.20355,93.0,False,False,unclassified,NH42,Chipleti (चिप्लेटी),0,2,"Gogne (गोगने), Mailung (मैलुङ)"
+252,,28.07576,85.2046,49.0,False,True,track,,Mailung (मैलुङ),0,0,
+216,,27.76677,85.16428,49.0,False,True,unclassified,,Jiwanpur (जिवनपुर),0,0,
+217,,27.89038,85.16314,97.0,False,True,track,,Bidur (बिदुर),0,0,
+218,,27.89037,85.16502,48.0,False,False,track,,Bidur (बिदुर),0,0,
+219,,27.95173,85.16392,287.0,False,True,primary,NH42,Bhainse (भैंसे),0,0,
+220,,27.95381,85.16437,144.0,False,True,primary,NH42,Bhainse (भैंसे),0,0,
+223,,27.89131,85.16814,78.0,False,True,track,,Bidur (बिदुर),0,0,
+224,,27.89178,85.16956,48.0,False,True,track,,Bidur (बिदुर),0,0,
+225,,27.88893,85.17049,151.0,False,True,track,,Bidur (बिदुर),0,0,
+227,,27.88744,85.17238,18.0,False,True,track,,Madanpur (मदानपुर),0,0,
+250,3,28.05047,85.20269,93.0,False,True,unclassified,NH42,Chipleti (चिप्लेटी),0,2,"Gogne (गोगने), Mailung (मैलुङ)"
+42,,27.78007,84.91865,96.0,False,False,track,,Ghatbesi (घाटबेंसी),0,0,
+44,,27.7989,84.9217,288.0,False,False,track,,Ghatbesi (घाटबेंसी),0,0,
+45,,28.00642,84.92147,154.0,False,True,unclassified,,Chhapthok (छापथोक),0,0,
+46,,28.00538,84.92128,82.0,False,True,unclassified,,Chhapthok (छापथोक),0,0,
+47,,28.00546,84.92319,95.0,False,True,unclassified,30DR013,Chhapthok (छापथोक),0,4,"Darkha (दर्ख), Khaniyabash (खनियाबास), Kintang Phedi, Satyadevi (सत्यदेवी)"
+253,3,28.05602,85.20773,1078.0,True,True,unclassified,NH42,Chipleti (चिप्लेटी),0,2,"Gogne (गोगने), Mailung (मैलुङ)"
+254,3,28.06823,85.20485,2996.0,True,False,unclassified,NH42,Mailung (मैलुङ),0,2,"Gogne (गोगने), Mailung (मैलुङ)"
+255,3,28.07461,85.20883,281.0,False,False,unclassified,NH42,Mailung (मैलुङ),0,1,Gogne (गोगने)
+256,,27.85566,85.21231,50.0,False,True,unclassified,,Chaturale (चतुराले),0,0,
+257,,28.0748,85.21205,1046.0,False,True,unclassified,,Mailung (मैलुङ),0,0,
+2,4,28.12717,84.85345,48.0,False,False,unclassified,NH44,Soti Khola,0,13,"Bupchet, Dobhan, Jagat, Jagat Bagar, Keraunja, Khanibesi, Khorlabesi, Lapu Besi"
+237,,27.9726,85.18376,464.0,False,True,track,,Betrawati (बेत्रावती),0,0,
+261,,27.83564,85.21799,96.0,False,True,track,,Jurethum (जुरेथूम),0,0,
+262,,27.75215,85.22074,48.0,False,True,unclassified,,Thulo khola,0,0,
+263,,28.07806,85.2173,262.0,False,False,unclassified,,Mailung (मैलुङ),0,0,
+264,,28.07991,85.21925,200.0,False,True,unclassified,,Gogne (गोगने),0,0,
+265,3,28.08229,85.22094,148.0,False,True,unclassified,NH42,Gogne (गोगने),0,1,Gogne (गोगने)
+266,,28.08276,85.22581,899.0,False,True,unclassified,,Gogne (गोगने),0,0,
+267,,27.77569,85.22821,50.0,False,True,track,,Banchare Danda (बन्चरे डाँडा),0,0,
+268,,27.77547,85.22972,32.0,True,False,residential,,Banchare Danda (बन्चरे डाँडा),0,0,
+269,,27.77369,85.23058,26.0,True,True,unclassified,,Banchare Danda (बन्चरे डाँडा),0,0,
+235,,27.9919,85.18107,146.0,False,False,unclassified,,Manakamana (मनकामना),0,0,
+236,,27.99181,85.18146,297.0,False,False,track,,Naubisephat (नौविसे फाँट),0,0,
+260,3,28.07908,85.21659,889.0,False,False,unclassified,NH42,Gogne (गोगने),0,1,Gogne (गोगने)
+53,,27.80447,84.94104,98.0,False,True,trunk,NH17,Adamghat,0,0,
+55,,27.81143,84.9431,189.0,False,True,track,,Adamghat (आदमघाट),0,0,
+56,,27.81389,84.94404,218.0,False,True,track,,Adamghat (आदमघाट),0,0,
+57,,27.92848,84.94708,99.0,False,False,tertiary,30DR015,Shoraghara (सोरघर),0,0,
+58,,27.81417,84.94948,118.0,False,True,residential,,Adamghat (आदमघाट),0,0,
+59,,27.81211,84.95075,86.0,False,False,track,,Pida (पिडा),0,0,
+60,,27.81412,84.95108,96.0,False,True,residential,,Mastar (मासटार),0,0,
+61,,27.8134,84.95144,148.0,True,True,track,NH17,Mastar (मासटार),0,3,"Adamghat, Adamghat (आदमघाट), Pida (पिडा)"
+62,,27.92892,84.95227,99.0,False,True,unclassified,,Shoraghara (सोरघर),0,0,
+170,,27.86745,85.11429,464.0,False,True,track,,Devighat (देवीघाट),0,0,
+228,,27.96624,85.1736,1115.0,False,True,unclassified,28A019R,Bhainse (भैंसे),0,0,
+174,,27.87423,85.11838,99.0,False,True,track,,Pipaltar (पिपलटार),0,0,
+175,,27.87102,85.11843,658.0,False,False,track,,Pipaltar (पिपलटार),0,0,
+178,,27.76317,85.12265,48.0,False,True,track,,Kewalpur (केवलपुर),0,0,
+179,,27.76232,85.12523,242.0,False,True,track,,Kumari (कुमारी),0,0,
+181,,27.76199,85.12881,48.0,False,True,unclassified,,Kumari (कुमारी),0,0,
+182,,27.92919,85.13378,68.0,False,True,unclassified,,Bhyagute (भ्यागुते),0,0,
+184,,27.92853,85.13406,49.0,False,True,tertiary,NH03,Bhyagute (भ्यागुते),0,0,
+188,,27.90078,85.13631,47.0,False,True,unclassified,,Batār Bāzār (बटार बजार),0,0,
+190,,27.90296,85.14033,784.0,False,True,track,,Batār Bāzār (बटार बजार),0,0,
+149,,27.74725,85.08928,95.0,False,False,trunk,NH17,Kewalpur (केवलपुर),0,0,
+150,,27.7476,85.08925,39.0,False,False,track,,Kewalpur (केवलपुर),0,0,
+172,,27.87182,85.11493,1058.0,True,True,track,,Devighat (देवीघाट),0,0,
+231,,27.98384,85.17717,48.0,False,True,unclassified,,Naubisephat (नौविसे फाँट),0,0,
+232,,27.77132,85.181,58.0,False,True,unclassified,,Jiwanpur (जिवनपुर),0,0,
+233,,27.98568,85.17898,94.0,False,True,unclassified,,Naubisephat (नौविसे फाँट),0,0,
+234,,27.99043,85.18043,49.0,False,False,track,,Naubisephat (नौविसे फाँट),0,0,
+63,,27.92876,84.95361,99.0,False,True,unclassified,,Shoraghara (सोरघर),0,0,
+192,,27.906,85.13784,49.0,False,False,unclassified,,Batār Bāzār (बटार बजार),0,0,
+193,,27.765,85.142,33.0,False,True,unclassified,,Kumari (कुमारी),0,0,
+196,,27.9299,85.14812,312.0,False,True,track,,Nawākot (नुवाकोट),0,0,
+198,,27.92747,85.14893,481.0,False,False,unclassified,,Nawākot (नुवाकोट),0,0,
+199,,27.93491,85.14982,96.0,False,True,service,,Bhyagute (भ्यागुते),0,0,
+200,,27.93119,85.15066,129.0,False,True,track,,Nawākot (नुवाकोट),0,0,
+52,,27.80313,84.934,47.0,False,False,track,,Adamghat,0,0,
+202,,27.93427,85.15255,463.0,False,True,track,,Bhyagute (भ्यागुते),0,0,
+203,,27.92692,85.15178,187.0,False,True,track,,Nawākot (नुवाकोट),0,0,
+204,,27.93615,85.15258,92.0,False,True,service,,Bhyagute (भ्यागुते),0,0,
+207,,27.93838,85.15467,148.0,False,False,unclassified,,Bhyagute (भ्यागुते),0,1,Betrawati (बेत्रावती)
+209,,27.9402,85.15681,40.0,False,False,unclassified,,Bhyagute (भ्यागुते),0,1,Betrawati (बेत्रावती)
+214,,27.76655,85.16404,37.0,False,True,track,,Jiwanpur (जिवनपुर),0,0,
+191,,27.91509,85.13838,966.0,False,True,track,,Batār Bāzār (बटार बजार),0,0,
+48,,28.01472,84.92244,30.0,False,False,unclassified,30DR004,Chhapthok (छापथोक),0,0,
+49,,28.01018,84.92373,241.0,False,True,unclassified,,Chhapthok (छापथोक),0,0,
+50,,28.01932,84.92424,98.0,False,False,unclassified,30DR004,Baguwabesi (बगुवा बेसी),0,0,
+51,,27.79986,84.93001,98.0,False,False,trunk,NH17,Adamghat,0,1,Kiranchok (किरनचोक)
+201,,27.92897,85.1509,186.0,False,True,track,,Nawākot (नुवाकोट),0,0,

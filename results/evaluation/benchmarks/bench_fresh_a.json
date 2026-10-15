@@ -1,0 +1,269 @@
+{
+ "sahuka_2025": {
+  "event": "sahuka_2025",
+  "group": "fresh",
+  "rows": {
+   "final": {
+    "f1": 0.775,
+    "prec": 0.68,
+    "rec": 0.9,
+    "km2": 354.93,
+    "out_km2": 59.29,
+    "from_log": true
+   },
+   "final|S2D": {
+    "f1": 0.756,
+    "prec": 0.7,
+    "rec": 0.82,
+    "km2": 307.64,
+    "out_km2": 43.97,
+    "from_log": true
+   },
+   "oct10": {
+    "f1": 0.757,
+    "prec": 0.64,
+    "rec": 0.92,
+    "km2": 403.4,
+    "out_km2": 82.23,
+    "from_log": true
+   },
+   "unspider": {
+    "f1": 0.735,
+    "prec": 0.74,
+    "rec": 0.73,
+    "km2": 257.12,
+    "out_km2": 36.31,
+    "from_log": true
+   },
+   "otsu": {
+    "f1": 0.706,
+    "prec": 0.72,
+    "rec": 0.69,
+    "km2": 253.43,
+    "out_km2": 40.99,
+    "from_log": true
+   },
+   "s1_rule": {
+    "f1": 0.648,
+    "prec": 0.75,
+    "rec": 0.57,
+    "km2": 209.16,
+    "out_km2": 38.03,
+    "from_log": true
+   },
+   "s1x": {
+    "f1": 0.72,
+    "prec": 0.77,
+    "rec": 0.68,
+    "km2": 232.54,
+    "out_km2": 33.54,
+    "from_log": true
+   },
+   "radar_ai": {
+    "f1": 0.759,
+    "prec": 0.7,
+    "rec": 0.83,
+    "km2": 310.34,
+    "out_km2": 44.34,
+    "from_log": true
+   },
+   "optical_ai": {
+    "f1": 0.728,
+    "prec": 0.73,
+    "rec": 0.72,
+    "km2": 273.66,
+    "out_km2": 54.19,
+    "from_log": true
+   },
+   "ai_union": {
+    "f1": 0.776,
+    "prec": 0.68,
+    "rec": 0.9,
+    "km2": 357.77,
+    "out_km2": 60.73,
+    "from_log": true
+   }
+  },
+  "ref_km2": 223.54,
+  "ext_km2": 723.3,
+  "secs": 425
+ },
+ "larkana_2022": {
+  "event": "larkana_2022",
+  "group": "fresh",
+  "rows": {
+   "final": {
+    "f1": 0.842,
+    "prec": 0.89,
+    "rec": 0.8,
+    "km2": 874.13,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "final|S2D": {
+    "f1": 0.647,
+    "prec": 0.97,
+    "rec": 0.49,
+    "km2": 482.97,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "oct10": {
+    "f1": 0.857,
+    "prec": 0.9,
+    "rec": 0.82,
+    "km2": 875.99,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "unspider": {
+    "f1": 0.709,
+    "prec": 0.88,
+    "rec": 0.59,
+    "km2": 650.3,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "otsu": {
+    "f1": 0.706,
+    "prec": 0.95,
+    "rec": 0.56,
+    "km2": 567.13,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "s1_rule": {
+    "f1": 0.402,
+    "prec": 0.85,
+    "rec": 0.26,
+    "km2": 296.13,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "s1x": {
+    "f1": 0.348,
+    "prec": 0.93,
+    "rec": 0.21,
+    "km2": 221.81,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "radar_ai": {
+    "f1": 0.667,
+    "prec": 0.97,
+    "rec": 0.51,
+    "km2": 505.11,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "optical_ai": {
+    "f1": 0.835,
+    "prec": 0.88,
+    "rec": 0.79,
+    "km2": 862.68,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "ai_union": {
+    "f1": 0.864,
+    "prec": 0.88,
+    "rec": 0.84,
+    "km2": 920.99,
+    "out_km2": 0.0,
+    "from_log": true
+   }
+  },
+  "ref_km2": 962.38,
+  "ext_km2": 1553.1,
+  "secs": 617
+ },
+ "kurigram_2017": {
+  "event": "kurigram_2017",
+  "group": "fresh",
+  "rows": {
+   "final": {
+    "f1": 0.431,
+    "prec": 0.81,
+    "rec": 0.29,
+    "km2": 246.5,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "final|S2D": {
+    "f1": 0.477,
+    "prec": 0.83,
+    "rec": 0.34,
+    "km2": 274.51,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "oct10": {
+    "f1": 0.143,
+    "prec": 0.49,
+    "rec": 0.08,
+    "km2": 114.68,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "unspider": {
+    "f1": 0.214,
+    "prec": 0.8,
+    "rec": 0.12,
+    "km2": 104.63,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "otsu": {
+    "f1": 0.255,
+    "prec": 0.86,
+    "rec": 0.15,
+    "km2": 117.19,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "s1_rule": {
+    "f1": 0.247,
+    "prec": 0.81,
+    "rec": 0.15,
+    "km2": 122.84,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "s1x": {
+    "f1": 0.137,
+    "prec": 0.77,
+    "rec": 0.07,
+    "km2": 66.05,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "radar_ai": {
+    "f1": 0.487,
+    "prec": 0.83,
+    "rec": 0.35,
+    "km2": 284.31,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "optical_ai": {
+    "f1": 0.066,
+    "prec": 0.6,
+    "rec": 0.04,
+    "km2": 39.53,
+    "out_km2": 0.0,
+    "from_log": true
+   },
+   "ai_union": {
+    "f1": 0.498,
+    "prec": 0.8,
+    "rec": 0.36,
+    "km2": 308.7,
+    "out_km2": 0.0,
+    "from_log": true
+   }
+  },
+  "ref_km2": 679.72,
+  "ext_km2": 1395.7,
+  "secs": 657
+ }
+}
