@@ -34,22 +34,12 @@ with HAND < 80 m. Model probabilities are averaged, and the maximum across orbit
 also average eight rotations and reflections. CPU runs omit this augmentation, which means the two paths can give
 different probabilities. Inference runs on a 10 m grid, while Kuro Siwo pixels in EPSG:3857 are approximately 7–9 m.
 
-## Kuro Siwo test exposure
+## Radar evaluation
 
-Four early variants were compared on the test split during development. Two of them remain in the radar ensemble.
-The later choices used validation and development-event scores, but the test results below were already observed
-and are reported with that exposure.
-
-| Variant | Flood F1 | Mean IoU | Used in the ensemble |
-|---|---|---|---|
-| `r34_imnet_v1` | 0.780 | 0.745 | No |
-| `r34_scratch_v1` | 0.787 | 0.742 | No |
-| `r34_scratch_v2` | 0.789 | 0.752 | Yes |
-| `r50_scratch_v2` | 0.788 | 0.750 | Yes |
-
-The early comparison informed the choice between random and ImageNet initialisation. The validation scores gave the
-same ordering. Neither the third radar member nor the ensemble has a later Kuro Siwo test score. The stand-alone
-radar maps on the three locked events have mean F1 0.115 over the reference extent and 0.190 below HAND 40 m.
+Four radar variants were compared on the Kuro Siwo test split when selecting encoder initialisation, and two
+remain in the ensemble. The ResNet-34 and ResNet-50 members have flood F1 0.789 and 0.788, respectively;
+these scores include that use of the test split. Neither the third member nor the complete ensemble has a
+subsequent Kuro Siwo test score.
 
 ## Optical model
 
@@ -71,14 +61,13 @@ split.
 | Sen1Floods11 test | 0.833 | 0.909 | 0.937 | 0.883 |
 | Bolivia | 0.796 | 0.886 | 0.903 | 0.870 |
 
-The recorded metrics are in `results/evaluation/s2ai_r34_v1_final_metrics.json`. Adding optical new water to the
-combined flood map increased mean F1 on the 12 development events by 0.0066, with a paired 90% interval from
+Adding optical new water to the combined flood map increased mean F1 on the 12 development events by 0.0066, with a paired 90% interval from
 0.0001 to 0.0138. On large plains the optical new-water mask is combined with the radar water prediction.
 
 ## Event selection and overlap
 
-Model weights were not trained on the development or locked flood events. However, the radar ensemble, adaptation
-settings and flood thresholds were selected on development-event scores, including Trishuli. The reported development scores include that selection. The locked Thame run provides a Himalayan event that was not used for those choices.
+Model weights were not trained on the development or test flood events. However, the radar ensemble, adaptation
+settings and flood thresholds were selected on development-event scores, including Trishuli. The reported development scores include that selection. The Thame test run provides a Himalayan event that was not used for those choices.
 
 Ahr 2021 shares a storm with the Kuro Siwo Belgium training event and Netherlands validation event, approximately
 85–120 km away. The basins do not share labelled pixels, though a radar pass can cover both. Kuro Siwo's event
