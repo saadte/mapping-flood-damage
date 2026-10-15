@@ -175,7 +175,7 @@ cd docs/report
 tectonic REPORT.tex
 ```
 
-Keep the two JPEG figures and four PDF plots beside `REPORT.tex`. The command produces `REPORT.pdf`.
+Keep the referenced figures beside `REPORT.tex`. The command produces `REPORT.pdf`.
 To regenerate the plots from the recorded results, install `matplotlib` and run
 `python docs/report/plot_results.py` from the repository root.
 
